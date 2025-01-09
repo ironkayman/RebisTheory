@@ -304,7 +304,31 @@ Judging by same reference to Maulos and his implied shadow-damaging powers of th
 
 Nameless Realm is mentioned in the description of the [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak): `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all.` (desc: [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak)).
 
-At that very point the implied duality of the phrase above must be kept in mind, as this is the first instance a theme of duality present within Spiral Knights cosmology.
+At that very point the implied duality of the phrase above must be kept in mind, as this is the first instance a theme of alchemy presented within Spiral Knights' cosmology. Precisely, the concept of the Nameless Relam is one reminiscent of alchemical First Matter:
+
+```md
+The “treasure hard to attain,” whose presence was suspected in the
+dark prima materia, is symbolized by the alchemists in various ways.
+Christopher of Paris, for instance, says that the chaos (as prima materia)
+is the work of all-wise nature. Our understanding ... , aided by
+the “celestial and glowing spirit,” must transform this natural work of art
+—chaos—into the celestial nature of the quintessence, and into the life-
+giving (vegetabilis) essence of heaven. The precious substance is
+potentially contained in this chaos as a massa confusa of all the elements
+rolled into one, and man must diligently apply his mind to it so that “our
+heaven” may come into reality (ad actum).
+
+... the earth (as prima materia) is not
+a dead body, but is inhabited by a spirit that is its life and soul. All
+created things, minerals included, draw their strength from the earth-
+spirit. This spirit is life, it is nourished by the stars, and it gives
+nourishment to all the living things ... This invisible spirit is like
+the reflection in a mirror, intangible, yet it is at the same time the root of
+all the substances necessary to the alchemical process or arising
+therefrom (radix nostrorum corporum).
+
+- "Psychology and Alchemy" - Carl Jung
+```
 
 #### Void
 
@@ -355,7 +379,7 @@ We suggest, that the mention of the erratic energy signatures is related to the 
 
 Weather those mentioned earlier categories of energy could be traced back to a universal medium, one potentially represented by the designs of the Whitespace within the Core, remains a open question.
 
-##### Spiral Order and Energy
+##### Spiral Order, Energy, and intoduction to Alchemy
 
 Based on [Kora's dialogue](https://wiki.spiralknights.com/Welcome_to_Haven!#Dialogue): `... Lastly I need to get you up to speed on something called 'energy.' It's very important to your mission here on Cradle ...`, it can be argued that the concept of energy might be unique to Cradle, but based on presence of mentioned energy symbol across Spiral Order equipment, such as turrets and handguns, it might be rather that the low ranking members of Spiral Order simply don't have access or the information about the energy. That could be a plausible solution, considering Spiral Order is a military organization, and, by extensions, Isorians, as they are in a state of existential war with Morai, and they managed to exist for a long period of time, as evident by celestial set: `This suit was once worn by Isorian starfarers of eons long passed that stood watch over extrasolar operations`(desc: [Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)).
 
@@ -374,7 +398,61 @@ We will refer to this variation of energy symbol as inverted for the sake of sim
 
 Here, we would prose a potential link of energy and Spiral Order to the alchemy, based on the [Alchemy for Begginers](https://wiki.spiralknights.com/Alchemy_for_Beginners) mission description and dialogue: `Alchemy is a craft mastered by the Spiral Knights that allows for the inherent powers of various materials to awaken and fuse with each other in order to form powerful, new items! The Spiral Order has relied on alchemy as their primary means of creating the very arsenals that Knights have relied upon for centuries.`, `That's because every time you transmute an item through alchemy, there is a chance you can get one of several Unique Variants that makes your item much more powerful!` (desc: [Alchemy for Begginers - Bosco](https://wiki.spiralknights.com/Alchemy_for_Beginners#Dialogue)).
 
-Considering that initially transmutation of gear had required energy, we can make a guess that, as Spiral Order was familiar to alchemy, so energy was not a foreign concept.
+We will consider this in-universe concept of alchemy as one inspired by the real-world many western and eastern interpretations of alchemy, while preserving the core concepts, found there, and modernized in the sci-fi setting.
+
+A quote from the english translation of Carl Jung's "Psychology and Alchemy":
+
+```md
+Alchemy, as is well known, describes a process of chemical
+transformation and gives numberless directions for its accomplishment.
+Although hardly two authors are of the same opinion regarding the exact
+course of the process and the sequence of its stages, the majority are
+agreed on the principal points at issue, and have been so from the earliest
+times, i.e., since the beginning of the Christian era.
+
+...
+
+The alchemical opus deals in the main not just with chemical
+experiments as such, but with something resembling psychic processes
+expressed in pseudochemical language. The ancients knew more or less
+what chemical processes were; therefore they must have known that the
+thing they practised was, to say the least of it, no ordinary chemistry.
+
+If the
+alchemist is admittedly using the chemical process only symbolically,
+then why does he work in a laboratory with crucibles and alembics? And
+if, as he constantly asserts, he is describing chemical processes, why
+distort them past recognition with his mythological symbolisms?
+
+This puzzle has proved something of a headache to many an honest
+and well-meaning student of alchemy. On the one hand the alchemist
+declares that he is concealing the truth intentionally, so as to prevent
+wicked or stupid people from gaining possession of the gold and thus
+precipitating a catastrophe. But, on the other hand, the same author will
+assure us that the gold he is seeking is not—as the stupid suppose—the
+ordinary gold (aurum vulgi), it is the philosophical gold or even the
+marvellous stone, the lapis invisibilitatis (the stone of invisibility), or the
+lapis aethereus (the ethereal stone), or finally the unimaginable
+hermaphroditic rebis, and he will end up by saying that all
+recipes whatsoever are to be despised.
+
+For psychological reasons,
+however, it is highly unlikely that the motive prompting the alchemist to
+secrecy and mystification was consideration for mankind. Whenever
+anything real is discovered it is usually announced with a flourish of
+trumpets. The fact is that the alchemists had little or nothing to divulge in
+the way of chemistry, least of all the secret of goldmaking.
+
+The real nature of matter was unknown to the
+alchemist: he knew it only in hints. In seeking to explore it he projected
+the unconscious into the darkness of matter in order to illuminate it. In
+order to explain the mystery of matter he projected yet another mystery—
+his own unknown psychic background—into what was to be explained:
+Obscurum per obscurius, ignotum per ignotius! This procedure was not,
+of course, intentional; it was an involuntary occurrence.
+```
+
+This introduces a notion of Spiral Order alchemy being a studied and predictable phenomenon, a complete inverse of its real-world counterpart. With this, considering that, initially, transmutation of gear had required energy, and then Orbs of Alchemy, we can make a guess that, as Spiral Order was familiar to alchemy, so energy was not a foreign concept to them.
 
 #### Whitespace
 
