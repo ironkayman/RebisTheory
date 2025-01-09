@@ -55,7 +55,7 @@ Although general description of the timeline will remain linear, some topics and
   - [Preface](#preface)
     - [Document structure](#document-structure)
   - [The Timeline](#the-timeline)
-    - [Chapter `I`: Cosmology](#chapter-i-cosmology)
+    - [**Chapter `I`: Cosmology**](#chapter-i-cosmology)
       - [Material Realm](#material-realm)
       - [Underworld](#underworld)
       - [Apocrean Realm](#apocrean-realm)
@@ -65,16 +65,16 @@ Although general description of the timeline will remain linear, some topics and
       - [Void](#void)
         - [Swarm](#swarm)
       - [Energy](#energy)
-        - [Spiral Order and Energy](#spiral-order-and-energy)
+        - [Spiral Order, Energy, and introduction to Alchemy](#spiral-order-energy-and-introduction-to-alchemy)
       - [Whitespace](#whitespace)
       - [Dragons](#dragons)
       - [Creation Myth](#creation-myth)
-    - [Chapter `II`: Establishment of Undercorp](#chapter-ii-establishment-of-undercorp)
+    - [**Chapter `II`: Establishment of Undercorp**](#chapter-ii-establishment-of-undercorp)
       - [Maulos and Hail beast-deity](#maulos-and-hail-beast-deity)
       - [Vile Deity](#vile-deity)
         - [Graveyards](#graveyards)
       - [Dark Cities](#dark-cities)
-    - [Chapter `III`: Ancient Titans](#chapter-iii-ancient-titans)
+    - [**Chapter `III`: Ancient Titans**](#chapter-iii-ancient-titans)
       - [Tortodrones' Creators](#tortodrones-creators)
         - [Gremlin Scenario](#gremlin-scenario)
         - [Devilite Scenario](#devilite-scenario)
@@ -83,7 +83,7 @@ Although general description of the timeline will remain linear, some topics and
       - [Symbolism of Stone and Titans](#symbolism-of-stone-and-titans)
       - [Veiled Tortodrone Homeland](#veiled-tortodrone-homeland)
       - [Extinction of Dragons](#extinction-of-dragons)
-    - [Chapter `IV`: Valkyries of Heavenly Kingdom](#chapter-iv-valkyries-of-heavenly-kingdom)
+    - [**Chapter `IV`: Valkyries of Heavenly Kingdom**](#chapter-iv-valkyries-of-heavenly-kingdom)
       - [War of Dragons and Valkyries](#war-of-dragons-and-valkyries)
       - [Castles](#castles)
       - [Architecture](#architecture)
@@ -93,7 +93,7 @@ Although general description of the timeline will remain linear, some topics and
       - [Stone Constructs](#stone-constructs)
         - [Lumbers as Constructs](#lumbers-as-constructs)
       - [Howlitzers and Dragons](#howlitzers-and-dragons)
-    - [Chapter `V`: Isorians](#chapter-v-isorians)
+    - [**Chapter `V`: Isorians**](#chapter-v-isorians)
       - [Symbolism and Dragons](#symbolism-and-dragons)
         - [Distinction of Spiral Order](#distinction-of-spiral-order)
       - [Technology, Alchemy, and Isorian Redesigns](#technology-alchemy-and-isorian-redesigns)
@@ -115,7 +115,7 @@ Although general description of the timeline will remain linear, some topics and
         - [Celestial Bomb](#celestial-bomb)
         - [Ghosts in the Machine](#ghosts-in-the-machine)
         - [Battlepods and Laser Technology](#battlepods-and-laser-technology)
-    - [Chapter `VI`: Arrival of Undercorp](#chapter-vi-arrival-of-undercorp)
+    - [**Chapter `VI`: Arrival of Undercorp**](#chapter-vi-arrival-of-undercorp)
       - [Ritual Circles](#ritual-circles)
         - [Summoning from Underworld](#summoning-from-underworld)
       - [Undercorp's Initial Advancements](#undercorps-initial-advancements)
@@ -141,7 +141,7 @@ Although general description of the timeline will remain linear, some topics and
         - [Cradle Festivals](#cradle-festivals)
       - [Analysis of Apocrean Realm](#analysis-of-apocrean-realm)
         - [Apocrean Engines](#apocrean-engines)
-    - [Chapter `VII`: Kingdom of Almire](#chapter-vii-kingdom-of-almire)
+    - [**Chapter `VII`: Kingdom of Almire**](#chapter-vii-kingdom-of-almire)
       - [Ironmight Kingdom](#ironmight-kingdom)
         - [Volcanic Elements](#volcanic-elements)
       - [Almire and Spirit Mother](#almire-and-spirit-mother)
@@ -167,14 +167,16 @@ Although general description of the timeline will remain linear, some topics and
         - [Valkyrian Scenario](#valkyrian-scenario)
         - [Identity of Valkyries](#identity-of-valkyries)
         - [Analysis of Forgotten Time](#analysis-of-forgotten-time)
+        - [Celestial Kingdoms](#celestial-kingdoms)
         - [Knights of the Rose](#knights-of-the-rose)
         - [Fallen Valkyrian](#fallen-valkyrian)
-    - [Chapter `VIII`: Kat Tribe](#chapter-viii-kat-tribe)
+    - [**Chapter `VIII`: Kat Tribe**](#chapter-viii-kat-tribe)
       - [Seige of the Academy](#seige-of-the-academy)
       - [Nature of Owlite Tomes](#nature-of-owlite-tomes)
         - [Magical Auras](#magical-auras)
         - [Causes of Kataclysm](#causes-of-kataclysm)
       - [Aftermath](#aftermath)
+        - [Dark Ritual and Nefarious Imp](#dark-ritual-and-nefarious-imp)
         - [Warding Candles](#warding-candles)
       - [Grimalkin](#grimalkin)
         - [Maskeriath](#maskeriath)
@@ -183,13 +185,13 @@ Although general description of the timeline will remain linear, some topics and
         - [Inversion of Curse](#inversion-of-curse)
       - [Mooncroft Manor past Heavenly Kingdom](#mooncroft-manor-past-heavenly-kingdom)
       - [Seraphynx](#seraphynx)
-    - [Intermission: Analysis of Curse](#intermission-analysis-of-curse)
+    - [**Intermission: Analysis of Curse**](#intermission-analysis-of-curse)
       - [Metaphysical Restriction](#metaphysical-restriction)
       - [Physical Transformation](#physical-transformation)
       - [Immortality](#immortality)
       - [Alchemical Transmutation](#alchemical-transmutation)
-    - [Chapter `IX`: Gremlin Empire](#chapter-ix-gremlin-empire)
-      - [Great Colony](#great-colony)
+    - [**Chapter `IX`: Gremlin Empire**](#chapter-ix-gremlin-empire)
+      - [Great Colony and Iron Law](#great-colony-and-iron-law)
       - [Gremlin Physiology](#gremlin-physiology)
       - [Gremlin Military-Idustrial Complex](#gremlin-military-idustrial-complex)
         - [Mecha Knight Factories](#mecha-knight-factories)
@@ -200,7 +202,7 @@ Although general description of the timeline will remain linear, some topics and
         - [Compound 42 and Slime Generators](#compound-42-and-slime-generators)
         - [Camp Crimson and Prisons](#camp-crimson-and-prisons)
         - [Complex 357](#complex-357)
-        - [Cradle Weapons](#cradle-weapons)
+        - [Cradle Defenses](#cradle-defenses)
         - [The Collector](#the-collector)
         - [Electron Vortex](#electron-vortex)
         - [Gremlin Incenerators](#gremlin-incenerators)
@@ -216,36 +218,50 @@ Although general description of the timeline will remain linear, some topics and
         - [Diegesis of Explosive Blocks](#diegesis-of-explosive-blocks)
         - [Toxigels, Oilers, Toxoils](#toxigels-oilers-toxoils)
         - [Quicksilver Lichens](#quicksilver-lichens)
-        - [Rabid Snarbolax, Undercorp, and Vile Deity](#rabid-snarbolax-undercorp-and-vile-deity)
         - [Node Field](#node-field)
         - [Starlight Cradle and Ancient Titans](#starlight-cradle-and-ancient-titans)
         - [Ice Queen](#ice-queen)
       - [Mending Rune and Gremlin Emblem](#mending-rune-and-gremlin-emblem)
-      - [Clockworks](#clockworks)
-        - [Power Complex and Artifact](#power-complex-and-artifact)
+      - [Clockworks and Magitek](#clockworks-and-magitek)
+        - [Undead Dreadnoughts](#undead-dreadnoughts)
+        - [Alchemy](#alchemy)
+        - [The Prima Materia](#the-prima-materia)
+        - [King Tinkinzar](#king-tinkinzar)
+        - [Divine and Whitespace Clockworks](#divine-and-whitespace-clockworks)
         - [Gremlin Conlang](#gremlin-conlang)
-      - [Whitespace](#whitespace-1)
+        - [Artifact, Console, and a Hatch](#artifact-console-and-a-hatch)
+      - [Core Terminal](#core-terminal)
+      - [Shadow Lairs](#shadow-lairs)
+        - [Miasma](#miasma)
+        - [True Citadel of Almirian Empire](#true-citadel-of-almirian-empire)
+        - [Causality](#causality)
+      - [Alchemical Symbolism of Shadow Lairs: Great Work and Rebis](#alchemical-symbolism-of-shadow-lairs-great-work-and-rebis)
       - [The Swarm](#the-swarm)
-      - [Hunger of the Void](#hunger-of-the-void)
-      - [Herex, Madness, Resonance, and the Truth](#herex-madness-resonance-and-the-truth)
-      - [Vision of Clockworks](#vision-of-clockworks)
-      - [Betrayal](#betrayal)
-      - [Red King and White Queen](#red-king-and-white-queen)
+        - [Location of a Breach into the Core](#location-of-a-breach-into-the-core)
+        - [Sleeper's Location, Sanctuary, and Refuge](#sleepers-location-sanctuary-and-refuge)
+        - [The World](#the-world)
+        - [The Dream](#the-dream)
+        - [The Pact](#the-pact)
+        - [The Void](#the-void)
+        - [The Resonance](#the-resonance)
+        - [The Madness](#the-madness)
       - [Rebis Theory](#rebis-theory)
-    - [Chapter `X`: Spiral Knights](#chapter-x-spiral-knights)
-      - [`DEPTH 0`: Skylark](#depth-0-skylark)
-      - [`DEPTH 2`: Reincarnation through Battle sprite](#depth-2-reincarnation-through-battle-sprite)
+    - [**Chapter `X`: Spiral Knights**](#chapter-x-spiral-knights)
+      - [`DEPTH 0`: Crash Site](#depth-0-crash-site)
+      - [`DEPTH 2`: Battle Sprites](#depth-2-battle-sprites)
         - [Evo Catalysts](#evo-catalysts)
       - [`DEPTH 3`: The Collector](#depth-3-the-collector)
-      - [`DEPTH 8`: Resurrection of Margrel, behind the Grim Gates](#depth-8-resurrection-of-margrel-behind-the-grim-gates)
+      - [`DEPTH 8`: Moorcroft Manor](#depth-8-moorcroft-manor)
       - [`DEPTH ???`: Shadow Lairs](#depth--shadow-lairs)
       - [`DEPTH 29`: The Path Is Revealed](#depth-29-the-path-is-revealed)
-      - [`DEPTH 30`: THE CORE](#depth-30-the-core)
-    - [Epilogue: Fiction and Narrative Satisfaction](#epilogue-fiction-and-narrative-satisfaction)
-  - [Acklowledgements](#acklowledgements)
-    - [Spiral Knights Subreddit](#spiral-knights-subreddit)
-    - [Spiral Knights Forums](#spiral-knights-forums)
-  - [Sources](#sources)
+      - [`DEPTH 30`](#depth-30)
+        - [Sanctuary](#sanctuary)
+        - [Orbs of Alchemy](#orbs-of-alchemy)
+    - [Afterword](#afterword)
+- [Acklowledgements](#acklowledgements)
+  - [Spiral Knights Subreddit](#spiral-knights-subreddit)
+  - [Spiral Knights Forums](#spiral-knights-forums)
+- [Sources](#sources)
 
 ---
 
@@ -379,7 +395,7 @@ We suggest, that the mention of the erratic energy signatures is related to the 
 
 Weather those mentioned earlier categories of energy could be traced back to a universal medium, one potentially represented by the designs of the Whitespace within the Core, remains a open question.
 
-##### Spiral Order, Energy, and intoduction to Alchemy
+##### Spiral Order, Energy, and introduction to Alchemy
 
 Based on [Kora's dialogue](https://wiki.spiralknights.com/Welcome_to_Haven!#Dialogue): `... Lastly I need to get you up to speed on something called 'energy.' It's very important to your mission here on Cradle ...`, it can be argued that the concept of energy might be unique to Cradle, but based on presence of mentioned energy symbol across Spiral Order equipment, such as turrets and handguns, it might be rather that the low ranking members of Spiral Order simply don't have access or the information about the energy. That could be a plausible solution, considering Spiral Order is a military organization, and, by extensions, Isorians, as they are in a state of existential war with Morai, and they managed to exist for a long period of time, as evident by celestial set: `This suit was once worn by Isorian starfarers of eons long passed that stood watch over extrasolar operations`(desc: [Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)).
 
@@ -2378,7 +2394,7 @@ Then there are Antigua upgrades with imagery of a bird:
   - the `shadow-aligned handgun of incredible power` wording, stated the nature of the handgun, as it deals shadow damages, but also suggests that shadow damages is that incredible power, considering this damage type being far more unnatural compared to the rest.
   - The bird imagery, likely a hawk, also links us back to the elemental line of Antigua above.
 - `An ancient handgun forged from shadow steel. It is said to have been wielded by an evil one who possessed "angel eyes".` (desc: [Sentenza](https://wiki.spiralknights.com/Sentenza)). Shadow steel originates from the Underworld, and, as the handgun's design suggests, it was made near the same period of time as the all of the above with bird imagery. This duality can potentially link us to [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen). But, before that, another element of gun specificity should be covered, that of Gunslinger alchemy path.
-- [Chilling Duelist](https://wiki.spiralknights.com/Chilling_Duelist) is of the same design as the rest of Antigua alchemy tree, with the addition of ice, which may be attributed to elemental materials the gun is alhcemized from. It is acquired from the [Delux Starter Pack](https://wiki.spiralknights.com/Deluxe_Starter_Pack), which also conrains [Tri-Guard Set](https://wiki.spiralknights.com/Tri-Guard_Armor): `A special suit of armor designed specifically for knights on first recon of alien planets. This rugged suit protects against a variety of harsh elements.` The armor seems more medieval compared to the rest, which might attibute it to an earlier period of time of Isorian history.
+- [Chilling Duelist](https://wiki.spiralknights.com/Chilling_Duelist) is of the same design as the rest of Antigua alchemy tree, with the addition of ice, which may be attributed to elemental materials the gun is alchemized from. It is acquired from the [Delux Starter Pack](https://wiki.spiralknights.com/Deluxe_Starter_Pack), which also contains [Tri-Guard Set](https://wiki.spiralknights.com/Tri-Guard_Armor): `A special suit of armor designed specifically for knights on first recon of alien planets. This rugged suit protects against a variety of harsh elements.` The armor seems more medieval compared to the rest, which might attribute it to an earlier period of time of Isorian history.
 
 Gunslingers' sets have a similarity to the Antigua line, specifically the [gunslinger sash](https://wiki.spiralknights.com/Gunslinger_Sash) has mention of `forgotten time`: `Clothing worn by pistol-packing warriors from a forgotten time.` (desc: [gunslinger sash](https://wiki.spiralknights.com/Gunslinger_Sash)), as well as [Silversix](https://wiki.spiralknights.com/Silversix): `... these handguns are said to have been wielded by 'gunslinger priests' during a now forgotten time.`
 
@@ -2930,8 +2946,6 @@ The theme of this duality will be explored in the next section, fully deriving f
 So it is established how curse manifests itself in the material realm. What if this concept to be expanded upon by asking a single question: how would curse manifest itself, if it to be presented to the Nameless Realm? How this concept of metaphysical restriction would behave itself when introduced to physics of a realm, which is the source of all energy, the foundation of the universe and souls? How this pocket of energy would be transformed, if taken in account such entities as Snarbolax, Lord Vanaduke, Margrel, and Maoulos, or even phantoms, who are all tangible entities native to material realm?
 
 <h1 align="center">Chapter <code>IX</code>: Gremlin Empire</h1>
-
-<!-- ### Chapter `IX`: Gremlin Empire -->
 
 Across the analysis we were noting different elements of gremlin technology, society, and what came of them. But in order to attain the fullest and deepest understanding of gremlin civilization, we need to analyze its history from several different perspectives in the similar manner as our previous discussions regarding tortomega, devilite, Isorian, and Owlite civilizations. Here, with all of the knowledge of those histories, which were eventually incorporated into Cradle, we can begin to arrange them within the context of Cradle and Clockworks.
 
@@ -3551,7 +3565,11 @@ Following this idea of alchemical symbolism and prior knowledge of magitek, we c
 
 Salt, in alchemy, in one of its many interpretation, is one of three primes. Essentially, it is one of elements from which all of matter is built. Yet, the more prominent ide of energy as omnipresent in its different forms relates to a different concept in alchemy of Prime Matter.
 
-Here we should note on the alchemy station across Cradle and Clockworks. Their design is of Clockworks rather than of Spiral Order. We have previously proposed, that the concept of energy and later of Spiral is a universal constant. This way we explained seemingly unrelated presence of energy - or salt - symbol on boh Isorian and Valkyrian armors. Through the identification of Forgotten time, we have also suggested a deeper relation between Isorians and celestial beings, which could've been Owlites in heavenly kingdom, their sharing of technology and designs. Then there was symbol of either orbs of alchemy or of alchemy itself, depicted on modern alchemy station and tomes of rage, descending from valkyries to a time of existing dragons. Those were the ideas of the more general concept of alchemy so deeply related to multiple civilizations. Then there is Sancturay Alchemy Station, which explicitly shows the familiar symbol.
+Here we should note on the alchemy station across Cradle and Clockworks. Their design is of Clockworks rather than of Spiral Order. We have previously proposed, that the concept of energy and later of Spiral is a universal constant. This way we explained seemingly unrelated presence of energy - or salt - symbol on both Isorian and Valkyrian armors. Through the identification of Forgotten time, we have suggested a deeper relation between Isorians and celestial beings, which could've been Owlites in heavenly kingdom, their sharing of technology and designs.
+
+Then there was symbol of orbs of alchemy. As it is depicted on modern alchemy station and tomes of rage, descending from valkyries to a time of existing dragons, we suspect it being a universal phenomenon of matter. Then there is Sancturay Alchemy Station, which explicitly shows this symbol.
+
+Orb os Alphemy are philosopher's stones, as they are the catalyst for the transmutation itself. But, their origins remains unknown, as they are uncraftable. Here, we have to look at their design, one of the same as Cradle, being contained in a golden frame. The interior of alchemy orbs is of bright lights, whose amount increases depending on the rarity of the orb. This theme of gold as a compound and lights we will keep in mind until the [Orbs of Alchemy section](#orbs-of-alchemy).
 
 ##### The Prima Materia
 
@@ -4043,34 +4061,27 @@ Based on the fact that slime generators were the reason behind knights unable to
 
       Due to this, Nature Sprites would be still present, but, absence of the console would not. Same applied for the Ice Queen, as her version of the Royal Jelly Palace also lacks the console. The only way to resolve this is to suggest that it was removed by actions of currently unknown actor, without leaning to a game direction and design reasons.
 
-#### Alchemical Symbolism of Shadow Lairs: Great Work, Red King, White Queen
+#### Alchemical Symbolism of Shadow Lairs: Great Work and Rebis
 
-Before proceeding, one important aspect of meta game design of Shadow Lairs should be looked at. It is concealed in the description of the alchemical process from the english translation of Carl Jung's "Psychology and Alchemy":
+We propose, that Shadow Lairs as a separate expedition, contain a thematic element to them, found through their symbolic themes relating to alchemy, but also the Void: `I DREAM... WITHIN MY DREAM I SAW IT OPEN THE VOID, FELT ITS ENDLESS HUNGER. YOU ARE SAFE HERE, KNIGHT. WITHIN THIS DREAM, ITS MANY EYES CANNOT SEE YOU NOR CAN ITS MANY ARMS REACH YOU.` (npc: [Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods)). We will suggest` an idea of this Void is one being related to the alchemical Void, until then we will mainly focus on the symbolism of Shadow Lairs' expeditions, as in regards to all things Swarm-related, any assumption can and likely will swing final conclusion into an area of speculation. So, due to this, we are not about to make distinct claims, but rather point out the symbolic elements.
+
+The notion of a descend into the Shadow Lairs, through the unknown Passag, into the Sanctuary, and acquisition of a rare material, unique to the lair is, we believe, is an alchemical metaphor for the process of creation of the Great Work, and of a particular kind. By that we mean, as the phenomenon of alchemy as of pseudo-chemistry is rooted from a projection of inner consciousness onto a physical world, its elements also become symbolic. The theme is concealed in the alchemical process itself, and its final goal, here described from the english translation of Carl Jung's "Psychology and Alchemy":
 
 ```md
-Here again we have a repetition of the coniunctio of Nous and
-Physis. But the latter is a cosmogonic event, whereas this is a
-catastrophe brought about by the intervention of the philosophers. So
-long as consciousness refrains from acting, the opposites will remain
-dormant in the unconscious. Once they have been activated, the regius
-filius—spirit, Logos, Nous—is swallowed up by Physis; that is to say, the
-body and the psychic representatives of the organs gain mastery over the
-conscious mind. In the hero myth this state is known as being
+In the hero myth this state is known as being
 swallowed up in the belly of the whale or dragon. The heat
 there is usually so intense that the hero loses his hair, i.e., he is reborn
 bald as a babe. This heat is the ignis gehennalis, the hell into
 which Christ descended in order to conquer death as part of his opus.
 The philosopher makes the journey to hell as a “redeemer.” The
-“hidden fire” forms the inner antithesis to the cold wetness of the sea. In
-the “Visio” this heat is undoubtedly the warmth of incubation,
-equivalent to the self-incubating or “brooding” state of meditation. In
-Indian yoga we find the kindred idea of tapas, self-incubation. The aim
-of tapas is the same as in the “Visio”: transformation and resurrection.
+“hidden fire” forms the inner antithesis to the cold wetness of the sea.
+
+...
 
 The “treasure hard to attain,” whose presence was suspected in the
 dark prima materia, is symbolized by the alchemists in various ways.
 Christopher of Paris, for instance, says that the chaos (as prima materia)
-is the work of all-wise nature. Our understanding (intellectus), aided by
+is the work of all-wise nature. Our understanding ... , aided by
 the “celestial and glowing spirit,” must transform this natural work of art
 —chaos—into the celestial nature of the quintessence, and into the life-
 giving (vegetabilis) essence of heaven. The precious substance is
@@ -4094,7 +4105,7 @@ which, when breathed into common quicksilver, changes it into gold.
 
 Ripley is of the opinion that the fire must be extracted from the chaos
 and made visible. This fire is the Holy Ghost, who unites father and
-son.64 He is often represented as a winged old man, i.e., Mercurius in
+son. He is often represented as a winged old man, i.e., Mercurius in
 the form of the god of revelation, who is identical with Hermes
 Trismegistus and, together with the King and the King’s Son, forms the
 alchemical trinity. God wrought this fire in the bowels of
@@ -4146,21 +4157,10 @@ the furnace and symbolizes the divine presence—succour and the
 completion of the work.
 ```
 
-Then, there are mentions of Spiral Order as ones intended to be present on Cradle:
-
-- asd
-
-We purpose, that Shadow Lairs serve as the metaphorical crucible for the creation of the Great Work of Prime Matter of arrived Isorians. That is, they are the metaphor for the Philosopher's Stone made of crucible of Cradle.
-
-The parallel is seen in the materials acquired in the Sanctuary depending on the Shdow Lair. Three prior represent the alchemical stages of the Freat Work - a metaphorical process of transformation of Prima Materia:
+And, through the four stages of alchemical process:
 
 ```md
-Alchemy, as is well known, describes a process of chemical
-transformation and gives numberless directions for its accomplishment.
-Although hardly two authors are of the same opinion regarding the exact
-course of the process and the sequence of its stages, the majority are
-agreed on the principal points at issue, and have been so from the earliest
-times, i.e., since the beginning of the Christian era. Four stages are
+Four stages are
 distinguished, characterized by the original colours mentioned
 in Heraclitus: melanosis (blackening), leukosis (whitening), xanthosis
 (yellowing), and iosis (reddening). This division of the process into four
@@ -4203,18 +4203,10 @@ have said, was omitted later. The rubedo then follows direct from the
 albedo as the result of raising the heat of the fire to its highest intensity.
 The red and the white are King and Queen, who may also celebrate their
 “chymical wedding” at this stage.
-```
 
-This symbolism is depicted in the Nighmare Mane - being the blackening, Celestial Ore - the whitening, and then to Gremlonium - the reddening. [Gremlonium](https://wiki.spiralknights.com/Gremlonium) - `A highly advanced compound created by gremlin engineers to power their most devious machines`, seems to be a red powder, which is the same as powder of projection in 12-step process of Magnus Opus.
+...
 
-Then Firestom Citadel serves as the fire of highest intensity, from which Maden's Tear, a sacred jewel, finally emerges. It is the representation of the reunion of 2 Isorian pasts - one of Isora, and one of Almire, - symbolized by the alchemical path of the Almirian Crusader set, as reunion of the known, or conscious, - Isora; and unknown, unconscious, - Almire.
-
-```md
-Such statements are intuitions about the paradoxical nature of the
-unconscious, and the only place where intuitions of this kind could be
-lodged was in the unknown aspect of things, be it of matter or of man.
-There was a feeling, often expressed in the literature, that the secret was
-to be found either in some strange creature or in man’s brain. The prima
+The prima
 materia was thought of as an ever-changing substance, or else as the
 essence or soul of that substance. It was designated with the name
 “Mercurius,” and was conceived as a paradoxical double being called
@@ -4239,7 +4231,7 @@ benison. She is crowned. The figure of God holding the orb is inscribed
 “Anima Seel” and “Jesse pater, filius et mater.” “Mater” refers to the
 Queen of Heaven enthroned beside him, the King; for in her the earth
 substance, becoming transfigured in her resurrected body, is absorbed
-into the Godhead.189 On the left is a bearded figure equal in rank to God
+into the Godhead. On the left is a bearded figure equal in rank to God
 the Father, inscribed “Sapientia Wyssheit.” In the shield below there is a
 picture of the rebis being freed from the prima materia.
 
@@ -4275,9 +4267,17 @@ that which they called the noble and blessed stone of the philosophers, on
 account of its hardness, transparency, and rubeous hue.
 ```
 
-The final component to the suggested arrangement is the idea of Red King and White Queen who through the metaphor of union create the divine Rebis. Within the cosmology of Spiral Knights there are such figures: the supposed genius gremlin king Tinkinzar, associated with the Crison Order, and Spirit Mother, which we propose to be an entity with in a Nameless Realm, which is, while represent dual chaos, prime matter on itself, through the connection to teh Nature Sprites is presented as a benevolent, light force, which can be consider as White - the White Queen.
+Here we are to apply this concept on Shadow Lairs, we propose a following correspondence.
 
-It is also here we should point out on the nature of the Void, as one of which almost all enemies across Clwockworks are created, from the Void, which is the Prime Matter. Yet, in the cosmology of Spiral Knights it is more nuanced. We will keep the Void in mind.
+Isorians crash land on Cradle due to their search of an energy source, which is the Core. Paralelling to it an idea introduced by knights starting to feel as if they were intended to crash land:
+
+-
+
+Then there are the materials. We suggest an existence of a parallel in the materials acquired in the Sanctuary depending on the Shdow Lair, and stages of the Work. The three prior materials represent the alchemical stages - a metaphorical process of transformation of Prima Materia. This symbolism is depicted in the Nighmare Mane - being the blackening, Celestial Ore - the whitening, and then to Gremlonium - the reddening. [Gremlonium](https://wiki.spiralknights.com/Gremlonium) - `A highly advanced compound created by gremlin engineers to power their most devious machines`, seems to be a red powder, which is the same as powder of projection in 12-step process of Great Work.
+
+Then, there is Maiden's Tear, it is a sacred jewel, and, we believe, in conjunction with the theme of fire due to traversal of the Shadow Firestorm Citadel, serves as the metaphorical crucible for the creation of the Great Work of Prime Matter, referring to Isorians, literally being forged - prepared, - to take on the Swarm. Firestom Citadel serves as the fire of `highest intensity`, from which Maiden's Tear, a sacred jewel, finally emerges. It is the representation of the reunion of 2 Isorian pasts - one of Isora, and one of Almire, - symbolized by the alchemical path of the Almirian Crusader set, as reunion of the known, or conscious, - Isora from where their thought-to-be-destined journey begins; and unknown, of the unconscious, of Almire.
+
+In additional, while potentially misleading, component to this proposal is the arrangement of Red King and White Queen who through the metaphor of union create the divine Rebis. Within the cosmology of Spiral Knights there are such figures: the supposed genius king Tinkinzar, associated with the Crison Order, and Spirit Mother, which we propose to be a divine and benevolent entity, closely related to Almire, who can be consider as White - the White Queen, is the unity of both requiring to achieve an enlightened or complete state of being. But, this endeavour would fail manifested as the Swarm, - currently a speculation, but one we will provide substance throughout the following analysis of the Swarm.
 
 #### The Swarm
 
@@ -4481,6 +4481,47 @@ Through this logic, we can propose, tha the entity suspected to help construct t
 
 ##### The Void
 
+Before further analysis we will elaborate on the alchemical meaning of the Void, as one being of the same nature as First Matter. In that context it is known as the Round Chaos:
+
+```md
+The prima materia has the quality of ubiquity: it can be found always
+and everywhere, which is to say that projection can take place always and
+everywhere. The English alchemist Sir George Ripley
+writes: “The philosophers tell the inquirer that birds and fishes bring us
+the lapis, every man has it, it is in every place, in you, in me, in
+everything, in time and space.” “It offers itself in lowly form [vili
+figura]. From it there springs our eternal water [aqua permanens].”
+According to Ripley the prima materia is water; it is the material
+principle of all bodies, including mercury. It is the hyle which the
+divine act of creation brought forth from the chaos as a dark sphere.
+The chaos is a massa confusa that gives
+birth to the stone. The hylical water contains a hidden
+elemental fire. In the treatise “De sulphure” hell-fire (ignis gehennalis)
+is attributed to the element earth as its inner opposite. According to
+Hortulanus, the stone arises from a massa confusa containing in itself all
+the elements. Just as the world came forth from a chaos
+confusum, so does the stone. The idea of the rotating aquasphere
+reminds us of the Neopythagoreans: in Archytas the world-soul is a circle
+or sphere; in Philolaos it draws the world round with it in its rotation.
+The original idea is to be found in Anaxagoras, where the nous gives rise
+to a whirlpool in chaos. The cosmogony of Empedokles is also relevant:
+here the σϕαīρος (spherical being) springs from the union of dissimilars,
+owing to the influence of ϕιλία. The definition of this spherical being as
+, “the most serene God,” sheds a special light on the
+perfect, “round” nature of the lapis, which arises from, and constitutes,
+the primal sphere; hence the prima materia is often called lapis.
+The initial state is the hidden state, but by the art and the grace
+of God it can be transmuted into the second, manifest state. ...
+It is the black,
+magically fecund earth that Adam took with him from Paradise, also
+called antimony and described as a “black blacker than black” (nigrum
+nigrius nigro).
+
+- "Psychology and Alchemy" - Carl Jung
+```
+
+Form this emerges a concept of god Mercurius, standing on the round chaos, or, the void. In this depiction, the void and round chaos preceding creation of gold, which is considered a divine metal. While, for now we won't relate or attempt to further connect it to the [Nameless Realm](#nameless-realm), we will keep this concept and alchemical - symbolic meaning, - in mind.
+
 Now we need a concrete nature of the Void, as it seems to be the catalyst for the transpiring events, relating to `IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT.` (Echo Stone: Ironclaw Munitions Factory).
 
 The Void is encountered physically once - as the identity of shadow enemies emerging from Swarm portals. The death of those entities signs at their distinct metaphysics, separate from the material realm.
@@ -4596,115 +4637,184 @@ Chaos cloak grants protection in the Nameless Realm, and is characterized by ele
 
 Divine avenger inverts the curse, transforming it to elemental damage, yet with prevalent Dread Seal symbolism. This was covered in the [Inversion of Curse](). This motif, encapsulated by the Avenger may be the exact lead we are searching for, due to to symbolism of gold in relation to divinity and as complementary color in Whitespace. A similar extrapolation was in the phenomenon of [glowing patterns on the Ancient Grove ruins](https://wiki.spiralknights.com/File:Area-March_of_the_Tortodrones-Ancient_Grove.png), outer carvings of [Tortofists](https://wiki.spiralknights.com/Grand_Tortofist), and inner surface of [tortoise shields](https://wiki.spiralknights.com/Grand_Tortoise), glow pattern of [Gran Faut](https://wiki.spiralknights.com/Gran_Faust) and [Volcanic Plate Shield](https://wiki.spiralknights.com/Volcanic_Plate_Shield). All of those items relate to Underworld.
 
-Due to this we can suggest, that Whitesapce is the divine, and stems from the nature of Nameless Relam as foundation of all existence. The chaos of the Nameless Realm is the Void, its aspect stemming from its duality.
+Due to this we can suggest, that Whitesapce is the divine, and stems from the nature of Nameless Relam as foundation of all existence. The chaos of the Nameless Realm is the Void, an aspect stemming from its duality. Due to Void and Nameless Realm being interpretations of Prime Matter, their duality, as of Prime Matter, seems fitting. The Nameless Realm incorporates the curse as curse emerges from it, same as the Underworld by virtue of being at least partially material. Opening the void then means introducing a primordial chaos to the ordered divine from the perspective of Sleeper, weather the void was opened in the Whitespace, which can be framed as the metaphor for chaos and order.
 
-Due to Void and Nameless Realm being interpretation of Prime Matter, their duality, as of Prime Matter, seems fitting. The Nameless Realm incorporates the curse as curse emerges from it, same as the Underworld by virtue of being at least partially material. Opening of the void then means introducing a chaotic element to the divine, which can be framed as the metaphor for chaos and order. It is then the nature of Swarm which encompasses it. As curse was encountered in large amount of shapes, forms, and manifestation, under a specific application it is plausible to manifest something unseen earlier from the different realm, one being the Void, while still being composed of its elements.
+It is then the nature of Swarm which encompasses all of it. As curse was encountered in large amount of shapes, forms, and manifestations, under a specific application it is plausible to manifest unseen earlier phenomenon. We propose that:
 
-__Swarm is an entity of Whitespace, given will guided by the curse, and amplified by the direct contact with the Void.__
+__The Swarm is a union of an entity of Whitespace, driven by a transformative nature of curse, and amplified by the direct contact with the Void.__
 
-Trough the primordial nature of the Void, the organic motif is incorporated into the divine themes of Whitespace, and manifested as the evil eye with an organic aspect - as the Swarm entity found in Dreams and Nightmares, The Path is Revealed.
+Through the primordial nature of the Void, the organic motif is incorporated into the divine themes of Whitespace, and manifested as the evil eye with an organic aspect - seen as the Swarm entity found in Dreams and Nightmares, The Path is Revealed.
 
-This theme of madness was seen before:
-
-- For the first time, Vanaduke became an immortal, more powerful, but cursed entity, existing in a constant battle for the Citadel
-- For the second time, Margrel, banished through usage of the Book of Grey Feathers, comes back as an entity devoid of thought, as the rest of Black Kats guided by instincts stemming from their past as natural entities, and yet immortal
-
-Now we will extrapolate this notion onto Herex and Architect.
-
-Refering to the alchemical lore, - Herex's goal is one of intentionally replicating a state of immortality, accidentally made before by past civilizations in the cases above. The process is flawed, which causes extermination of kingdoms, species, of banishments of civilizations. The immortality is the Magnum Opus, Great Work, the Philosopher's Stone and Elixir of Immortality, - the final goal of western alchemy, or the external alchemy, which, I believe, would fit gremlins' widespread usage of Alchemy, which we will also see in the Clockworks in the [Clockworks and Magitek section](#clockworks-and-magitek).
+Yet, this is a speculation without an argument. For this we are required to look at the greater narratives across the established timeline, as well as the idea of Architect's madness.
 
 ##### The Madness
 
-Returning to Architect's madness. We will follow with th proposal of king Tinkinzar being the Architect, one to live through existence of Cradle from its conception.
+Returning to Architect's madness. We will follow with the proposal of king Tinkinzar being the Architect, one to live through existence of Cradle from its conception.
 
-It is here we should finally look at the name of Clockworks. It includes a countdown, which we can only relate to a time Sleeper awakes. This fits into the idea of a Pact, and with the addition of divine themes, a pact with a deity.
+It is here we should finally look at the name of Clockworks. The name suggests, that it is a clock, and a countdown. Based of: `VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS. THIS WORLD HAS BECOME MY PRISON. IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT. TWISTING HIS CREATION INTO A GAME OF DEATH, IT NOW DEVOURS ALL WHO ENTER ITS IRON EMBRACE.` (npc: [Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)), we can suggest, that this term is referring to Sleeper's awakening. So, what should follow the awakening? As far as natural order goes, and its position in Whitesapce, essentially Nameless Realm, we can suggest a paradigm shift, which we belie, is the reason behind spirits returning to material realm.
 
-This is similar to a myth involving the concept of a philosopher-king. This makes us think of King Tinkinzar being inspired by the king Solomon and Solomon's madness in a context of failing to grasp alchemical truths.
+Then, there is a Pact, which, considering nature of Sleeper from the perspective of material realm, a supernatural, a Pact with a deity. while attempting to cross-reference the general structure of this narrative, we found a myth involving the concept of a philosopher-king and deities, which might serve as a basis for the story to be subverted within the story of the Architect.
 
-<!-- it could emerge from the realization, that immortality is reachable only through similar process of accepting the curse, indifferent ot the one's technological advancement, but this is a speculation. Here we can put faith into the kings decision to betray Sleeper, and interpret it as an attempt to conceal this revelation, as he approached it with near-infinite resources of completed Clockworks with an unlimited energy source at it's heart, not betraying a narrative of him being `great ruler and mechanical genius` (desc: [Bootshuze](https://wiki.spiralknights.com/Bootshuze)). -->
+The following concept is one of more general trope of a king's rule being taken over by a council of multiple figures, due to king's breakdown under an ambiguous, varying across myths and stories, reasons. But one particular example, which by itself serves as the foundation for such narrative, is the aforementioned concept of a philosopher-king, - king Solomon.
 
-If we look into parallels of king Tinkinzar and king Solomon, we arrive to the following:
+- The Architect, supposed to be king Tinkinzar, makes a Pact with an entity known as Sleeper.
 
-_King Solomon is renowned for his wisdom and his grand vision for building the Temple in Jerusalem. One of the most notable visions he had was a dream in which God appeared to him and offered to grant him anything he wished. Instead of asking for wealth or long life, Solomon asked for wisdom to govern his people justly. Pleased with his request, God granted him unparalleled wisdom, as well as wealth and honor._
+    Details of the Pact are vague, but, from our understanding, it has 2 essential elements: Sleeper had to be protected from the darkness in what ill eventually become Cradle and gremlins are to be placed in charge of Cradle's defenses (npc: `Once, the gremlins were in charge of maintaining Cradle's defenses. But they had their own plans.` - [Dream and Nightmares - Refuge - Parma's Scout](https://wiki.spiralknights.com/Dreams_and_Nightmares/Refuge)).
 
-_Additionally, Solomon’s vision for the Temple was ambitious and grand. He mobilized vast resources and labor to construct a magnificent temple, which became a central place of worship for the Israelites._
+    This seems as a beneficial act, as Sleeper would provide resources for initial construction of Clockworks, while gremlins do the work, in the process creating Great Colony. The Sleeper's resource we are referring to is the assistance to gremlins in construction of Clockworks in the form of matter-materializing entity, which would become the Swarm, as evident by the ability of Whitespace to manufacture solid matter out of nothing in the events of Unknown Passage, and potential creation of Divine/Whitespace Clockwork tunnels in [A Step Beyond]().
+- As all clans serve the Great Colony, and by proxy king Tinkinzar, we can suggest, that gremlin clan structure or at least the stained relation between them was not so prominent, as the rule was initially more stable, yet absolute, than it is found during the present game's events.
 
-The Pact required a transformation of Cradle to a planet-fortress to protect slumbering entity - the Sleeper - in exchange for Great Colony prosperity as it's people will be in charge of Cradle's defenses (desc: `Once, the gremlins were in charge of maintaining Cradle's defenses. But they had their own plans.` [Refuge - Parma's Scout](https://wiki.spiralknights.com/Refuge)). Crimson Order insignia has silver black and red colors, reminiscent of the Magnus Opus and it's stages, which [was covered](#alchemical-symbolism-of-shadow-lairs-great-work-red-king-white-queen) in relation to Shadow Lairs.
+    As gremlin clans located in their according stratums, forming the general territory of what could've been considered gremlin empire on across Clockworks, we can draw, that, with the delegation of factories to clans, such as Ironclaw Munitions Factory, the general stability of the civilization would not be of a concern, until a dispute arises.
 
-The process of projection would be used to transmute a lesser substance into a higher form - which alchemy orbs are used for, being catalysts for alchemy itself, philosopher's stones of different potency.
+    Such event, we propose, is the madness and disappearance of the king, and, with no king, reign had to be taken over by Crimson Order. Within this, more mythological interpretation, the statements as `King Tinkinzar alone upholds the Iron Law!` from the screens at Engines of War, would seem as maintenance of the status quo by the Iron Law.
+- The madness in question, then, if we are looking for its reason as external, should thematically be related to such entities as Nefarious Imp or Apocrea.
 
-Considering all of the above we suspect the cosmology of Spiral Knights being of both medieval alchemy inspirations, Lovescraftian Mythos and the Eastern cosmology. The Apocrea in this scenario is not only present within the Underworld, but integrates design-wise with the rest of the Underworld, like in the [Nefarious set](https://wiki.spiralknights.com/Nefarious_Raiment), where Apocrean hood, devilite sigils and the evil eye are all present. The madness to which Architect had to succumb, if framed into a cosmic horror, is the idea of the proposed cosmology and the identity of Darkness. In this, the only solution for would be to attempt to create an entity, capable of surpassing the eldritch nature though its incorporation, which is characterized by the Swarm.
+    Considering prior civilizations, - Owlites and Tortomega, - they seem to fall due to scheming of  Underworld. In the context of Sleeper, as it is one entity required to be protected from the darkness, we believe, is a hint at the nature of the madness. As it is stated: `Shadow damage is generally caused by concentrations of negative energy. Attacks that inflict shadow damage include anything from the psychic manipulation of the aforementioned negative energy to physical attacks using weapons forged from dark matter.` (npc: [The Shadow Knows - Hahn](https://wiki.spiralknights.com/The_Shadow_Knows)), which is by itself is an assault on the sentience, as, by proxy, dark matter: `A fabled mineral dark and ominous in color said to contain the essences of both chaos and nothingness.`
+
+    This seems as a hint to the induced nature of madness.
+
+Essentially, we are linking Tinkinzar's madness, themes of alchemical Great Work, a repeated pattern of civilizations crumbling to Underworld's presence and schemes, introduction of cosmic horror motifs, - to Swarm's creation, as one related to Underworld though the incorporation of curse into the narrative:
+
+- Presence of cosmic horror by its themes suspends the concept of "Truth" in the themes of cosmic incomprehensibility.
+
+    This theme introduces a justified motif of madness within the abstracted cosmic horror story. Based on the eldritch component of the narrative, it is revealing nature of truth as maddening by being a case of [going mad from the revelation](https://tvtropes.org/pmwiki/pmwiki.php/Main/GoMadFromTheRevelation). It is embodied by Herex and a later rank missions transition to this theme most recognized by seeming inexplicability of the Swarm.
+
+- The concept of king Tinkinzar, as we have proposed, to be linked to the trope of the trope of the philosopher-king, stemming from the king Solomon. Due to this we proposed an existence of a parallel between Tinkinzar's vision of Clockworks and Solomon's divine inspiration and vision of the First Temple.
+
+    Then it is the quote, - `IN HIS MADNESS, THE ARCHITECT BETRAYED THE PACT` (npc: [Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)), - which we suggest being here a deconstruction of Solomon's eventual end as God left him, with the full punishment following later, as the kingdom would be divided after Solomon's death. So is the idea of the Great Colony being then ruled over by the Crimson order, which followed after Tinkinzar's madness. The madness here, we suggest, holds the aspect of above motif of cosmic horror story.
+- Then, the last component - due to which, mainly, the entire timeline was reconstructed, - the pattern of Underworld's intervention first as a newfound source of power desired within the context of an isolated narrative.
+
+    It is represented by Titans falling to Undercorp, Owlites erased by Kataclysm, Almire falling due to Lord Vanaduke's actions, and several smaller narratives such as trojans, kat tribe, and Snarbolax, - all related to different iterations and manifestations of curse as both literal and metaphorical carrier of Underworld's presence. Then, by addition to each iteration of a greater scope of the narrative than previous - as Titans were set in the woods, as Almire was a kingdom eventually becoming and undead Empire, and as Owlites were set in the setting of the entirety of heavenly kingdom, gremlins are paired with an entire planet, while encompassing all of the prior, - this seems as a distinct narrative if framed in such manner.
+
+    Here a deconstruction of the concept of Underworld is presented through the identified actor, - a corporate entity - Undercorp, and by a more mysterious actor - Nefarious Imp, who we suspected to be related to Underworld's lingering presence on Cradle. Here, we believe, gremlins are fulfilling this role of the repeating patter, as they are known to work with Undercorp.
+
+Whith end of civilizations facing with the Underworld and falling, brought into the Clockworks as past histories, with high stakes, it would be fitting for the nature of this narrative's danger be the same, yet drawn to the extremes as far as the established metaphysics of the fictional Unverse would allow, without breaking the suspension of disbelief by an unpredictable force, which was written into the canon in the last moment.
+
+With all of those components, we suggest the justification behind introduction of curse to the story of Swarm's creation, as an ultimate failure to uphold the Pact struck with the Sleeper due to Underworld's influence. The madness aspect then is reinstated by the possible cosmic horror nature of truth/madness as one related to an already eldritch entity apart from alchemical Nameless Realm, that being Apocrea, and potentially channeled or represented through actions of a single entity, such as Nefarious Imp.
+
+As for the alchemical motifs, we seem them here as also subverted. Within this thought framework, it would be fitting to be the truth behind immortality as reason for induced madness - as the final goal of alchemy, - achieved either through curse, as seen prior, or alignment with the supposedly divine powers of the Sleeper, which would've been an explanation for Tinkinzar's longevity up until his madness, while following the idea of greater darkness endangering Sleeper.
+
+In that sense, referring to the alchemical lore, - Herex's goal is one of intentionally replicating a state of immortality, accidentally achieved before by past civilizations. The process is flawed and requires incorporation of curse, essentially a damnation, causing extermination of kingdoms and species as a consequence. Yet, it manages to follow general alchemical lore of immortality being the Magnum Opus, Great Work, the Philosopher's Stone and Elixir of Immortality, which, given interconnectedness of mechanical with magical in [Clockworks and Magitek](#clockworks-and-magitek), seems particularly conclusive.
+
+Arrival of Isorians being framed as fated seems to be a continuation of a concluded narrative within the nature of the game as one without a distinct end, but also as a final attempt to alchemically and symbolically redeem the past events in even greater stakes, as suggested by Sleeper: `WITHIN MY DREAM I SEE YOUR LEGION FALLING TO THIS WORLD LIKE BURNING STARS. YOU FALL WITH PURPOSE, BURNING EVER BRIGHTER AS YOU REACH FOR THE HEART OF THIS WORLD. HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE.` (npc: [Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone:_Royal_Jelly_Palace)).
 
 #### Rebis Theory
 
-Rebis theory proposes the existence of an alchemical framework, which constitutes a narrative at the foundation of interaction of the material realm, Nameless Realm or the Void, metaphysics of curse and Underworld as part of a unified cosmology through metaphors and interpretations of alchemical lore from western and eastern real-world understanding of Alchemy.
+Rebis theory proposes the existence of an alchemical framework, which constitutes a narrative at the foundation of interaction across the material realm, Nameless Realm, the Void, metaphysics of curse and Underworld, as parts of a unified cosmology through metaphors and interpretations of alchemical lore.
 
-Rebis theory proposes an existence of alchemical narrative within the story of Clockworks and Cradle. This alchemical narrative, a hermetic truth, serves as the foundation for the motifs of characters which operate within this set of physical laws, exploring potential ends of the Great Work in it's many instances across history of Cradle, Clockworks, planets and civilizations which were incorporated in it.
+Rebis theory proposes an existence of alchemical narrative within the story of Clockworks and Cradle. This alchemical narrative, a hermetic truth, serves as the foundation for the motifs of characters which operate within this set of physical laws, exploring potential ends of the Great Work in its many instances across history of Cradle, Clockworks, and civilizations which were incorporated into prior.
 
-But, to add up to this commonality, all of those civilizations share a failure to achieve Gret Work's completion, which in alchemy is represented by entity of Rebis - an abstraction of the result manifested by the completion of Magnum Opus. With each iteration, those attempts were layered upon each other, finalizing in creation of the Swarm - an entity representing the primordial chaotic aspect of Prime Matter.
-
-### Chapter `X`: Spiral Knights
+<h1 align="center">Chapter <code>X</code>: Spiral Knights</h1>
 
 >_"Should You Choose to Accept"_
 
 In this chapter we will cover entirety of the timeline from the very beginning.
 
-- In the beginning exists the Void, from it all matter originates. From it known cosmology originates in the form of Material realm, Nameless Relam, Underworld, and Apocrean Realm.
-- Those realms are located in a vertical stack, with Nameless Realm being at the top, followed by Material realm, Underworld, Apocrean Relam, and ending in the Void. All matter is energy, as well as souls. Souls originate from the Nameless Relam and manifest in the material realm as sentience and their auras as physical bodies.
-- From souls and sentience civilization emerge, the first being dragons. They were capable of traversing al realms without restrictions.
-- Then came valkyries, later be known as Owlites, but now they are celestials in the heavenly kingdom.
-- Valkyries slayed dragons, allowing for material realm to be created, leaving the Nameless Realm. The entity inhabiting it was one to become the Sleeper.
-- Then came Isorians, they developed separate from owlites.
-- Underworld and Apocrean Realm existed as separated realms. The main distinction was in the fact Apocrean Realm was aware of the general cosmology, and was located in proximity of Underword.
-- Underorld was shortly discovered by Isorians, which shaped their own culture and myths.
-- Isorains had encountered dragons and hunted them. With this power they eventually developed into an interstellar empire.
-- By that time dragons had descendants - drakes, wyverns and tortoises. Among them only tortoises developed into a civilization, known as tortomega.
-- Tortomega and Valkyries are warring civilization in the material realm. During this period tortomega would become known as titans. The relation between both is complex, which had its results. Primarily, floating castles were built by titans, which then would be inhabited by Valkyries. Those castles composed the heavenly kingdom.
-- In the end, tortomega were drawn into the woods during a prolonged war, where they discovered the Underworld
-- Underworld had a connection with the Apocrean Relam. By that point it contained full-fledged corporations, such as Undercorp.
-- As Titans found Underworld in a weakened state, under a lead of Nefarious Imp, both civilization in beneficial agreement managed to back up and developed graviton technology. By nature of the latter, it utilized souls as energy, coming from the Nameless Realm and settling in the material realm. Devilite cities are transported into material realm.
-- At some point, Undercorp betrays Titans and subdues them by the machinery of tortodrones, originally developed to assist Titans.
-- This causes the emergence of curse afflicted wildlife around the homeland of Titans, the Gloaming Wildwoods, creating the Snarbolax as an immortal bearer of curse.
-- Remaining Titans flee and fall into deep sleep, in order to hide and outlive the erasure of their civilization. The remaining tortodrones are left without their masters.
-- Isorians start a war across their colonies, now as a Spiral Order, leaving most of the civilization in ruin and without a sun. This causes all parties to search divine energy sources. One of such expeditions falls on planet later to become Cradle, wherein all technological advancements have no use.
-- Those Isorians develop a medieval civilization, which would eventually become the kingdom of Almire, kingdom of Ironmight, and of northerns settlements of raiders.
-- Near that time Underworld is found and Valkyries are made aware of it.
-- Fallen Valkyrian orchestrates a creation of a stone army, made of spiral wardens, which became Trojans of Legion of Ur. For this, Fallen Valkyrian is banished into the heavenly kingdom. With this, Trojans and Fallen Valkyrian, now known as Ur, conquer the Underworld.
-- Due to this, heavenly kingdom oversees the mountains, which connect to underworld, and through which Ur and his legion left material realm.
-- At that time a war between Ironmight kingdom and kingdom of Almire breaks out. It included northern raider to assist Ironmight kingdom. The war led to Almire's Fall and Lord Vanadukes leaving into mountains in search for myths, inherited from a war between Titans and Valkyries, including aftermath of Titan's erasure by Undercorp, and stories of legion of Ur.
-- Lord Vanaduke finds Underworld's chambers. Though lingering presence of Underworld, it cursed Lord Vanaduke, causing him to spread the curse - alien to material realm - as one measure of bringing Underworld into Material realm, assisting him with an Underworld army of trojans.
-- Lord Vanaduke returns, frees Almire, and conquers the territories of nearby Ironmight and of northern raiders. With this an undead Almirian Empire is founded.
-- Owlites, did not intervene with the Almire, instead relegate to researching it. From Owlite researches emerges a greater understanding of curse, as they discover true cosmology of the world.
-- Valkyries invade Underworld in order to purge it of trojans. They managed to seal the legion in the Underworld.
-- A tribe of Kats develops, they invade heavenly kingdom, specifically Owlite Academy, and through ill-usage of tome located there cause Kataclysm, erasing both civilization and taking part of Owlite Academy at the epicenter of the cataclysm into the realm close to the Underworld.
-- This state of affairs laster for a long time, until the planet was found by gremlin interstellar empire. Here the first contact wit the Sleeper was established, a divine entity, unprotected by heavenly kingdom, by king Tinkinzar.
-- The entity shows Tinkinzar a grand vision of what will become Cradle, devised to be a new home fot gremlins and a protection of the entity, known as Sleeper.
-- In this vision Clockworks would be built, being the embodiment of the Great Work for empire for many years.
-- The king reunites all warring gremlin clans, giving the most prosperous time for the empire, located in the Great Colony.
-- The Core, which would contain and protect Sleeper, introduced Nameless realm into the material realm in the form of Whitepace. This causes spirit to return to material realm, but severing Underworld, integrating Cradle deeper into the fabric of Universe.
-- This metaphysical shift causes fallen civilization to come back to life, forcing them to be contained within Clockworks. A such, graveyards of the Almirian Empire are now brought down in proximity of Underworld by the sheer amount of souls after a Almirian war.
-- Eventually the king succumbs to madness, which accompanied him in later years, resulting in Undercorp interfering, causing a curse to be applied at the nature of Nameless Realm, now present in material realm as the Whitespace.
-- This results in the foundation of Clockworks' building resource to be corrupted by curse, amplified and merged with the chaotic nature of the Void, which was accessible from the Nameless Realm, creating the Swarm.
-- As king was filing to madness, an Order of 9 members was formed to uphold his values after his passing - Crimson Order. Under the reign of Crimson Order, it establishes the Iron Law, as a measure of containing the Swarm at a cost of sealing the Core, which was the containment for Sleeper while in the material realm.
-- Morai vessel in their search for energy, stumbles onto Cradle and is shot down. Morai soldier are raised from the dead under Core's influence. As the Citadel, and as undead, they are contained.
+1. In the beginning exists the Void, from which all matter originates in the form of material realm, Nameless Relam, Underworld with the Vlinding Abyss, and Apocrean Realm.
 
-This, finally, leads to the events of the game.
+    Those realms are stacked on top of each other.
 
-#### `DEPTH 0`: Skylark
+    Nameless Realm is at top, followed by material realm, Underworld, Blinding Abyss, Apocrean Relam, and ending in the primordial Void. Within this cosmology all matter is a form of energy, including the souls. Souls specifically emerge from the Nameless Realm, and manifest in the material realm as consciousnesses and their auras as physical bodies.
+2. From souls and sentience civilizations emerge, the first one being dragons. They were capable of traversing al realms without restrictions.
 
-Skylark discovers Cradle, and is hit by gremlin shadow artillery, engineered by the Crimson Order's Warmaster, Seerus (as he is known to specialise in shadow technology, and one preparing Roarmulus Twins to invade Haven through Haven Arcade). This decition was made in order to prevent any possibility of the Swarm escaping.
+    In physiology, there were of divinity - elemental dragons, of frenzy - shadow dragons, and of rage - red dragons.
+3. Then came valkyries, later be known as Owlites, but now they are known as the celestial beings in the heavenly kingdom, located in the Nameless Realm.
+4. Valkyries slayed dragons, allowing for material realm to be created, and by that they left the Nameless Realm. That is the creation myth.
 
-Skylask crashlands, main generator broken with the seciondary generator moved to Strangers' Haven Lab, which remained at planet surface. Strangers persisted through Almire consflict, Katastropthe and emergence of Clockworks.
+    In the heavenly kingdom they were protectors of a realm and a deity residing within, later known as the Sleeper, from Underworld, manifested as darkness or curse.
 
-Skylark secondary generator has design similar to Arcade's Gate Pillars, as well as geacror left base, I'll skip the asset flip theory, focusing strictly on lore implication this similarity.
+5. Underworld develops by itself in isolation from the material realm.
 
-Alpha Squad begins a descend. Based on energy spike discovered at the Royal Jelly Palace and then at the Firestorm Citadel, with the Core openning at least twice, with the secind being the event of Dreams and nightmares, it is likely that the time Artifact was used in the RJP, was by the time Alpha Squad managed to descend to the Core Terminal, and, as in DaN, is hunted by the Swarm, attracted to the openning hatch from te Shadow Lairs
+    Underworld and Apocrean Realm exist as separated realms. The main distinction is in the fact Apocrean Realm was aware of the general cosmology by nature of being eldritch entities, and was located in proximity of Underword.
+6. Then came Isorians, they also developed on their own, yet from early history had encounters with dragons.
+7. Undeworld is shortly discovered by Isorians, which shaped their own culture and myths, of deities in the mountains.
+8. After some time, Isorains started hunting dragons. With this power they eventually developed into an interstellar empire.
+9. By that time dragons had descendants - drakes, wyverns and tortoises. Among them, only tortoises had developed into a civilization, known as tortomega upon the planet, which wold eventually become Cradle. Their homeland would be the now shattered Aurora Isles, with the rest of their territory located in the Gloaming Wildwoods.
+10. Tortomega and Valkyries are warring civilization in the material realm. During this period tortomega would become known as Titans. The relation between both is complex. Primarily, titans built floating castles for valkyries. Those castles composed the heavenly kingdom within the material realm.
 
-#### `DEPTH 2`: Reincarnation through Battle sprite
+    And yet, titans were pressed by valkyries back into the woods. where they discovered the Underworld.
+11. Underworld had a connection with the Apocrean Relam. By that point Underworld contained full-fledged corporations, such as Undercorp.
+12. As Titans uncovered Underworld, under a lead of Nefarious Imp, both civilization in beneficial agreement managed to back up and developed or likely introduced to material realm shadow graviton technology. By nature of the latter, it utilizes glyphs and souls to operate, which are at their core, energy.
+
+    Through further development of graviton technology, Grim Gates are built, though which devilite cities are transported into material realm. It is during this period of time tortodrones are build, powered by crimsonite.
+13. At some point, Undercorp betrays Titans and subdues them by the machinery of tortodrones, originally developed to assist Titans.
+
+    As Titans are at war with Undercorp, they break all connection with the Underworld through destruction of Grim Gates. This causes to curse to pour in in uncontrolled manner into the woods, afflicting wildlife of the Gloaming Wildwoods. Due to this, Snarbolax as an immortal bearer of curse, is born.
+
+    The Ancient Grove within the Wildwoods becomes Undercorp's staging area for the corrupted tortodrones.
+14. Remaining Titans flee in the remaining territories within the Aurora Isles and fall into deep sleep, in order to hide and outlive the erasure of their civilization. The remaining tortodrones are left without their masters.
+
+    This place where Titans had fallen to slumber will be known as Starlight Cradle.
+15. Isorians are now a spacefaring civilization with an established Spiral Order. Those spacefaring vessels came before any major colonies were established. One of such vessels falls on planet later to become Cradle, wherein all technological advancements have no use.
+16. On, essentially, Cradle, those stranded Isorians develop a medieval civilization, which would eventually become the kingdom of Almire, kingdom of Ironmight, and of northerns settlements of raiders.
+17. Near that time Underworld is found by Isorians for the second time and Valkyries are generally hold neutral. This epoch will be known as the forgotten time.
+
+    During this period of time some most ancient weapons would be created, which, by virtue, carried into the modern times, such as inherited from Titans heavy swords with an amount of inner elemental energy, gunpowder-powered handguns, and blades forged to slay the undead. Gunslinger priests they were called.
+
+    These designs would eventually be adopted by Valkyries, as it turns out, piercing weapons are effective against the Underworld fiends, and Isorians had only those in their disposal, due to lack of knowledge on underworld or of greater elemental powers.
+18. And yet, isorians presented a danger to Valkyrian rule, as they had their experience with the Underword.
+
+    One of Valkyrians driven by ambition of power of Underworld, orchestrates a creation of a stone army, made of spiral wardens. Those became Trojans of Legion of Ur. For this, Fallen Valkyrian is banished from the heavenly kingdom. With this plot uncovered, Fallen Valkyrian and trojans, now known as Legion of Ur, conquer the Underworld.
+19. Due to this, heavenly kingdom now oversees the mountains, within which an entrance to the Underworld is hidden.
+20. In contrast to nature of those mountains, a kingdom of Almire flourishes, as it is under the divine protection of Spirit Mother.
+
+    Near this kingdom, kingdom of Ironmight exists, which has in their disposal magical trees. From their wood one of most durable armors were created. And it was the kingdom to hold the economic power over the region.
+
+    Almire in that regard had their own developments. While being a kingdom generally attuned to nature, it found fiery elemental in the mountains.
+21. Through the proximity to Underworld's influence, fiendish cults had there development there, leading to crating of altars to those Underworld deities.
+22. As heavenly kingdom remain in the sky, a war between Ironmight kingdom and kingdom of Almire breaks out. Northern raider assisted Ironmight kingdom.
+23. The war led to Almire's Fall and Lord Vanadukes leaving into mountains in search for myths, inherited from a war between Titans and Valkyries, including aftermath of Titan's erasure by Undercorp, and stories of legion of Ur.
+24. As war went, apart from a cult of a volcanic deity, later known to be, likely, Vog, across graveyards a different cult emerges - of a nameless Vile deity, related to poisons and rot.
+25. As Almire's army was overpower, Lord Vanaduke flees into the volcanic mountains. There, he finds fiery cult's chamber.
+
+    It curses Lord Vanaduke, causing him to emerge from the mountains with an Underworld army of trojans.
+26. Lord Vanaduke returns, frees Almire of the invaders and conquers their lands. With this an undead Almirian Empire is founded.
+27. Valkyries invade Underworld in order to purge it of Legion of Ur, as they saw extent of their might. With this, they seal the Legion of ur in the Underworld.
+28. A tribe of Kats develops, they invade heavenly kingdom, specifically Owlite Academy, and through ill-usage of tomes located there, cause Kataclysm, erasing both civilizations.
+
+    Kataclysm takes part of Owlite Academy at the epicenter of the cataclysm into the realm close to the Underworld.
+29. This state of affairs lasts for a long time, until the planet was found by gremlin interstellar empire.
+
+    Here the first contact with the Sleeper was established by king Tinkinzar. Sleeper reveals itself as a ancient entity, unprotected by heavenly kingdom, yet capable of beneficial actions.
+30. Sleeper shows Tinkinzar a grand vision of what will eventually become Cradle, devised to be a new home for gremlins, as they protect it.
+31. In this vision Clockworks are built, utilizing both knowledge of elementals as well as more natural sciences.
+
+    The Core, which would contain and protect Sleeper, introduced Nameless Realm into the material realm in the form of contained Whitepace. Several control points are built to secure access to the Core, the Sanctuary.
+32. The king reunites all warring gremlin clans, giving the most prosperous time for the empire, located in the Great Colony.
+33. Eventually the king succumbs to madness, which accompanied him in later years, breaking the agreement.
+
+    Tinkinzar's madness is considered to be brought by Undercorp's intervention, specifically, Nefarious Imp. In the result, curse was be applied at the nature of Nameless Realm, now present in material realm as the Whitespace.
+
+    This transformation and introduction of curse results in the foundation of Clockworks' building resource to be influenced by curse, yet, due to it's nature of Nameless Relam, it was in greater proximity to the fundamental alchemical forces of the universe, tapping directly into the Void. Amplified and merged with the chaotic nature of the Void, the Swarm was created - an inverse of what it initially was.
+34. As king was succumbing to madness, an Order of 9 members, Crimson Order, was founded to uphold king's reign. Under the reign of Crimson Order Iron Law is established as a measure of containing the failing empire as well as the Swarm at a cost of sealing the Core, which imprisoned the Sleeper within its confinements.
+
+    Sealing of the Core creates a metaphysical shift, as departed spirit now return to material realm, but severing Underworld, and making graveyards from Almirian age far more dangerous. As fallen civilization came back to life, apart from eternally shrouded by curse Almire and Owlites, forcing them to be contained within Clockworks. As such, graveyards of the Almirian Empire are now brought down in proximity of Underworld by the amount of souls after Almirian-Ironmights war contained there and unable to depart.
+35. The Core is sealed, Core Terminal's passage is destroyed, and the device, the Artifact, used to activate thee consoles, is hidden.
+36. Across Isorian colonies a war erupts, leading to a prolonged conflict, known as the Morai Wars. This war leaves most of the civilization in ruins and without a sun. This causes all parties to search an unprecedented energy source.
+37. Morai vessel in their search for energy, stumbles onto Cradle and is shot down by its defenses. Morai soldier are raised from the dead under Core's influence. As the Citadel, and as undead, they are contained by gremlins.
+38. Lichen meteorite fall on Cradle, gremlins use slime's properties to bioengineer purposed organisms in the maintenance of Clockworks.
+39. Near a hundred years later, another, now Isorian vessel - Skylark, - would discover Cradle. Cradle's defenses strike Skylark down, causing it to crash land on Cradle's surface. This, finally, leads to the events of the game.
+40. Crimson Order member Herex is influenced by the same madness as one afflicted Tinkinzar, causing him to seek hidden Artifact.
+
+    It was retrieved, applied to the console in Owlite ruins now ruled by the Jelly King. After activation the Core had opened for a moment, exactly by the time Alpha Squad reached the Core Terminal in persuit of the Swarm, which felt the Core opening.
+
+    After that the Artifact was brought into the derelict facility below Rescue Camp near Haven Arcade, and Razwog was tasked to recharge the Artifact.
+
+#### `DEPTH 0`: Crash Site
+
+Skylark discovers Cradle, and is hit by gremlin shadow artillery. This decision was made in order to prevent any possibility of the Swarm escaping under the directive of Iron Law.
+
+Skylask crash lands, main generator broken with the secondary generator moved to Strangers' Haven Lab, which remained at planet surface. Strangers persisted through Almire conflict, Katastropthe and emergence of Clockworks.
+
+Skylark secondary generator has design similar to Arcade's Gate Pillars, as well as generator left base, I'll skip the asset flip theory, focusing strictly on lore implication this similarity.
+
+Alpha Squad begins a descend. Based on energy spike discovered at the Royal Jelly Palace and then at the Firestorm Citadel, with the Core opening at least twice, with the secind being the event of Dreams and nightmares, it is likely that the time Artifact was used in the RJP, was by the time Alpha Squad managed to descend to the Core Terminal, and, as in DaN, is hunted by the Swarm, attracted to the openning hatch from te Shadow Lairs
+
+#### `DEPTH 2`: Battle Sprites
 
 Spiral battle sprites are transformed into images of the past civilisation by the Core through same power of mirroring of the Swarm as it replicated/mirrored ancient places, transforming, but remain as constructs/potentially beiomechanical entities (desc: `Though their cellular identity is still wholly that of a battle sprite. My hypothesis is that somehow they rapidly evolved to survive in their new environment ...` [A Revelation in Flames/The Lab - Morlin](https://wiki.spiralknights.com/A_Revelation_in_Flames/The_Lab)).
 
-The fact that battle sprites were transfromed by the Energy of the Core while preserving their fundamental properties is proven by several points:
+The fact that battle sprites were transformed by the Energy of the Core while preserving their fundamental properties is proven by several points:
 
 - `... The energy signature I'm detecting is erratic, but still definitely a battle sprite ...  Something has happened to them, they've changed into some kind of creature ...` (desc: [A Revelation in Flames / Sunset Steppes - Rhendon](https://wiki.spiralknights.com/A_Revelation_in_Flames/Sunset_Steppes))
 
@@ -4720,15 +4830,13 @@ Crimson Order, at some point, constructed the Collector. As the Collector has sh
 
 Apart from construct dealing shadow damage, this explosion has graviton bomb antique evil eye image, also painted on the mechanical eye of the collector. Collcator's backpack has inverted ghostlink block symbol of an ryr, still pointing to a source of lights, same as with the ghostlink blocks
 
-#### `DEPTH 8`: Resurrection of Margrel, behind the Grim Gates
+#### `DEPTH 8`: Moorcroft Manor
 
 
 #### `DEPTH ???`: Shadow Lairs
 
-Unlike all, curse from Underworlf and whitespace of Nameless Realm
-
 The Core is the means of nameless realm entities exiting within the material realm, but it sets a precedent for undeworld, as it did many times, influence it over a common ground of the material realm.
-
+<!--
 
 
 
@@ -4744,7 +4852,7 @@ The Sanctuary Alchemy Machine, as the Mysterious Alchemy Station, have recipes S
 
 The symbol of alchemy in that regard, seem to belong to the nature of Whitespace, as no known machinery exists to manufacture Whitespace by gremlins, so, it is Sleeper's doing, which ties with the idea of the symbol of alchemy as one coming from the other realm. Here we also connect Spirit Mother's realm to Whitespace, as both contain sentience and relate to divinity. The distinction here is the nature of Whitespace as artificial transitory construction, which still allows for laws of material realm to exist - in a form of Clockwork technology. It is essentially a point off transition to the other realm in the same manner as graveyards and Owlite Academy are in the transitory state to the Underworld.
 
-The Void then is the chaos and nothingness of Prime Matter. It can be shaped into anything, but requires the prolonged process of transformation. So is the Nameless Realm, which should have been the alchemical Void.
+The Void then is the chaos and nothingness of Prime Matter. It can be shaped into anything, but requires the prolonged process of transformation. So is the Nameless Realm, which should have been the alchemical Void. -->
 
 <!-- its cpacity t replicate and to mirror is manifested as the regular firestorm citadel, while the Shdow citadel is the true one, with th efull pwer of the curse lingering? -->
 
@@ -4764,18 +4872,37 @@ The process of Core construction implies at least presence of the Core hatch, ac
 
 Backing to the Core, the Whitespace within has same element of clockwork tunnels being replaced by Whitespace tiles, as well as an entire skydome structure present within the Core ([Refuge](https://wiki.spiralknights.com/Refuge), [Sanctuary](https://wiki.spiralknights.com/Sanctuary), if believed to be located within the Core), that must also be kept in mind for the overarching themes. -->
 
-
 #### `DEPTH 29`: The Path Is Revealed
 
 The hatch and console logic recap
 
-#### `DEPTH 30`: THE CORE
+#### `DEPTH 30`
 
 Core and whitepsace
 
 nameless realm of dreaming entities - which create, origin of souls as raw energy, and it's opposite - apocrean realm whose inhabitants make nightmares, still create and are powered by souls, there souls die. The abyss just is?
 
 The Void is weaponized by the presence of curse originating from the Underworld. This prime matter itself has no will no intent and flows from Nameless Relam into the material, both as the source of all matter but also as souls for living beings. Those 2 forms of primal matter are all at their core energy. This energy, mainly in form of souls, after death in material realm, reaches Underworld, and from there - into the Blinding Abyss. Apocrea here is the middleman who lives on that same energy, yet it can't reach Nameless Relam. Then it acts through underworld, whose death-based nature manifests as curse, which though actions of gremlins, had affected pure energy of Nameless Realm. This caused gremlins to seal Swarm with the portion of Nameless Relam within the Core, wherein core served as an extractor of energy from nameless realm.
+
+##### Sanctuary
+
+##### Orbs of Alchemy
+
+Here we would return for the alchemy orbs and alchemy stations. With the knowledge of both energy in the setting, and of the vague nature of real-world alchemy, it being manifestations of energy in the same manner as fire crystals and minerals, but of higher order composition, for example, souls, as in charged minerals. We know that as they preserve the memory of the time they existed, yet they had to be indistinguishable, in order to perform stable alchemy. This lead to an idea, which would allow for the process of transmutation to work as intended, while remaining in the confinements of alchemy, - that is the hegelian World Spirit, an omnipresent unconscious memory of the world within a certain culture.
+
+We arrive to this conclusion mainly due to optionality of recipes for Sanctuary and Mysterious alchemy station, as this would mean that the knight already, paradoxically, is aware of, for example, Amirian or Kat tribe designs. The only way those could exist, as if the knowledge of those was given. And, within the metaphysics of the Core, which tethers everything, such understanding would be plausible, as it is accumulated in a more reaving presence of an entity, knowing of what was happening throughout history.
+
+The container of 2 golden plates, we suggest, is the same phenomenon as used on Cradle, to contain the divinity - of a part of Nameless Realm, - in the most pure metal. If we to follow alchemical symbolism of gold, it is the divine metal which is linked to the divinity, here symbolized by the cosmology of Nameless Realm.
+
+```md
+The work is crowned by the production of the rotundum, which, as the
+materia globosa, stands at the beginning and also at the end, in the form
+of gold.
+```
+
+This makes it seem as if Orb of Alchemy already was the completed Work, and yet it is a tool in the general narrative.
+
+In regards to the Fire Crystall, they have similar inner glow as orbs of alchemy. Apart from those similarities, heat is present as an floating essence, or as fire crystals. As with the energy and souls, we suggest, heat is the same in nature, that is it can be collected to crystals, under the same principle as minerals contain energy.
 
 ### Afterword
 
