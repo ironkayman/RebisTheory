@@ -4710,7 +4710,9 @@ This analysis, as a project, began from a question - why the concept of Swarm, i
 # Acklowledgements
 
 - [Knight Launcher](https://github.com/lucasluqui/KnightLauncher) by lucasluqui
-- [Spiral Knights Scene Archive](https://github.com/sinkillerj/SpiralKnightsSceneArchive) by sinkillerj
+- [Spiral Knights - Scene Archive](https://github.com/sinkillerj/SpiralKnightsSceneArchive) by sinkillerj
+- Haven Discord server
+- Arcade Discord server
 
 ## Spiral Knights Subreddit
 
@@ -4789,4 +4791,4 @@ https://symbolsage.com/meander-or-greek-key-symbol/
 https://symbolismdesk.com/what-does-the-greek-key-symbol-mean/
 https://biblequeue.com/1-kings-5-explained/
 
-Spiral Knights © Grey Havens, LLC.
+Spiral Knights is property of Grey Havens, LLC.
