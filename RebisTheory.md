@@ -50,7 +50,7 @@ To avoid unrelated and unnecessary information tangents, mainly perpetuated by i
 Although general description of the timeline will remain linear, some topics and overarching themes will be referencing to the future articles, those are usually capable of existing without prior established thought framework, unless it is stated otherwise.
 
 ## The Timeline
-<!-- 
+
 - [Spiral Knights: Rebis Theory](#spiral-knights-rebis-theory)
   - [Preface](#preface)
     - [Document structure](#document-structure)
@@ -261,7 +261,7 @@ Although general description of the timeline will remain linear, some topics and
   - [Acklowledgements](#acklowledgements)
     - [Spiral Knights Subreddit](#spiral-knights-subreddit)
     - [Spiral Knights Forums](#spiral-knights-forums)
-  - [Sources](#sources) -->
+  - [Sources](#sources)
 
 ### Chapter `I`: Cosmology
 
@@ -320,29 +320,9 @@ Nameless Realm is mentioned in the description of the [Chaos Cloak](https://wiki
 
 At that very point the implied duality of the phrase above must be kept in mind, as this is the first instance a theme of alchemy presented within Spiral Knights' cosmology. Precisely, the concept of the Nameless Relam is one reminiscent of alchemical First Matter:
 
-```md
-The “treasure hard to attain,” whose presence was suspected in the
-dark prima materia, is symbolized by the alchemists in various ways.
-Christopher of Paris, for instance, says that the chaos (as prima materia)
-is the work of all-wise nature. Our understanding ... , aided by
-the “celestial and glowing spirit,” must transform this natural work of art
-—chaos—into the celestial nature of the quintessence, and into the life-
-giving (vegetabilis) essence of heaven. The precious substance is
-potentially contained in this chaos as a massa confusa of all the elements
-rolled into one, and man must diligently apply his mind to it so that “our
-heaven” may come into reality (ad actum).
+`The “treasure hard to attain,” whose presence was suspected in the dark prima materia, is symbolized by the alchemists in various ways. Christopher of Paris, for instance, says that the chaos (as prima materia) is the work of all-wise nature. Our understanding ... , aided by the “celestial and glowing spirit,” must transform this natural work of art —chaos—into the celestial nature of the quintessence, and into the life- giving (vegetabilis) essence of heaven. The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum).`
 
-... the earth (as prima materia) is not
-a dead body, but is inhabited by a spirit that is its life and soul. All
-created things, minerals included, draw their strength from the earth-
-spirit. This spirit is life, it is nourished by the stars, and it gives
-nourishment to all the living things ... This invisible spirit is like
-the reflection in a mirror, intangible, yet it is at the same time the root of
-all the substances necessary to the alchemical process or arising
-therefrom (radix nostrorum corporum).
-
-- "Psychology and Alchemy" - Carl Jung
-```
+`... the earth (as prima materia) is not a dead body, but is inhabited by a spirit that is its life and soul. All created things, minerals included, draw their strength from the earth- spirit. This spirit is life, it is nourished by the stars, and it gives nourishment to all the living things ... This invisible spirit is like the reflection in a mirror, intangible, yet it is at the same time the root of all the substances necessary to the alchemical process or arising therefrom (radix nostrorum corporum).`
 
 #### Void
 
@@ -416,55 +396,17 @@ We will consider this in-universe concept of alchemy as one inspired by the real
 
 A quote from the english translation of Carl Jung's "Psychology and Alchemy":
 
-```md
-Alchemy, as is well known, describes a process of chemical
-transformation and gives numberless directions for its accomplishment.
-Although hardly two authors are of the same opinion regarding the exact
-course of the process and the sequence of its stages, the majority are
-agreed on the principal points at issue, and have been so from the earliest
-times, i.e., since the beginning of the Christian era.
+`Alchemy, as is well known, describes a process of chemical transformation and gives numberless directions for its accomplishment. Although hardly two authors are of the same opinion regarding the exact course of the process and the sequence of its stages, the majority are agreed on the principal points at issue, and have been so from the earliest times, i.e., since the beginning of the Christian era.`
 
-...
+`The alchemical opus deals in the main not just with chemical experiments as such, but with something resembling psychic processes expressed in pseudochemical language. The ancients knew more or less what chemical processes were; therefore they must have known that the thing they practised was, to say the least of it, no ordinary chemistry.`
 
-The alchemical opus deals in the main not just with chemical
-experiments as such, but with something resembling psychic processes
-expressed in pseudochemical language. The ancients knew more or less
-what chemical processes were; therefore they must have known that the
-thing they practised was, to say the least of it, no ordinary chemistry.
+`If the alchemist is admittedly using the chemical process only symbolically, then why does he work in a laboratory with crucibles and alembics? And if, as he constantly asserts, he is describing chemical processes, why distort them past recognition with his mythological symbolisms?`
 
-If the
-alchemist is admittedly using the chemical process only symbolically,
-then why does he work in a laboratory with crucibles and alembics? And
-if, as he constantly asserts, he is describing chemical processes, why
-distort them past recognition with his mythological symbolisms?
+`This puzzle has proved something of a headache to many an honest and well-meaning student of alchemy. On the one hand the alchemist declares that he is concealing the truth intentionally, so as to prevent wicked or stupid people from gaining possession of the gold and thus precipitating a catastrophe. But, on the other hand, the same author will assure us that the gold he is seeking is not—as the stupid suppose—the ordinary gold (aurum vulgi), it is the philosophical gold or even the marvellous stone, the lapis invisibilitatis (the stone of invisibility), or the lapis aethereus (the ethereal stone), or finally the unimaginable hermaphroditic rebis, and he will end up by saying that all recipes whatsoever are to be despised.`
 
-This puzzle has proved something of a headache to many an honest
-and well-meaning student of alchemy. On the one hand the alchemist
-declares that he is concealing the truth intentionally, so as to prevent
-wicked or stupid people from gaining possession of the gold and thus
-precipitating a catastrophe. But, on the other hand, the same author will
-assure us that the gold he is seeking is not—as the stupid suppose—the
-ordinary gold (aurum vulgi), it is the philosophical gold or even the
-marvellous stone, the lapis invisibilitatis (the stone of invisibility), or the
-lapis aethereus (the ethereal stone), or finally the unimaginable
-hermaphroditic rebis, and he will end up by saying that all
-recipes whatsoever are to be despised.
+`For psychological reasons, however, it is highly unlikely that the motive prompting the alchemist to secrecy and mystification was consideration for mankind. Whenever anything real is discovered it is usually announced with a flourish of trumpets. The fact is that the alchemists had little or nothing to divulge in the way of chemistry, least of all the secret of goldmaking.`
 
-For psychological reasons,
-however, it is highly unlikely that the motive prompting the alchemist to
-secrecy and mystification was consideration for mankind. Whenever
-anything real is discovered it is usually announced with a flourish of
-trumpets. The fact is that the alchemists had little or nothing to divulge in
-the way of chemistry, least of all the secret of goldmaking.
-
-The real nature of matter was unknown to the
-alchemist: he knew it only in hints. In seeking to explore it he projected
-the unconscious into the darkness of matter in order to illuminate it. In
-order to explain the mystery of matter he projected yet another mystery—
-his own unknown psychic background—into what was to be explained:
-Obscurum per obscurius, ignotum per ignotius! This procedure was not,
-of course, intentional; it was an involuntary occurrence.
-```
+`The real nature of matter was unknown to the alchemist: he knew it only in hints. In seeking to explore it he projected the unconscious into the darkness of matter in order to illuminate it. In order to explain the mystery of matter he projected yet another mystery— his own unknown psychic background—into what was to be explained: Obscurum per obscurius, ignotum per ignotius! This procedure was not, of course, intentional; it was an involuntary occurrence.`
 
 This introduces a notion of Spiral Order alchemy being a studied and predictable phenomenon, a complete inverse of its real-world counterpart. With this, considering that, initially, transmutation of gear had required energy, and then Orbs of Alchemy, we can make a guess that, as Spiral Order was familiar to alchemy, so energy was not a foreign concept to them.
 
@@ -3573,89 +3515,20 @@ We continue with the alchemical symbolism of the Energy, being the prime matter,
 
 Here we will quote english translation of Carl Jung's "Psychology and Alchemy" as it is paramount to everything below and around depth 29 of Clockworks.
 
-```md
-The basis of the opus, the prima materia, is one of the most famous
-secrets of alchemy. This is hardly surprising, since it represents the
-unknown substance that carries the projection of the autonomous psychic
-content. It was of course impossible to specify such a substance, because
-the projection emanates from the individual and is consequently different
-in each case. For this reason it is incorrect to maintain that the alchemists
-never said what the prima materia was; on the contrary, they gave all too
-many definitions and so were everlastingly contradicting themselves. For
-one alchemist the prima materia was quicksilver, for others it was ore,
-iron, gold, lead, salt, sulphur, vinegar, water, air, fire, earth, blood, water
-of life, lapis, poison, spirit, cloud, sky, dew, shadow, sea, mother, moon,
-dragon, Venus, chaos, microcosm.
+`The basis of the opus, the prima materia, is one of the most famous secrets of alchemy. This is hardly surprising, since it represents the unknown substance that carries the projection of the autonomous psychic content. It was of course impossible to specify such a substance, because the projection emanates from the individual and is consequently different in each case. For this reason it is incorrect to maintain that the alchemists never said what the prima materia was; on the contrary, they gave all too many definitions and so were everlastingly contradicting themselves. For one alchemist the prima materia was quicksilver, for others it was ore, iron, gold, lead, salt, sulphur, vinegar, water, air, fire, earth, blood, water of life, lapis, poison, spirit, cloud, sky, dew, shadow, sea, mother, moon, dragon, Venus, chaos, microcosm.`
 
-Besides these half chemical, half mythological definitions there are
-also some “philosophical” ones which have a deeper meaning. Thus in
-the treatise of Komarios1 we find the definition “Hades.” In
-Olympiodorus the black earth contains the “accursed of God”
-(θεοκατάρατος). The “Consilium coniugii” says that the father of gold
-and silver—i.e., their prima materia—is “the animal of earth and sea,” or
-“man,” or a “part of man,” e.g., his hair, blood, etc.
+`Besides these half chemical, half mythological definitions there are also some “philosophical” ones which have a deeper meaning. Thus in the treatise of Komarios1 we find the definition “Hades.” In Olympiodorus the black earth contains the “accursed of God” (θεοκατάρατος). The “Consilium coniugii” says that the father of gold and silver—i.e., their prima materia—is “the animal of earth and sea,” or “man,” or a “part of man,” e.g., his hair, blood, etc.`
 
-The unfettered opposites in chaos. “Chaos” is one of the names for the prima materia.
+`The unfettered opposites in chaos. “Chaos” is one of the names for the prima materia. The mercurial dragon of Greek alchemy, surnamed ἕν τò πᾶν gave rise to descriptions of the prima materia as Unum, Unica Res, and Monad and to the statement in the “Liber Platonis quartorum” that man is well qualified to complete the work because he possesses that which is simple, i.e., the soul. Mylius describes the prima materia as the elementum primordiale. It is the “pure subject and the unity of forms,” and in it any form whatsoever may be assumed (in quo retinetur quaelibet forma cum possibilitate).`
 
-The mercurial dragon of Greek alchemy, surnamed ἕν τò πᾶν gave
-rise to descriptions of the prima materia as Unum, Unica Res, and
-Monad and to the statement in the “Liber Platonis quartorum” that man
-is well qualified to complete the work because he possesses that which is
-simple, i.e., the soul. Mylius describes the prima materia as the
-elementum primordiale. It is the “pure subject and the unity of forms,”
-and in it any form whatsoever may be assumed (in quo retinetur
-quaelibet forma cum possibilitate).
+`The autonomy and everlastingness of the prima materia in Paracelsus suggest a principle equal to the Deity, corresponding to a dea mater.`
 
-The autonomy and everlastingness of the prima materia in Paracelsus
-suggest a principle equal to the Deity, corresponding to a dea mater.
+`[It] clearly show that the alchemists came to project even the highest value—God—into matter. With the highest value thus safely embedded in matter, a starting-point was given for the development of genuine chemistry on the one hand and of the more recent philosophical materialism on the other, with all the psychological consequences that necessarily ensue when the picture of the world is shifted 180 degrees. However remote alchemy may seem to us today, we should not underestimate its cultural importance for the Middle Ages. Today is the child of the Middle Ages and it cannot disown its parents.`
 
-[It] clearly show that the alchemists came to
-project even the highest value—God—into matter. With the highest value
-thus safely embedded in matter, a starting-point was given for the
-development of genuine chemistry on the one hand and of the more
-recent philosophical materialism on the other, with all the psychological
-consequences that necessarily ensue when the picture of the world is
-shifted 180 degrees. However remote alchemy may seem to us today, we
-should not underestimate its cultural importance for the Middle Ages.
-Today is the child of the Middle Ages and it cannot disown its parents.
+`The prima materia has the quality of ubiquity: it can be found always and everywhere, which is to say that projection can take place always and everywhere. The English alchemist Sir George Ripley (c. 1415–90) writes: “The philosophers tell the inquirer that birds and fishes bring us the lapis, every man has it, it is in every place, in you, in me, in everything, in time and space.” “It offers itself in lowly form [vili figura]. From it there springs our eternal water [aqua permanens].” According to Ripley the prima materia is water; it is the material principle of all bodies, including mercury. It is the hyle which the divine act of creation brought forth from the chaos as a dark sphere. The chaos is a massa confusa that gives
+birth to the stone. The hylical water contains a hidden elemental fire. In the treatise “De sulphure” hell-fire (ignis gehennalis) is attributed to the element earth as its inner opposite. According to Hortulanus, the stone arises from a massa confusa containing in itself all the elements. Just as the world came forth from a chaos confusum, so does the stone.`
 
-The prima materia has the quality of ubiquity: it can be found always
-and everywhere, which is to say that projection can take place always and
-everywhere. The English alchemist Sir George Ripley (c. 1415–90)
-writes: “The philosophers tell the inquirer that birds and fishes bring us
-the lapis, every man has it, it is in every place, in you, in me, in
-everything, in time and space.” “It offers itself in lowly form [vili
-figura]. From it there springs our eternal water [aqua permanens].”
-According to Ripley the prima materia is water; it is the material
-principle of all bodies, including mercury. It is the hyle which the
-divine act of creation brought forth from the chaos as a dark sphere.
-The chaos is a massa confusa that gives
-birth to the stone. The hylical water contains a hidden
-elemental fire. In the treatise “De sulphure” hell-fire (ignis gehennalis)
-is attributed to the element earth as its inner opposite. According to
-Hortulanus, the stone arises from a massa confusa containing in itself all
-the elements. Just as the world came forth from a chaos
-confusum, so does the stone.
-
-The idea of the rotating aquasphere
-reminds us of the Neopythagoreans: in Archytas the world-soul is a circle
-or sphere; in Philolaos it draws the world round with it in its rotation.
-The original idea is to be found in Anaxagoras, where the nous gives rise
-to a whirlpool in chaos. The cosmogony of Empedokles is also relevant:
-here the σϕαīρος (spherical being) springs from the union of dissimilars,
-owing to the influence of ϕιλία. The definition of this spherical being as
-, “the most serene God,” sheds a special light on the
-perfect, “round” nature of the lapis, which arises from, and constitutes,
-the primal sphere; hence the prima materia is often called lapis.
-The initial state is the hidden state, but by the art and the grace
-of God it can be transmuted into the second, manifest state. That is why
-the prima materia sometimes coincides with the idea of the initial stage
-of the process, the nigredo. It is then the black earth in which the gold or
-the lapis is sown like the grain of wheat. It is the black,
-magically fecund earth that Adam took with him from Paradise, also
-called antimony and described as a “black blacker than black” (nigrum
-nigrius nigro).
-```
+`The idea of the rotating aquasphere reminds us of the Neopythagoreans: in Archytas the world-soul is a circle or sphere; in Philolaos it draws the world round with it in its rotation. The original idea is to be found in Anaxagoras, where the nous gives rise to a whirlpool in chaos. The cosmogony of Empedokles is also relevant: here the σϕαīρος (spherical being) springs from the union of dissimilars, owing to the influence of ϕιλία. The definition of this spherical being as, “the most serene God,” sheds a special light on the perfect, “round” nature of the lapis, which arises from, and constitutes, the primal sphere; hence the prima materia is often called lapis. The initial state is the hidden state, but by the art and the grace of God it can be transmuted into the second, manifest state. That is why the prima materia sometimes coincides with the idea of the initial stage of the process, the nigredo. It is then the black earth in which the gold or the lapis is sown like the grain of wheat. It is the black, magically fecund earth that Adam took with him from Paradise, also called antimony and described as a “black blacker than black” (nigrum nigrius nigro).`
 
 From here stems the idea of Mercurius, standing on the round chaos, holding the scales which signify the pondus et mensura. The rotundum is a prefiguration of the gold.
 
@@ -4063,205 +3936,35 @@ We propose, that Shadow Lairs as a separate expedition, contain a thematic eleme
 
 The notion of a descend into the Shadow Lairs, through the unknown Passag, into the Sanctuary, and acquisition of a rare material, unique to the lair is, we believe, is an alchemical metaphor for the process of creation of the Great Work, and of a particular kind. By that we mean, as the phenomenon of alchemy as of pseudo-chemistry is rooted from a projection of inner consciousness onto a physical world, its elements also become symbolic. The theme is concealed in the alchemical process itself, and its final goal, here described from the english translation of Carl Jung's "Psychology and Alchemy":
 
-```md
-In the hero myth this state is known as being
-swallowed up in the belly of the whale or dragon. The heat
-there is usually so intense that the hero loses his hair, i.e., he is reborn
-bald as a babe. This heat is the ignis gehennalis, the hell into
-which Christ descended in order to conquer death as part of his opus.
-The philosopher makes the journey to hell as a “redeemer.” The
-“hidden fire” forms the inner antithesis to the cold wetness of the sea.
+`In the hero myth this state is known as being swallowed up in the belly of the whale or dragon. The heat there is usually so intense that the hero loses his hair, i.e., he is reborn bald as a babe. This heat is the ignis gehennalis, the hell into which Christ descended in order to conquer death as part of his opus. The philosopher makes the journey to hell as a “redeemer.” The “hidden fire” forms the inner antithesis to the cold wetness of the sea.`
 
-...
+`The “treasure hard to attain,” whose presence was suspected in the dark prima materia, is symbolized by the alchemists in various ways. Christopher of Paris, for instance, says that the chaos (as prima materia) is the work of all-wise nature. Our understanding ... , aided by the “celestial and glowing spirit,” must transform this natural work of art—chaos—into the celestial nature of the quintessence, and into the life- giving (vegetabilis) essence of heaven. The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum). Johannes Grasseus quotes the view that the prima materia is the lead (plumbum) of the philosophers, also called the “lead of the air” (an allusion to the inner opposite). This lead contains the radiant white dove, called the “salt of the metals.” The dove is the “chaste, wise, and rich Queen of Sheba, veiled in white, who was willing to give herself to none but King Solomon.”`
 
-The “treasure hard to attain,” whose presence was suspected in the
-dark prima materia, is symbolized by the alchemists in various ways.
-Christopher of Paris, for instance, says that the chaos (as prima materia)
-is the work of all-wise nature. Our understanding ... , aided by
-the “celestial and glowing spirit,” must transform this natural work of art
-—chaos—into the celestial nature of the quintessence, and into the life-
-giving (vegetabilis) essence of heaven. The precious substance is
-potentially contained in this chaos as a massa confusa of all the elements
-rolled into one, and man must diligently apply his mind to it so that “our
-heaven” may come into reality (ad actum).
-Johannes Grasseus quotes the view that the prima materia is the lead
-(plumbum) of the philosophers, also called the “lead of the air” (an
-allusion to the inner opposite). This lead contains the radiant white dove,
-called the “salt of the metals.” The dove is the “chaste, wise,
-and rich Queen of Sheba, veiled in white, who was willing to give herself
-to none but King Solomon.”
+`A similar idea is to be found in Michael Maier: The sun, by its many millions of revolutions, spins the gold into the earth. Little by little the sun has imprinted its image on the earth, and that image is the gold. The sun is the image of God, the heart is the sun’s image in man, just as gold is the sun’s image in the earth (also called Deus terrenus), and God is known in the gold. This golden image of God is the anima aurea, which, when breathed into common quicksilver, changes it into gold.`
 
-A similar idea is to be found in Michael Maier: The sun, by its
-many millions of revolutions, spins the gold into the earth. Little by little
-the sun has imprinted its image on the earth, and that image is the gold.
-The sun is the image of God, the heart is the sun’s image in man, just as
-gold is the sun’s image in the earth (also called Deus terrenus), and God
-is known in the gold. This golden image of God is the anima aurea,
-which, when breathed into common quicksilver, changes it into gold.
+`Ripley is of the opinion that the fire must be extracted from the chaos and made visible. This fire is the Holy Ghost, who unites father and son. He is often represented as a winged old man, i.e., Mercurius in the form of the god of revelation, who is identical with Hermes Trismegistus and, together with the King and the King’s Son, forms the alchemical trinity. God wrought this fire in the bowels of the earth, just as he wrought the purging flames of hell, and in this fire God himself glows with divine love.`
 
-Ripley is of the opinion that the fire must be extracted from the chaos
-and made visible. This fire is the Holy Ghost, who unites father and
-son. He is often represented as a winged old man, i.e., Mercurius in
-the form of the god of revelation, who is identical with Hermes
-Trismegistus and, together with the King and the King’s Son, forms the
-alchemical trinity. God wrought this fire in the bowels of
-the earth, just as he wrought the purging flames of hell, and in this fire
-God himself glows with divine love.
+`The examples given in the last chapter show that there is a spirit hidden in the prima materia, just as there was in the Nile stone of Ostanes. This spirit was eventually interpreted as the Holy Ghost in accordance with the ancient tradition of the Nous swallowed up by the darkness while in the embrace of Physis—with this difference, however, that it is not the supreme feminine principle, earth, who is the devourer, but Nous in the form of Mercurius or the tail-eating Uroboros. In other words, the devourer is a sort of material earth-spirit, an hermaphrodite possessing a masculine-spiritual and feminine-corporeal aspect. The original Gnostic myth has undergone a strange transformation: Nous and Physis are indistinguishably one in the prima materia and have become a natura abscondita.`
 
-The examples given in the last chapter show that there is a spirit
-hidden in the prima materia, just as there was in the Nile stone of
-Ostanes. This spirit was eventually interpreted as the Holy Ghost in
-accordance with the ancient tradition of the Nous swallowed up by the
-darkness while in the embrace of Physis—with this difference, however,
-that it is not the supreme feminine principle, earth, who is the devourer,
-but Nous in the form of Mercurius or the tail-eating Uroboros.
-In other words, the devourer is a sort of material earth-spirit, an
-hermaphrodite possessing a masculine-spiritual and feminine-corporeal
-aspect. The original Gnostic myth has
-undergone a strange transformation: Nous and Physis are
-indistinguishably one in the prima materia and have become a natura
-abscondita.
+`The psychological equivalent of this theme is the projection of a highly fascinating unconscious content which, like all such contents, exhibits a numinous—“divine” or “sacred”—quality. Alchemy set itself the task of acquiring this “treasure hard to attain” and of producing it in visible form, as the physical gold or the panacea or the transforming tincture—in so far as the art still busied itself in the laboratory. But since the practical, chemical work was never quite free from the unconscious contents of the operator which found expression in it, it was at the same time a psychic activity which can best be compared with what we call active imagination. This method enables us to get a grasp of contents that also find expression in dream life. The process is in both cases an irrigation of the conscious mind by the unconscious, and it is related so closely to the world of alchemical ideas that we are probably justified in assuming that alchemy deals with the same, or very similar, processes as those involved in active imagination and in dreams, i.e., ultimately with the process of individuation.`
 
-The psychological equivalent of this theme is the projection of a
-highly fascinating unconscious content which, like all such contents,
-exhibits a numinous—“divine” or “sacred”—quality. Alchemy set itself
-the task of acquiring this “treasure hard to attain” and of producing it in
-visible form, as the physical gold or the panacea or the transforming
-tincture—in so far as the art still busied itself in the laboratory. But since
-the practical, chemical work was never quite free from the unconscious
-contents of the operator which found expression in it, it was at the same
-time a psychic activity which can best be compared with what we call
-active imagination. This method enables us to get a grasp of contents
-that also find expression in dream life. The process is in both cases an
-irrigation of the conscious mind by the unconscious, and it is related so
-closely to the world of alchemical ideas that we are probably justified in
-assuming that alchemy deals with the same, or very similar, processes as
-those involved in active imagination and in dreams, i.e., ultimately with
-the process of individuation.
-
-Earlier on, we left Arisleus and his companions, together with Beya
-and the dead Thabritius, in the triple glass house where they had been
-imprisoned by the Rex marinus. They suffer from the intense heat, like
-the three whom Nebuchadnezzar cast into the fiery furnace.
-King Nebuchadnezzar had a vision of a fourth, “like the Son of God,” as
-we are told in Daniel 3 : 25. This vision is not without bearing on
-alchemy, since there are numerous passages in the literature stating that
-the stone is trinus et unus. It consists of the four
-elements, with fire representing the spirit concealed in matter. This is the
-fourth, absent and yet present, who always appears in the fiery agony of
-the furnace and symbolizes the divine presence—succour and the
-completion of the work.
-```
+`Earlier on, we left Arisleus and his companions, together with Beya and the dead Thabritius, in the triple glass house where they had been imprisoned by the Rex marinus. They suffer from the intense heat, like the three whom Nebuchadnezzar cast into the fiery furnace. King Nebuchadnezzar had a vision of a fourth, “like the Son of God,” as we are told in Daniel 3 : 25. This vision is not without bearing on alchemy, since there are numerous passages in the literature stating that the stone is trinus et unus. It consists of the four elements, with fire representing the spirit concealed in matter. This is the fourth, absent and yet present, who always appears in the fiery agony of the furnace and symbolizes the divine presence—succour and the completion of the work.`
 
 And, through the four stages of alchemical process:
 
-```md
-Four stages are
-distinguished, characterized by the original colours mentioned
-in Heraclitus: melanosis (blackening), leukosis (whitening), xanthosis
-(yellowing), and iosis (reddening). This division of the process into four
-was called the, the quartering of the
-philosophy. Later, about the fifteenth or sixteenth century, the colours
-were reduced to three, and the xanthosis, otherwise called the citrinitas,
-gradually fell into disuse or was but seldom mentioned. Instead, the
-viriditas sometimes appears after the melanosis or nigredo in exceptional
-cases, though it was never generally recognized. Whereas the original
-tetrameria corresponded exactly to the quaternity of elements, it was now
-frequently stressed that although there were four elements (earth, water,
-fire, and air) and four qualities (hot, cold, dry, and moist), there were
-only three colours: black, white, and red. Since the process never led to
-the desired goal and since the individual parts of it were never carried out
-in any standardized manner, the change in the classification of its stages
-cannot be due to extraneous reasons but has more to do with the
-symbolical significance of the quaternity and the trinity; in other words,
-it is due to inner psychological reasons.
+`Four stages are distinguished, characterized by the original colours mentioned in Heraclitus: melanosis (blackening), leukosis (whitening), xanthosis (yellowing), and iosis (reddening). This division of the process into four was called the, the quartering of the philosophy. Later, about the fifteenth or sixteenth century, the colours were reduced to three, and the xanthosis, otherwise called the citrinitas, gradually fell into disuse or was but seldom mentioned. Instead, the viriditas sometimes appears after the melanosis or nigredo in exceptional cases, though it was never generally recognized. Whereas the original tetrameria corresponded exactly to the quaternity of elements, it was now frequently stressed that although there were four elements (earth, water, fire, and air) and four qualities (hot, cold, dry, and moist), there were only three colours: black, white, and red. Since the process never led to the desired goal and since the individual parts of it were never carried out in any standardized manner, the change in the classification of its stages cannot be due to extraneous reasons but has more to do with the symbolical significance of the quaternity and the trinity; in other words, it is due to inner psychological reasons.`
 
-The nigredo or blackness is the initial state, either present
-from the beginning as a quality of the prima materia, the chaos or massa
-confusa, or else produced by the separation (solutio, separatio, divisio,
-putrefactio) of the elements. If the separated condition is assumed at the
-start, as sometimes happens, then a union of opposites is performed under
-the likeness of a union of male and female (called the coniugium,
-matrimonium, coniunctio, coitus), followed by the death of the product of
-the union (mortificatio, calcinatio, putrefactio) and a corresponding
-nigredo. From this the washing (ablutio, baptisma) either leads direct to
-the whitening (albedo), or else the soul (anima) released at the “death” is
-reunited with the dead body and brings about its resurrection, or again the
-“many colours” (omnes colores), or “peacock’s tail” (cauda pavonis),
-lead to the one white colour that contains all colours. At this point the
-first main goal of the process is reached, namely the albedo, tinctura
-alba, terra alba foliata, lapis albus, etc., highly prized by many
-alchemists as if it were the ultimate goal. It is the silver or moon
-condition, which still has to be raised to the sun condition. The albedo is,
-so to speak, the daybreak, but not till the rubedo is it sunrise. The
-transition to the rubedo is formed by the citrinitas, though this, as we
-have said, was omitted later. The rubedo then follows direct from the
-albedo as the result of raising the heat of the fire to its highest intensity.
-The red and the white are King and Queen, who may also celebrate their
-“chymical wedding” at this stage.
+`The nigredo or blackness is the initial state, either present from the beginning as a quality of the prima materia, the chaos or massa confusa, or else produced by the separation (solutio, separatio, divisio, putrefactio) of the elements. If the separated condition is assumed at the start, as sometimes happens, then a union of opposites is performed under the likeness of a union of male and female (called the coniugium, matrimonium, coniunctio, coitus), followed by the death of the product of the union (mortificatio, calcinatio, putrefactio) and a corresponding nigredo. From this the washing (ablutio, baptisma) either leads direct to the whitening (albedo), or else the soul (anima) released at the “death” is reunited with the dead body and brings about its resurrection, or again the “many colours” (omnes colores), or “peacock’s tail” (cauda pavonis), lead to the one white colour that contains all colours. At this point the first main goal of the process is reached, namely the albedo, tinctura alba, terra alba foliata, lapis albus, etc., highly prized by many alchemists as if it were the ultimate goal. It is the silver or moon condition, which still has to be raised to the sun condition. The albedo is, so to speak, the daybreak, but not till the rubedo is it sunrise. The transition to the rubedo is formed by the citrinitas, though this, as we have said, was omitted later. The rubedo then follows direct from the albedo as the result of raising the heat of the fire to its highest intensity. The red and the white are King and Queen, who may also celebrate their “chymical wedding” at this stage.`
 
-...
+`The prima materia was thought of as an ever-changing substance, or else as the essence or soul of that substance. It was designated with the name “Mercurius,” and was conceived as a paradoxical double being called monstrum, hermaphroditus, or rebis. The lapis-Christ parallel establishes an analogy between the transforming substance and Christ, in the Middle Ages doubtless under the influence of the doctrine of transubstantiation, though in earlier times the Gnostic tradition of older pagan ideas was the dominant factor. Mercurius is likened to the serpent hung on the cross (John 3 : 14), to mention only one of the numerous parallels.`
 
-The prima
-materia was thought of as an ever-changing substance, or else as the
-essence or soul of that substance. It was designated with the name
-“Mercurius,” and was conceived as a paradoxical double being called
-monstrum, hermaphroditus, or rebis. The lapis-Christ
-parallel establishes an analogy between the transforming substance and
-Christ, in the Middle Ages doubtless under the influence of the
-doctrine of transubstantiation, though in earlier times the Gnostic
-tradition of older pagan ideas was the dominant factor. Mercurius is
-likened to the serpent hung on the cross (John 3 : 14), to
-mention only one of the numerous parallels.
+`The “Cantilena” ends with the apotheosis of the virgin-mother. This the above-mentioned Pandora depicts as a glorification of Mary, the assumptio Beatae Mariae Virginis. After her death, by a divine miracle her body was again united with her soul and both together were taken up to heaven. This has long been the view of the Church, although it has only recently been promulgated as a dogma. [In fig. 232] she is marked with the words “terra” and “corpus Lyb” (body) and “die wonn der jung-frowenn wardt” (who became the joy of virgins); the dove descends upon her, and God the Father touches her with his right hand in benison. She is crowned. The figure of God holding the orb is inscribed “Anima Seel” and “Jesse pater, filius et mater.” “Mater” refers to the Queen of Heaven enthroned beside him, the King; for in her the earth substance, becoming transfigured in her resurrected body, is absorbed into the Godhead. On the left is a bearded figure equal in rank to God the Father, inscribed “Sapientia Wyssheit.” In the shield below there is a picture of the rebis being freed from the prima materia.`
 
-The “Cantilena” ends with the apotheosis of the virgin-mother. This
-the above-mentioned Pandora depicts as a glorification of Mary, the
-assumptio Beatae Mariae Virginis. After her death, by a divine
-miracle her body was again united with her soul and both together were
-taken up to heaven. This has long been the view of the Church, although
-it has only recently been promulgated as a dogma. [In fig. 232] she is
-marked with the words “terra” and “corpus Lyb” (body) and “die wonn
-der jung-frowenn wardt” (who became the joy of virgins); the dove
-descends upon her, and God the Father touches her with his right hand in
-benison. She is crowned. The figure of God holding the orb is inscribed
-“Anima Seel” and “Jesse pater, filius et mater.” “Mater” refers to the
-Queen of Heaven enthroned beside him, the King; for in her the earth
-substance, becoming transfigured in her resurrected body, is absorbed
-into the Godhead. On the left is a bearded figure equal in rank to God
-the Father, inscribed “Sapientia Wyssheit.” In the shield below there is a
-picture of the rebis being freed from the prima materia.
+`In the stone, as we know, the chaotic antagonism of the elements is replaced by the most intense mutual alliance, which is what makes the stone incorruptible, this being the reason why, in our author’s opinion, it has the same effect as the blood of the Saviour: “sanitas atque vita diuturna in foelicitate, propter quam praecipue lapis noster est petendus” (health and long life in felicity, on account of which our stone is chiefly to be sought).`
 
-In the stone, as we know, the chaotic antagonism of the elements is
-replaced by the most intense mutual alliance, which is what makes the
-stone incorruptible, this being the reason why, in our author’s opinion, it
-has the same effect as the blood of the Saviour: “sanitas atque vita
-diuturna in foelicitate, propter quam praecipue lapis noster est petendus”
-(health and long life in felicity, on account of which our stone is chiefly
-to be sought).
+`Therefore Mercurius philosophorum is to be considered a spiritual body, as the philosophers call him. From God the Father was born his own Son Jesus Christ, who is God and man, and is without sin, and who also had no need to die. But he died of his own free will, and rose again for the sake of his brothers and sisters, that they might live with him without sin for ever. So, too, is the gold without flaw, and is fixed, potent to withstand all examinations, and glorious; yet, for the sake of its imperfect and sick brothers and sisters, it dies and rises again, glorious and redeemed, and tinctures them to eternal life, making them perfect like to pure gold.`
 
-Therefore Mercurius philosophorum is to be considered a spiritual
-body, as the philosophers call him. From God the Father was born his
-own Son Jesus Christ, who is God and man, and is without sin, and who
-also had no need to die. But he died of his own free will, and rose again
-for the sake of his brothers and sisters, that they might live with him
-without sin for ever. So, too, is the gold without flaw, and is fixed, potent
-to withstand all examinations, and glorious; yet, for the sake of its
-imperfect and sick brothers and sisters, it dies and rises again, glorious
-and redeemed, and tinctures them to eternal life, making them perfect
-like to pure gold.
-
-It is clear enough from this material what the ultimate aim of
-alchemy really was: it was trying to produce a corpus subtile, a
-transfigured and resurrected body, i.e., a body that was at the same time
-spirit. In this it finds common ground with Chinese alchemy, as we
-have learned from The Secret of the Golden Flower. There the main
-concern is the “diamond body,” in other words, the attainment of
-immortality through the transformation of the body. The diamond is an
-excellent symbol because it is hard, fiery, and translucent. Orthelius
-tells us that the philosophers have never found a better medicament than
-that which they called the noble and blessed stone of the philosophers, on
-account of its hardness, transparency, and rubeous hue.
-```
+`It is clear enough from this material what the ultimate aim of alchemy really was: it was trying to produce a corpus subtile, a transfigured and resurrected body, i.e., a body that was at the same time spirit. In this it finds common ground with Chinese alchemy, as we have learned from The Secret of the Golden Flower. There the main concern is the “diamond body,” in other words, the attainment of immortality through the transformation of the body. The diamond is an excellent symbol because it is hard, fiery, and translucent. Orthelius tells us that the philosophers have never found a better medicament than that which they called the noble and blessed stone of the philosophers, on account of its hardness, transparency, and rubeous hue.`
 
 Here we are to apply this concept on Shadow Lairs, we propose a following correspondence.
 
@@ -4477,44 +4180,9 @@ Through this logic, we can propose, tha the entity suspected to help construct t
 
 ##### The Void
 
-Before further analysis we will elaborate on the alchemical meaning of the Void, as one being of the same nature as First Matter. In that context it is known as the Round Chaos:
+Before further analysis we will elaborate on the alchemical meaning of the Void, as one being of the same nature as First Matter. In that context it is known as the Round Chaos ("Psychology and Alchemy" - Carl Jung):
 
-```md
-The prima materia has the quality of ubiquity: it can be found always
-and everywhere, which is to say that projection can take place always and
-everywhere. The English alchemist Sir George Ripley
-writes: “The philosophers tell the inquirer that birds and fishes bring us
-the lapis, every man has it, it is in every place, in you, in me, in
-everything, in time and space.” “It offers itself in lowly form [vili
-figura]. From it there springs our eternal water [aqua permanens].”
-According to Ripley the prima materia is water; it is the material
-principle of all bodies, including mercury. It is the hyle which the
-divine act of creation brought forth from the chaos as a dark sphere.
-The chaos is a massa confusa that gives
-birth to the stone. The hylical water contains a hidden
-elemental fire. In the treatise “De sulphure” hell-fire (ignis gehennalis)
-is attributed to the element earth as its inner opposite. According to
-Hortulanus, the stone arises from a massa confusa containing in itself all
-the elements. Just as the world came forth from a chaos
-confusum, so does the stone. The idea of the rotating aquasphere
-reminds us of the Neopythagoreans: in Archytas the world-soul is a circle
-or sphere; in Philolaos it draws the world round with it in its rotation.
-The original idea is to be found in Anaxagoras, where the nous gives rise
-to a whirlpool in chaos. The cosmogony of Empedokles is also relevant:
-here the σϕαīρος (spherical being) springs from the union of dissimilars,
-owing to the influence of ϕιλία. The definition of this spherical being as
-, “the most serene God,” sheds a special light on the
-perfect, “round” nature of the lapis, which arises from, and constitutes,
-the primal sphere; hence the prima materia is often called lapis.
-The initial state is the hidden state, but by the art and the grace
-of God it can be transmuted into the second, manifest state. ...
-It is the black,
-magically fecund earth that Adam took with him from Paradise, also
-called antimony and described as a “black blacker than black” (nigrum
-nigrius nigro).
-
-- "Psychology and Alchemy" - Carl Jung
-```
+`The prima materia has the quality of ubiquity: it can be found always and everywhere, which is to say that projection can take place always and everywhere. The English alchemist Sir George Ripley writes: “The philosophers tell the inquirer that birds and fishes bring us the lapis, every man has it, it is in every place, in you, in me, in everything, in time and space.” “It offers itself in lowly form [vili figura]. From it there springs our eternal water [aqua permanens].” According to Ripley the prima materia is water; it is the material principle of all bodies, including mercury. It is the hyle which the divine act of creation brought forth from the chaos as a dark sphere. The chaos is a massa confusa that gives birth to the stone. The hylical water contains a hidden elemental fire. In the treatise “De sulphure” hell-fire (ignis gehennalis) is attributed to the element earth as its inner opposite. According to Hortulanus, the stone arises from a massa confusa containing in itself all the elements. Just as the world came forth from a chaos confusum, so does the stone. The idea of the rotating aquasphere reminds us of the Neopythagoreans: in Archytas the world-soul is a circle or sphere; in Philolaos it draws the world round with it in its rotation. The original idea is to be found in Anaxagoras, where the nous gives rise to a whirlpool in chaos. The cosmogony of Empedokles is also relevant: here the σϕαīρος (spherical being) springs from the union of dissimilars, owing to the influence of ϕιλία. The definition of this spherical being as , “the most serene God,” sheds a special light on the perfect, “round” nature of the lapis, which arises from, and constitutes, the primal sphere; hence the prima materia is often called lapis. The initial state is the hidden state, but by the art and the grace of God it can be transmuted into the second, manifest state. ... It is the black, magically fecund earth that Adam took with him from Paradise, also called antimony and described as a “black blacker than black” (nigrum nigrius nigro).`
 
 Form this emerges a concept of god Mercurius, standing on the round chaos, or, the void. In this depiction, the void and round chaos preceding creation of gold, which is considered a divine metal. While, for now we won't relate or attempt to further connect it to the [Nameless Realm](#nameless-realm), we will keep this concept and alchemical - symbolic meaning, - in mind.
 
@@ -4890,11 +4558,7 @@ We arrive to this conclusion mainly due to optionality of recipes for Sanctuary 
 
 The container of 2 golden plates, we suggest, is the same phenomenon as used on Cradle, to contain the divinity - of a part of Nameless Realm, - in the most pure metal. If we to follow alchemical symbolism of gold, it is the divine metal which is linked to the divinity, here symbolized by the cosmology of Nameless Realm.
 
-```md
-The work is crowned by the production of the rotundum, which, as the
-materia globosa, stands at the beginning and also at the end, in the form
-of gold.
-```
+`The work is crowned by the production of the rotundum, which, as the materia globosa, stands at the beginning and also at the end, in the form of gold.`
 
 This makes it seem as if Orb of Alchemy already was the completed Work, and yet it is a tool in the general narrative.
 
@@ -4937,59 +4601,30 @@ This analysis, as a project, began from a question - why the concept of Swarm, i
 
 ## Sources
 
+Document contains resources licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/ironkayman/RebisTheory/blob/master/LICENSE.txt) except for assets copyrighted by Grey Havens, adapted through the usage of model viewing and image editing software. Spiral Knights is property of Grey Havens, LLC.
+
 1. [wiki.spiralknights.com](https://wiki.spiralknights.com)
 2. "The alchemical process of transformation" - Nigel Hamilton
 3. "Psychology and Alchemy" - Collected Works of Carl Jung
-4. ["The Key of Solomon the king"](https://archive.org/details/b24884431/page/n11/mode/2up) - George Redway
+4. "The Key of Solomon the king" - George Redway
 5. "The Dream-Quest of Unknown Kadath" - H.P. Lovecraft
-6. [Creation Mysticism: Fashioning the World From Letters](https://www.myjewishlearning.com/article/creation-mysticism-fashioning-the-world-from-letters/)
-7. [The Mother Letters: Aleph Mem and Shin](https://www.sefaria.org/sheets/503071?lang=bi)
-8. [Dragon](https://www.newworldencyclopedia.org/entry/Dragon)
-9. [animalpeak.com](https://animalpeak.com/western-dragons-history-significance-types-facts/)
-10. [www.themystica.com](https://www.themystica.com/dragon/)
-11. https://closetofmysteries.com/dragon-of-the-stone-alchemical-dragon-symbolic-meaning-explained/
-12. https://onzenheertje.be/bible/studieeersteverbond/Waarleefdendereuzen.pdf
-13. https://www.worldhistory.org/article/1609/stave-churches-norways-national-treasures/
-14. https://www.medievalists.net/2019/05/why-are-dragons-and-monsters-carved-into-norways-stave-churches/
-15. https://www.dhgate.com/blog/exploring-the-symbolic-meaning-behind-dragon-heads-in-mythology-and-folklore-c/
-16. https://ancientmythology.net/norse-mythology/the-valkyries/
-17. https://norsemythologist.com/valkyrie/
-18. https://www.newworldencyclopedia.org/entry/Valkyrie
-19. https://www.britannica.com/topic/Valkyrie-Norse-mythology
-20. https://www.learnreligions.com/alchemical-sulfur-mercury-and-salt-96036
-21. https://www.thewonderingalchemist.com/blog/tria-prima-three-primes-2-salt
-22. https://occult-world.com/salt-alchemy/
-23. [www.grimandepic.com](https://www.grimandepic.com/post/dragons-wyverns-drakes-wyrms)
-24. [symbology.wiki](https://symbology.wiki/symbol/sun-cross/)
-25. [Britannica - Tiamat](https://www.britannica.com/topic/Tiamat)
-26. [www.thewonderingalchemist.com](https://www.thewonderingalchemist.com/blog/tria-prima-three-primes-1-sulfur)
-27. [azothseeker.tumblr.com](https://azothseeker.tumblr.com/post/649733672792211456/the-tria-prima)
-28. [www.learnreligions.com](https://www.learnreligions.com/the-great-work-or-magnum-opus-95943)
-29. [appliedjung.com](https://appliedjung.com/the-magnum-opus/)
-30. https://www.musee-armee.fr/en/collections/museum-treasures/hounskull-bascinet.html
-31. https://swordsswords.com/blog/7-surprising-materials-used-in-medieval-armor/
-32. https://www.medievalchronicles.com/medieval-weapons/castle-siege-weapons/fur-fangs-and-firepower-exploring-the-role-of-animals-in-medieval-siege-warfare/
-33. https://www.britannica.com/topic/Sleipnir
-34. https://www.cambridge.org/core/journals/cambridge-prisms-extinction/article/trading-species-to-extinction-evidence-of-extinction-linked-to-the-wildlife-trade/09F38911BB76B0561056D96A5E60A341#
-35. https://carmentablog.com/the-concept-of-the-soul-in-different-languages-and-cultures/
-36. https://www.britannica.com/topic/griffin-mythological-creature
-37. https://celtic.mythologyworldwide.com/balor-the-one-eyed-king-of-the-fomorians/
-38. https://www.allaboutvision.com/resources/human-interest/cultural-eye-symbolism/
-39. https://tvtropes.org/pmwiki/pmwiki.php/Main/KingInTheMountain
-40. https://www.medievalists.net/2022/09/kings-mountain-myths-germany-byzantium/
-41. https://www.warhistoryonline.com/ancient-history/12-renowned-roman-legions-and-how-they-earned-their-names-ed-ok.html
-https://www.japanesewiki.com/Shinto/Konohana%20no%20sakuya-bime.html
-https://tibetanbuddhistencyclopedia.com/en/index.php/The_Four_Heavenly_Kings_(guardians_of_the_world)
-https://www.onmarkproductions.com/html/shitenno.shtml
-https://www.britannica.com/topic/Buddhism/Celestial-buddhas-and-bodhisattvas
-https://chinese.mythologyworldwide.com/the-deities-of-the-sky-the-influence-of-celestial-beings/
-https://chinese.mythologyworldwide.com/the-creation-of-the-celestial-kingdom-myths-and-legends/
-https://tibetanbuddhistencyclopedia.com/en/index.php?title=Heaven
-https://artincontext.org/greek-pottery/
-https://www.classicist.org/articles/classical-comments-the-complex-greek-meander/
-https://ornameco.com/blog/patterns-in-design/how-to-incorporate-the-timeless-greek-key-pattern-meander-into-modern-design
-https://symbolsage.com/meander-or-greek-key-symbol/
-https://symbolismdesk.com/what-does-the-greek-key-symbol-mean/
-https://biblequeue.com/1-kings-5-explained/
-
-Spiral Knights is property of Grey Havens, LLC.
+6. [TV Tropes](https://tvtropes.org/)
+7.  ["Where Do the Giants Live?"](https://onzenheertje.be/bible/studieeersteverbond/Waarleefdendereuzen.pdf) - Armann Jakobsson
+8. [Creation Mysticism: Fashioning the World From Letters](https://www.myjewishlearning.com/article/creation-mysticism-fashioning-the-world-from-letters/)
+9. [New World Encyclopedia - Dragon](https://www.newworldencyclopedia.org/entry/Dragon)
+10. [Symbolism of Magnum Opus](https://appliedjung.com/the-magnum-opus/)
+11. [Stave Churches of Norway](https://www.worldhistory.org/article/1609/stave-churches-norways-national-treasures/)
+12. [Why are dragons and monsters carved into Norway’s stave churches?](https://www.medievalists.net/2019/05/why-are-dragons-and-monsters-carved-into-norways-stave-churches/)
+13. [New World Encyclopedia - Valkyries](https://www.newworldencyclopedia.org/entry/Valkyrie)
+14. [Symbolism of Sun Cross](https://symbology.wiki/symbol/sun-cross/)
+15. [Magnum Opus: the Great Work](https://www.learnreligions.com/the-great-work-or-magnum-opus-95943)
+16. [Historycal reference on hounskull bascinet](https://www.musee-armee.fr/en/collections/museum-treasures/hounskull-bascinet.html)
+17. [Trading species to extinction: evidence of extinction linked to the wildlife trade](https://www.cambridge.org/core/journals/cambridge-prisms-extinction/article/trading-species-to-extinction-evidence-of-extinction-linked-to-the-wildlife-trade/09F38911BB76B0561056D96A5E60A341#)
+18. [Balor: The One-Eyed King of the Fomorians](https://celtic.mythologyworldwide.com/balor-the-one-eyed-king-of-the-fomorians/)
+19. [Kings in the Mountain: Myths from Germany and Byzantium](https://www.medievalists.net/2022/09/kings-mountain-myths-germany-byzantium/)
+20. [Japanese mythology: Konohana no sakuya-bime](https://www.japanesewiki.com/Shinto/Konohana%20no%20sakuya-bime.html)
+21. [Chinese Buddhist Encyclopedia: The Four Heavenly Kings (guardians of the world)](https://tibetanbuddhistencyclopedia.com/en/index.php/The_Four_Heavenly_Kings_(guardians_of_the_world))
+22. [Four Heavenly Kings](https://www.onmarkproductions.com/html/shitenno.shtml)
+23. [Greek Pottery](https://artincontext.org/greek-pottery/)
+24. [The Complex Greek Meander](https://www.classicist.org/articles/classical-comments-the-complex-greek-meander/)
+25. [Greek Key Pattern – the meaning and its usage in modern design](https://ornameco.com/blog/patterns-in-design/how-to-incorporate-the-timeless-greek-key-pattern-meander-into-modern-design)
