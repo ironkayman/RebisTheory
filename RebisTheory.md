@@ -55,7 +55,7 @@ Although general description of the timeline will remain linear, some topics and
   - [Preface](#preface)
     - [Document structure](#document-structure)
   - [The Timeline](#the-timeline)
-    - [**Chapter `I`: Cosmology**](#chapter-i-cosmology)
+    - [Chapter `I`: Cosmology](#chapter-i-cosmology)
       - [Material Realm](#material-realm)
       - [Underworld](#underworld)
       - [Apocrean Realm](#apocrean-realm)
@@ -69,12 +69,12 @@ Although general description of the timeline will remain linear, some topics and
       - [Whitespace](#whitespace)
       - [Dragons](#dragons)
       - [Creation Myth](#creation-myth)
-    - [**Chapter `II`: Establishment of Undercorp**](#chapter-ii-establishment-of-undercorp)
+    - [Chapter `II`: Establishment of Undercorp](#chapter-ii-establishment-of-undercorp)
       - [Maulos and Hail beast-deity](#maulos-and-hail-beast-deity)
       - [Vile Deity](#vile-deity)
         - [Graveyards](#graveyards)
       - [Dark Cities](#dark-cities)
-    - [**Chapter `III`: Ancient Titans**](#chapter-iii-ancient-titans)
+    - [Chapter `III`: Ancient Titans](#chapter-iii-ancient-titans)
       - [Tortodrones' Creators](#tortodrones-creators)
         - [Gremlin Scenario](#gremlin-scenario)
         - [Devilite Scenario](#devilite-scenario)
@@ -83,7 +83,7 @@ Although general description of the timeline will remain linear, some topics and
       - [Symbolism of Stone and Titans](#symbolism-of-stone-and-titans)
       - [Veiled Tortodrone Homeland](#veiled-tortodrone-homeland)
       - [Extinction of Dragons](#extinction-of-dragons)
-    - [**Chapter `IV`: Valkyries of Heavenly Kingdom**](#chapter-iv-valkyries-of-heavenly-kingdom)
+    - [Chapter `IV`: Valkyries of Heavenly Kingdom](#chapter-iv-valkyries-of-heavenly-kingdom)
       - [War of Dragons and Valkyries](#war-of-dragons-and-valkyries)
       - [Castles](#castles)
       - [Architecture](#architecture)
@@ -93,7 +93,7 @@ Although general description of the timeline will remain linear, some topics and
       - [Stone Constructs](#stone-constructs)
         - [Lumbers as Constructs](#lumbers-as-constructs)
       - [Howlitzers and Dragons](#howlitzers-and-dragons)
-    - [**Chapter `V`: Isorians**](#chapter-v-isorians)
+    - [Chapter `V`: Isorians](#chapter-v-isorians)
       - [Symbolism and Dragons](#symbolism-and-dragons)
         - [Distinction of Spiral Order](#distinction-of-spiral-order)
       - [Technology, Alchemy, and Isorian Redesigns](#technology-alchemy-and-isorian-redesigns)
@@ -115,7 +115,7 @@ Although general description of the timeline will remain linear, some topics and
         - [Celestial Bomb](#celestial-bomb)
         - [Ghosts in the Machine](#ghosts-in-the-machine)
         - [Battlepods and Laser Technology](#battlepods-and-laser-technology)
-    - [**Chapter `VI`: Arrival of Undercorp**](#chapter-vi-arrival-of-undercorp)
+    - [Chapter `VI`: Arrival of Undercorp](#chapter-vi-arrival-of-undercorp)
       - [Ritual Circles](#ritual-circles)
         - [Summoning from Underworld](#summoning-from-underworld)
       - [Undercorp's Initial Advancements](#undercorps-initial-advancements)
@@ -141,7 +141,7 @@ Although general description of the timeline will remain linear, some topics and
         - [Cradle Festivals](#cradle-festivals)
       - [Analysis of Apocrean Realm](#analysis-of-apocrean-realm)
         - [Apocrean Engines](#apocrean-engines)
-    - [**Chapter `VII`: Kingdom of Almire**](#chapter-vii-kingdom-of-almire)
+    - [Chapter `VII`: Kingdomof Almire](#chapter-vii-kingdomof-almire)
       - [Ironmight Kingdom](#ironmight-kingdom)
         - [Volcanic Elements](#volcanic-elements)
       - [Almire and Spirit Mother](#almire-and-spirit-mother)
@@ -170,7 +170,7 @@ Although general description of the timeline will remain linear, some topics and
         - [Celestial Kingdoms](#celestial-kingdoms)
         - [Knights of the Rose](#knights-of-the-rose)
         - [Fallen Valkyrian](#fallen-valkyrian)
-    - [**Chapter `VIII`: Kat Tribe**](#chapter-viii-kat-tribe)
+    - [Chapter `VIII`: Kat Tribe](#chapter-viii-kat-tribe)
       - [Seige of the Academy](#seige-of-the-academy)
       - [Nature of Owlite Tomes](#nature-of-owlite-tomes)
         - [Magical Auras](#magical-auras)
@@ -185,12 +185,12 @@ Although general description of the timeline will remain linear, some topics and
         - [Inversion of Curse](#inversion-of-curse)
       - [Mooncroft Manor past Heavenly Kingdom](#mooncroft-manor-past-heavenly-kingdom)
       - [Seraphynx](#seraphynx)
-    - [**Intermission: Analysis of Curse**](#intermission-analysis-of-curse)
+    - [Intermission: Analysis of Curse](#intermission-analysis-of-curse)
       - [Metaphysical Restriction](#metaphysical-restriction)
       - [Physical Transformation](#physical-transformation)
       - [Immortality](#immortality)
       - [Alchemical Transmutation](#alchemical-transmutation)
-    - [**Chapter `IX`: Gremlin Empire**](#chapter-ix-gremlin-empire)
+    - [Chapter `IX`: Gremlin Empire](#chapter-ix-gremlin-empire)
       - [Great Colony and Iron Law](#great-colony-and-iron-law)
       - [Gremlin Physiology](#gremlin-physiology)
       - [Gremlin Military-Idustrial Complex](#gremlin-military-idustrial-complex)
@@ -246,7 +246,7 @@ Although general description of the timeline will remain linear, some topics and
         - [The Resonance](#the-resonance)
         - [The Madness](#the-madness)
       - [Rebis Theory](#rebis-theory)
-    - [**Chapter `X`: Spiral Knights**](#chapter-x-spiral-knights)
+    - [Chapter `X`: Spiral Knights](#chapter-x-spiral-knights)
       - [`DEPTH 0`: Crash Site](#depth-0-crash-site)
       - [`DEPTH 2`: Battle Sprites](#depth-2-battle-sprites)
         - [Evo Catalysts](#evo-catalysts)
@@ -265,7 +265,7 @@ Although general description of the timeline will remain linear, some topics and
 
 ---
 
-<h1 align="center">Chapter <code>I</code>: Cosmology</h1>
+### Chapter `I`: Cosmology
 
 At first, we will establish rough outline of the cosmology based on the rank missions' briefings, dialogue, item, and equipment descriptions. We are not currently concerned with exact in-universe laws, under which each location operates, but with their themes.
 
@@ -526,7 +526,7 @@ Dragons' lifespan is unknown, but as [dragon scales](https://wiki.spiralknights.
 
 Apart from a scenario when dragons' did in fact create the worlds, in process becoming extinct, this still would not seem as a natural specie lifecycle, and them being alive to the present-day Cradle only reaffirms this, implying that some external force would be present, that had caused dragons' extinction, and this force should be powerful enough to defeat beasts implied to be wielding powers of storms, rage and frenzy. This will be an idea at the base of further timeline construction.
 
-<h1 align="center">Chapter <code>II</code>: Establishment of Undercorp</h1>
+### Chapter `II`: Establishment of Undercorp
 
 Within Underworld fiendish ecosystem develops. Devilites emerge as one of conscious species, and over time develop a society, existing, as currently known, within corporations. One such corporation is named "Undercorp" and is related to material realm (desc, design: [Devilite](https://wiki.spiralknights.com/Devilite), desc: [Morgral'm](https://wiki.spiralknights.com/Morgral%27m)).
 
@@ -619,7 +619,7 @@ There was a successful operation of bringing both Maulos and everfrost pillar in
 
 At the same time, another proposal in creation to dark cities could be made - as Cradle is implied to collect and integrate other planets, had it integrated some dark cities from a devilite colony from a different planet? This can seem plausible, as in the end it does not change main concept of dark cities belonging to devilites, and their main base of operation - Undercorp - being located in the Underworld, with the Core functioning as a potential disruption to Undercorp operations, hindering transportation between realms.
 
-<h1 align="center">Chapter <code>III</code>: Ancient Titans</h1>
+### Chapter `III`: Ancient Titans
 
 From dragons, referred to as `creatures of legend` (desc: `A mythical shield crafted from the scales of a creature of legend` - [Dragon Scale Shield](https://wiki.spiralknights.com/Dragon_Scale_Shield)), their descendants were born: drakes and potentially wyverns (crafting: [Wyvern Scale Shield](https://wiki.spiralknights.com/Wyvern_Scale_Shield)), explored later in it's alchemy path:
 
@@ -734,7 +734,7 @@ With dragons overthrown, whose powers reshaped the planet (desc: `created the wo
 
 But, to achieve further progress in identification of both tortodrones and tortomega, we should approach from a point of the analysis of a different civilization - valkyries of heavenly kingdom.
 
-<h1 align="center">Chapter <code>IV</code>: Valkyries of Heavenly Kingdom</h1>
+### Chapter `IV`: Valkyries of Heavenly Kingdom
 
 Overall designs of [Rage Prize Box](https://wiki.spiralknights.com/Rage_Prize_Box), [Stormy Prize Box](https://wiki.spiralknights.com/Stormy_Prize_Box), and [Frenzy Prize Box](https://wiki.spiralknights.com/Frenzy_Prize_Box) suggest existence of a different faction. This group's designs differ greatly from any tortomega stonework designs, and are most similar to Valkyrian and Spiral Order gear in respective themes and designs:
 
@@ -940,7 +940,7 @@ This current hypothesis would then suggest that in order for gun puppy statues t
 
 Gun puppies of elements do have similar elemental core but located on top, this might likely be of gremlin development.
 
-<h1 align="center">Chapter <code>V</code>: Isorians</h1>
+### Chapter `V`: Isorians
 
 Isorians, - although Isora is not confirmed to be the Knights' specie homeworlds, we will refer to them as such, in that manner, same as items like [Galactic Guardian Helm](https://wiki.spiralknights.com/Galactic_Guardian_Helm) suggest, - are an ancient spacefaring race.
 
@@ -1052,9 +1052,7 @@ The case of such items being adapted can be seem most clearly for the [Crest of 
 
 The shape of transmuted [Crest of Almire](https://wiki.spiralknights.com/Crest_of_Almire) is the same as the [Aegis](https://wiki.spiralknights.com/Aegis), a shield made by the Spiral Order. But the entities above use [Blackened Crest](https://wiki.spiralknights.com/Blackened_Crest) design and shape, alas larger.
 
-Lastly, [the restored cversion of Almirian Tapestry has angelic wings below the crown](https://wiki.spiralknights.com/Almire_Furniture#Doodads).
-
-This seems as a solid enough evidence for us to consider the Order's notion of adapting preexisting designs and technology through alchemy a reality, and not a design inconsistency.
+Lastly, [the restored Almirian Tapestry has angelic wings below the crown](https://wiki.spiralknights.com/Almire_Furniture#Doodads) at the roots of the black tree. This seems as a solid enough evidence for us to consider the Order's notion of adapting preexisting designs and technology through alchemy a reality, and not a design inconsistency. Yet, we can not explain the design choice itself, as the tree roots and angel wings symbolism is not something common, unless we are to refer what [Nature Sprite said in the Overgrown Court](https://wiki.spiralknights.com/Overgrown_Court): `Yes, we nature sprites are the rain, the root, and the soil. But you are not like us. You are like the ones below. ... Good fortune, star-borne.` - we can attempt to link heavens, due to wings, to stars, as for Nature Sprites it could be essentially the same, as we will discuss later in the context of [Almire](#almire-and-spirit-mother).
 
 As it was stated that `Spiral Order has relied on alchemy as their primary means of creating the very arsenals that Knights have relied upon for centuries` (desc: [Alchemy for Begginers](https://wiki.spiralknights.com/Alchemy_for_Beginners)), we previously proposed, that the convert of energy was also as old as alchemy, we can attempt to link this deep connection between alchemy of Spiral Order to the concept of energy, and alchemy of the real world.
 
@@ -1162,7 +1160,7 @@ Currently, it is known, that the Knights incorporated concept of spiral at some 
 - Square spiral stonework patterns are seen in Haven
 - [Starlight Cradle](https://wiki.spiralknights.com/Starlight_Cradle) and the rest of Aurora Isles have a unique blocks with a glowing during the night spiral carved in them. The glow's color is reminiscent of [valestone](https://wiki.spiralknights.com/Mineral#Valestone), which is used in the [Starlight Hunting Coat](https://wiki.spiralknights.com/Starlight_Hunting_Coat).
 
-At that point, the question of who build the Artifact and the Core, while is of separate nature, remains, and eventually will be explored in the [accoring section](#divine-and-whitespace-clockworks). But, this concept of a spiral must be examined as one extending beyond Cradle which requires understanding Cradle an it's history first, in order to draw any conclusions. And, if taking in account knowledge of Spiral Order of dragons, weather or not dragons had originated on Cradle, there must be a solid reason for Isorian military be named with spiral in mind, reaffirming possible connection between Isorians and whatever past they may have with Cradle.
+At that point, the question of who build the Artifact and the Core, while is of separate nature, remains, and eventually will be explored in the [according section](#divine-and-whitespace-clockworks). But, this concept of a spiral must be examined as one extending beyond Cradle which requires understanding Cradle an it's history first, in order to draw any conclusions. And, if taking in account knowledge of Spiral Order of dragons, weather or not dragons had originated on Cradle, there must be a solid reason for Isorian military be named with spiral in mind, reaffirming possible connection between Isorians and whatever past they may have with Cradle.
 
 A safe speculation can be performed, one that is based on idea of separate histories of Isorians and Clockworks: assuming that the Spiral is, at least partially, a universal or interstellar phenomenon, important enough to be replicated in many instances, even cultures and civilizations, it may be related to other illusive concepts, such as other realm or a deity - a part of a different, omnipotent concept that remains undiscovered. But it remains a speculation as a connection is established purely though to lack of strong leads, but hints of relation. Yet again, the Core, and the design of Whitespace, has remained to be examined, due to complex and interconnected nature and context of Whitespace itself.
 
@@ -1383,7 +1381,7 @@ If the idea of this battlepod being manufactured by gremlins is true, this would
 
 Now, as for the identity of the ship. We suggest that it belongs to Morai mainly due to the fact that we know of them very little, and at the same time Spiral Order would have known of it's interstellar vessel disappearing, as well as the iron hulk itself lacks any sign of Spiral Warden insignia present.
 
-<h1 align="center">Chapter <code>VI</code>: Arrival of Undercorp</h1>
+### Chapter `VI`: Arrival of Undercorp
 
 Tortomega, descendants of tortoises and far descendants of dragons, were pressed back into the wildwoods after the war with valkyries of heavenly kingdoms, as discussed in the [ancient titans section](#chapter-iii-ancient-titans). It was a place where their civilization had emerged for the first time.
 
@@ -1930,7 +1928,7 @@ As Dreamlands were already mentioned as a potential inspiration behind the desig
 
 Although this is not much context on dreams, it may allow us to better understand this notion. But, in order to make conclusion about it, we have to analyze, of course, the Sleeper within Cradle's Core, while keeping Lovecraftian inspirations for potential background information and themes in mind.
 
-<h1 align="center">Chapter <code>VII</code>: Kingdom of Almire</h1>
+### Chapter `VII`: Kingdomof Almire
 
 Kingdom of Almire as stated by multiple sources, was invaded by 2 nearby kingdoms.
 
@@ -2217,7 +2215,7 @@ This change found in mineral pillars seems to us as a depiction of it's charged 
 
 To cycle back to tortofists' ammo - there is potentially only other one instance of charged dark matter - the bullets of [Gorgofist](https://wiki.spiralknights.com/Gorgofist). In that case the crystals are the same color as pillars but have bright purple glow as the rest of tortofists' ammo.
 
-Throughout [Minerals and Souls](#minerals-and-souls-part-1), [Auras and Souls](#auras-and-souls), and [Apocrean Engines](#apocrean-engines) we had suggested, that minerals under some conditions could contain charge of souls, essentally the Energy in a specific "form" - the Energy being the medium for souls to exist in and through, as pointer exsited of linking souls to fuel. Most prominently, in case of Apocrean Engines. That energy is contained in minerals as charge, one used to power Clockwork Gates - as suggested by Vaelyn's team technician: `We need to analyze how mineral power affects the Core. The problem is that very little power reaches down to these depths. We can gather so much data from each gate as it launches.` This dialogue could potentially refer to an old method of gate construction, but, as dialogue itself remains in the game, and talks about gate launches themselves, we may also suggest a role of crystal energy here being used as-is - a componet of the game, not intended to be removed as it sheds light on the actual physics of minerals, despite the latter being merged with the current concept of Energy.
+Throughout [Minerals and Souls](#minerals-and-souls-part-1), [Auras and Souls](#auras-and-souls), and [Apocrean Engines](#apocrean-engines) we had suggested, that minerals under some conditions could contain charge of souls, essentially the Energy in a specific form - the Energy being the medium for souls to exist in and through, as pointer exsited of linking souls to fuel. Most prominently, in case of Apocrean Engines. That energy is contained in minerals as charge, one used to power Clockwork Gates - as suggested by Vaelyn's team technician: `We need to analyze how mineral power affects the Core. The problem is that very little power reaches down to these depths. We can gather so much data from each gate as it launches.` This dialogue could potentially refer to an old method of gate construction, but, as dialogue itself remains in the game, and talks about gate launches themselves, we may also suggest a role of crystal energy here being used as-is - a componet of the game, not intended to be removed as it sheds light on the actual physics of minerals, despite the latter being merged with the current concept of Energy.
 
 As no souls exit minerals, unlike everfrost, it is likely that it is rather energy contained within those minerals. Or, as mineral pillars are explicitly placed and stored across Clockworks, we can suggest, those are in the depleeted state. We can suggest such logic due to presecence of dark mattee in a more raw formations such as [across dark cities](https://wiki.spiralknights.com/File:Area-Devilish_Drudgery-Scenario_Room5A.png). Althoigh those could be shards of tortodrone missiles.
 
@@ -2587,7 +2585,7 @@ One last element for this idea is the ownership of [Champion Helms](https://wiki
 
 This is only a possibility, but one we believe should be considered and discussed, as the designs of those items are, under current theory, similar to tortomega ancient designs, but also to [Volcanic Plate set](https://wiki.spiralknights.com/Volcanic_Plate_Helm) of more modern times of raiders, Ironmight, and Almire.
 
-<h1 align="center">Chapter <code>VIII</code>: Kat Tribe</h1>
+### Chapter `VIII`: Kat Tribe
 
 The events of Kataclysm take place around 1000 years after the fall of Almire. At that point only heavenly kingdom remains with inhabiting it valkyries and Owlites, while tortomega titans are long gone, and Almire itself had turned into ashen land with the included former kingdoms around it. The raiders are absent, in relation to [Opration Gelid](#opration-gelid-and-other-methods-of-escaping-cradle), it could be plausible for them to survive in the northern regions of Cradle. Notes on Almire were described in many tomes within the established Owlite Academy of Magicks. The [Forgotten Library](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library), wherein first written texts about kingdom of Almre were found, is located in the halls of the High Academy of magicks, now known as the Candlestick Keep.
 
@@ -2945,7 +2943,7 @@ The theme of this duality will be explored in the next section, fully deriving f
 
 So it is established how curse manifests itself in the material realm. What if this concept to be expanded upon by asking a single question: how would curse manifest itself, if it to be presented to the Nameless Realm? How this concept of metaphysical restriction would behave itself when introduced to physics of a realm, which is the source of all energy, the foundation of the universe and souls? How this pocket of energy would be transformed, if taken in account such entities as Snarbolax, Lord Vanaduke, Margrel, and Maoulos, or even phantoms, who are all tangible entities native to material realm?
 
-<h1 align="center">Chapter <code>IX</code>: Gremlin Empire</h1>
+### Chapter `IX`: Gremlin Empire
 
 Across the analysis we were noting different elements of gremlin technology, society, and what came of them. But in order to attain the fullest and deepest understanding of gremlin civilization, we need to analyze its history from several different perspectives in the similar manner as our previous discussions regarding tortomega, devilite, Isorian, and Owlite civilizations. Here, with all of the knowledge of those histories, which were eventually incorporated into Cradle, we can begin to arrange them within the context of Cradle and Clockworks.
 
@@ -4704,7 +4702,7 @@ Rebis theory proposes the existence of an alchemical framework, which constitute
 
 Rebis theory proposes an existence of alchemical narrative within the story of Clockworks and Cradle. This alchemical narrative, a hermetic truth, serves as the foundation for the motifs of characters which operate within this set of physical laws, exploring potential ends of the Great Work in its many instances across history of Cradle, Clockworks, and civilizations which were incorporated into prior.
 
-<h1 align="center">Chapter <code>X</code>: Spiral Knights</h1>
+### Chapter `X`: Spiral Knights
 
 >_"Should You Choose to Accept"_
 
