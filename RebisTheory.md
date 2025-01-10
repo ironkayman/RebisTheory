@@ -2,11 +2,13 @@
 
 This document is meant to group elements of Spiral Knights' worldbuilding and lore into cohesive narratives within the context of singular timeline of the game while focusing on the main themes and motifs in attempt to achieve narratively satisfying closure for the presented story.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/ironkayman/RebisTheory/master/assets/thumbnail_readme.png" alt="thumbnail" style="width: 70%; display: block; margin: auto;"/>
-</p>
+</p> -->
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ironkayman/RebisTheory/master/assets/thumbnail_readme.png" alt="thumbnail" style="width: 100%; display: block; margin: auto;"/>
+</p>
 
 ## Preface
 
@@ -34,8 +36,6 @@ Through the course of this document we will propose why Spiral Knights, or rathe
 
 [Chapter 1]() establishes main entities within the context of the timeline, chapters 2-9 build the body of the theory and apply it onto the timeline. [Chapter 10]() presents the summary of the timeline, connecting it to the events of the game.
 
----
-
 Lastly, there are a few rules of reference to the sources:
 
 - Names which don't have in-game term are placed into quotes
@@ -50,7 +50,7 @@ To avoid unrelated and unnecessary information tangents, mainly perpetuated by i
 Although general description of the timeline will remain linear, some topics and overarching themes will be referencing to the future articles, those are usually capable of existing without prior established thought framework, unless it is stated otherwise.
 
 ## The Timeline
-
+<!-- 
 - [Spiral Knights: Rebis Theory](#spiral-knights-rebis-theory)
   - [Preface](#preface)
     - [Document structure](#document-structure)
@@ -258,12 +258,10 @@ Although general description of the timeline will remain linear, some topics and
         - [Sanctuary](#sanctuary)
         - [Orbs of Alchemy](#orbs-of-alchemy)
     - [Afterword](#afterword)
-- [Acklowledgements](#acklowledgements)
-  - [Spiral Knights Subreddit](#spiral-knights-subreddit)
-  - [Spiral Knights Forums](#spiral-knights-forums)
-- [Sources](#sources)
-
----
+  - [Acklowledgements](#acklowledgements)
+    - [Spiral Knights Subreddit](#spiral-knights-subreddit)
+    - [Spiral Knights Forums](#spiral-knights-forums)
+  - [Sources](#sources) -->
 
 ### Chapter `I`: Cosmology
 
@@ -4910,14 +4908,14 @@ This analysis, as a project, began from a question - why the concept of Swarm, i
 
 ---
 
-# Acklowledgements
+## Acklowledgements
 
 - [Knight Launcher](https://github.com/lucasluqui/KnightLauncher) by lucasluqui
 - [Spiral Knights - Scene Archive](https://github.com/sinkillerj/SpiralKnightsSceneArchive) by sinkillerj
 - Haven Discord server
 - Arcade Discord server
 
-## Spiral Knights Subreddit
+### Spiral Knights Subreddit
 
 - [King Tinkinzar and the conecction between The Sleeper](https://www.reddit.com/r/spiral_knights/comments/gw2a6r/king_tinkinzar_and_the_conecction_between_the/)
 - [Does this game have lore?](https://www.reddit.com/r/spiral_knights/comments/1agvwkb/comment/kqtg4mu/)
@@ -4930,14 +4928,14 @@ This analysis, as a project, began from a question - why the concept of Swarm, i
 - [The Ironmight theory](https://www.reddit.com/r/spiral_knights/comments/zakpe/the_ironmight_theory/)
 - [Are we the bad guys?](https://www.reddit.com/r/spiral_knights/comments/m39ynb/are_we_the_bad_guys/)
 
-## Spiral Knights Forums
+### Spiral Knights Forums
 
 - [On Titans](https://forums.spiralknights.com/en/node/20834)
 - [What if the Core is not "Tier 4"?](https://forums.spiralknights.com/en/node/33444)
 - [Spiral Order past](https://forums.spiralknights.com/en/node/50635)
 - [Fiend sigils](https://forums.spiralknights.com/en/node/7857)
 
-# Sources
+## Sources
 
 1. [wiki.spiralknights.com](https://wiki.spiralknights.com)
 2. "The alchemical process of transformation" - Nigel Hamilton
