@@ -24,7 +24,7 @@ But before that, 3 assumptions are made:
 
 As for the inspirations, relations to real world history, folklore and mythology, they will be brought up wherein we believe they stand as a potential inspiration for the motifs presented in the work of fiction within a specified context. We should note that at no point we are professional narratologists. Yet, we believe that through this field of expertise more connections could be found within the analyzed work of fiction.
 
-Of course, this space of theory-crafting stems from an idea that the analyzed work has ambiguities, left out information, and unanswered questions, that require resolution. It is the nature of those blanks, or even logical contradictions and paradoxes within the work of fiction itself, paired with it's themes and general feel, which create conditions for a generally accepted degree of seriousness and thought put into a theory with a capacity to acknowledge some cases as [hand waves](https://tvtropes.org/pmwiki/pmwiki.php/Main/HandWave). This process is accompanied by a constant risk of interpreting and suggesting a meaning that was never thought or implied by the author, as the guesswork itself contains a subjective element.
+Of course, this space of theory-crafting stems from an idea that the analyzed work has ambiguities, left out information, and unanswered questions, that require resolution. It is the nature of those blanks, or even logical contradictions and paradoxes within the work of fiction itself, paired with its themes and general feel, which create conditions for a generally accepted degree of seriousness and thought put into a theory with a capacity to acknowledge some cases as [hand waves](https://tvtropes.org/pmwiki/pmwiki.php/Main/HandWave). This process is accompanied by a constant risk of interpreting and suggesting a meaning that was never thought or implied by the author, as the guesswork itself contains a subjective element.
 
 With this foundation for a framework with aforementioned risks in mind, we will go through our proposed timeline of events for the universe of Spiral Knights, backed by the analysis of every dialogue, item description, items' designs, the symbolism, the connections, perceived as relevant to a current topic in order to present a cohesive story.
 
@@ -49,17 +49,19 @@ To avoid unrelated and unnecessary information tangents, mainly perpetuated by i
 
 Although general description of the timeline will remain linear, some topics and overarching themes will be referencing to the future articles, those are usually capable of existing without prior established thought framework, unless it is stated otherwise.
 
-### Chapter `I`: Cosmology
+### Chapter `I`: Kozmology
 
 At first, we will establish rough outline of the cosmology based on the rank missions' briefings, dialogue, item, and equipment descriptions. We are not currently concerned with exact in-universe laws, under which each location operates, but with their themes.
 
-While we believe both laws and themes, including the symbolism, are important for the color-coded setting, - with no knowledge of it's laws, which would build the internally consistent physical foundation for the story to unfold, themes emerge here from the relations between its' elements, which, as parts of the story, we believe, should also be internally consistent. With this approach, at least for the cosmology, themes and motifs will serve us as a scaffolding and approximate guidelines for our theory on what we judge to be fitting thematically and what not, while taking notes on establishing in-universe physical laws to properly characterize those locations from as many point of view as it would be required.
+While we believe both laws and themes, including the symbolism, are important for the color-coded setting, - with no knowledge of its laws, which would build the internally consistent physical foundation for the story to unfold, themes emerge here from the relations between its' elements, which, as parts of the story, we believe, should also be internally consistent. With this approach, at least for the cosmology, themes and motifs will serve us as a scaffolding and approximate guidelines for our theory on what we judge to be fitting thematically and what not, while taking notes on establishing in-universe physical laws to properly characterize those locations from as many point of view as it would be required.
 
 #### Material Realm
 
-As it is the baseline, the real world within which most of game's event take place, we need to label it and distinguish from the other locations or realms. Such name we take from the description of the mission [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness): `... Why spirits return to the material realm is unknown ...`
+The name we take from the description of the mission [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness): `... Why spirits return to the material realm is unknown ...`
 
-Material realm is a home for wolvers, lichens, and rest of creatures, who are classified as neither fiends nor undead. It is the realm where Cradle is located.
+As it is the main location of the setting within which most of game's event take place, we need to label it and distinguish from the other dimensions, locations, or realms, so, such name would suffice.
+
+Material realm is home for wolvers, lichens, and rest of creatures, who are classified as neither fiends nor undead. It is the realm where Cradle is located.
 
 #### Underworld
 
