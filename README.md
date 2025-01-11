@@ -1,6 +1,6 @@
 # Rebis Theory
 
-This repository contains source for the document containing a narrative analysis for the game Spiral Knights. The document is available [here](https://github.com/ironkayman/RebisTheory/blob/master/RebisTheory.md).
+This repository contains source for the document containing a narrative analysis for the game Spiral Knights. The document is available [here](https://github.com/ironkayman/RebisTheory/blob/master/RebisTheory.md) and [here](https://ironkayman.github.io/entries/rebis-theory).
 
 ## Credits
 
