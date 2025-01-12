@@ -4246,6 +4246,8 @@ Rebis theory proposes the existence of an alchemical framework, which constitute
 
 Rebis theory proposes an existence of alchemical narrative within the story of Clockworks and Cradle. This alchemical narrative, a hermetic truth, serves as the foundation for the motifs of characters which operate within this set of physical laws, exploring potential ends of the Great Work in its many instances across history of Cradle, Clockworks, and civilizations which were incorporated into prior.
 
+Then, on top of this alchemy and mythology-based framework, first isolated narratives of Titans - Tortomega, Owlites, and gremlins are applied, and then they are framed within a context of the Rebis theory, resulting in the repeated patterns of Underworld intervening. The name itself - Rebis, - is then used to represent the end goal of this overarching narrative, greatest failure to satisfy which is manifested as the Swarm, representing a failed unity of opposites: Whitespace, or in fact, the Nameless Realm, and the Void. While both represent the alchemical interpretation of First Matter and its Chaos, within the proposed cosmology they are located at the metaphysical opposites. The Swarm is the union of both, corrupted by introduction of Underworld-native Curse.
+
 <center class="chapter-break">
   <span class="energy">🜔</span>
 </center>
