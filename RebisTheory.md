@@ -28,11 +28,22 @@ With this foundation for a framework with aforementioned risks in mind, we will 
 
 While this thought framework partially relies on myths and folklore of different real-world cultures, it remains subjective, as a level of vagueness in interpretation persists due to undiscovered mythological inspirations or unawareness of those by the authors of this document. To resolve these issues, logical leaps and assumptions as well as thematic narrative analysis are required.
 
-Through the course of this document we will propose why Spiral Knights, or rather Cradle itself, is a metaphor on the alchemical Great Work.
+Through the course of this document we will propose why Spiral Knights, or rather _Cradle itself, is a metaphor on the alchemical Great Work_.
+
+- [Chapter 1](#chapter-i-kozmology) establishes _basic outline of the Spiral Knights' fictional Universe_, its cosmology, creation myth, and first alchemical narratives.
+- Chapters 2-9 build the body of the theory, discuss notions and themes found along the narratives, and apply them onto the timeline:
+  - [Chapter 2](#chapter-ii-establishment-of-undercorp) covers major actors within the _Underworld_, such as devilites and deities.
+  - [Chapter 3](#chapter-iii-ancient-titans) uncovers _creators of tortodrones_ found in [March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones).
+  - [Chapter 4](#chapter-iv-valkyries-of-heavenly-kingdom) makes first iteration over the _"heavenly kingdom" and valkyries_ and discovers creators of most of castles found across Clockworks.
+  - [Chapter 5](#chapter-v-isorians) introduces _Spiral Order  and Isorians_ into the story.
+  - [Chapter 6](#chapter-vi-arrival-of-undercorp) covers effects of _Underworld's influence onto Cradle_ in the context of a previously covered [civilization behind tortodrones](#chapter-iii-ancient-titans).
+  - [Chapter 7](#chapter-vii-kingdom-of-almire) covers a period of time embodied by the _kingdom of Almire_.
+  - [Chapter 8](#chapter-viii-kat-tribe) cover _Owlites and the Kat Tribe_, their relation and history, connecting them to the identity of valkyries established in [chapter 4](#chapter-iv-valkyries-of-heavenly-kingdom).
+- [Intermission](#intermission-analysis-of-curse) makes the final analysis of the [Curse - the status effect](https://wiki.spiralknights.com/Curse), its effects, themes, and inspirations, - _presence of Curse within the story_ beyond gameplay mechanics.
+  - [Chapter 9](#chapter-ix-gremlin-empire) covers _gremlins and Clockworks_, _presence of slime family of monsters_, and the entirety of __Core and Swarm relation__ backed by all of previously found motifs and themes.
+- [Chapter 10](#chapter-x-spiral-knights) is the _final summarization of the timeline_, a __TLDR of the document__, which throughout the summary refers to all of previously established concepts, conclusions, and connections in a condensed manner.
 
 ### Document structure
-
-[Chapter 1](#chapter-i-kozmology) establishes main entities within the context of the timeline, chapters 2-9 build the body of the theory and apply it onto the timeline. [Chapter 10](#chapter-x-spiral-knights) presents the summary of the timeline, connecting it to the events of the game.
 
 Lastly, there are a few rules of reference to the sources:
 
