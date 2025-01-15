@@ -1,10 +1,17 @@
 <script>
   import BookCitation from "$lib/entries/sk/components/book_citation.svelte"
+  import SubTitleCentered from "$lib/entries/sk/components/sub_title_centered.svelte"
 </script>
 
 <h1 align="center">
   Rebis Theory <span class="energy">🜔</span>
 </h1>
+
+<SubTitleCentered>
+
+_"A Monstrous Research"_
+
+</SubTitleCentered>
 
 This document is meant to group elements of Spiral Knights' worldbuilding and lore into cohesive narratives within the context of singular timeline of the game while focusing on the main themes and motifs in attempt to achieve narratively satisfying closure for the presented story.
 
@@ -4280,7 +4287,11 @@ Then, on top of this alchemy and mythology-based framework, first isolated narra
 
 <h3 align="center">Chapter <code>X</code>: Spiral Knights</h3>
 
-> _"Should You Choose to Accept"_
+<SubTitleCentered>
+
+_"Should You Choose to Accept"_
+
+</SubTitleCentered>
 
 In this chapter we will cover entirety of the timeline from the very beginning.
 
