@@ -9,7 +9,7 @@
 This document is meant to group elements of Spiral Knights' worldbuilding and lore into cohesive narratives within the context of singular timeline of the game while focusing on the main themes and motifs in attempt to achieve narratively satisfying closure for the presented story.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ironkayman/RebisTheory/master/assets/thumbnail_readme_npo_txt.png" alt="thumbnail" style="width: 100%; display: block; margin: auto;"/>
+  <img src="https://raw.githubusercontent.com/ironkayman/RebisTheory/master/assets/thumbnail_readme_no_text.png" alt="thumbnail" style="width: 100%; display: block; margin: auto;"/>
 </p>
 
 ## Preface
