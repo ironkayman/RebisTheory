@@ -4308,6 +4308,8 @@ The pink ligtning in particular is seen in 4 other instances:
 
 The idea, that we believe unites them all, is the folklore interpretation of lightning adapted into the setting - of a divine intervention. In the setting this would be a sign of a momentarily established connection with the a higher or lower realm in the 3 cases above - with the Underworld, and in case of Sparks, - with the Nameless Relam. In case of Arkus, transfomed into trojan, his proximity to it increased to a point of him trasnforming into a fiend. Then, as he, as trojans, have dark matter, which as we concluded being the symptom, rather that the reason for the affliction, allows for this connection to Underworld's physics and grants immortality, allows for this channeling of energy seen in the lightnings. This logica applied to Lord Vanaduke and Darkfire Vanaduke, as in both instances they are cursed by Underworldly powers.
 
+The reamining question is how curse had managed to take precedence if we earlier established that both Nameless Relam and the Void contian it. We suggest it being the fact that Whitespace is not Nameless Realm proper, and the idea of curse afflicting entity of Whitesapce prior to opening the Void - as we discussed, there should be a reason and intent to open it. Only after this corruption, Void was introduced to an already faulty entity, as it was afflicted by curse. The connection to the Underworld here would not be this explcit, as the afflicted entity is of a different realm ,and we do not knwo what they are supposed to look and feel like, apart from the first-hand impressions of the Apocrean Realm.
+
 It is then the nature of Swarm which encompasses all of it. As curse was encountered in large amount of shapes, forms, and manifestations, under a specific application it is plausible to manifest unseen earlier phenomenon. We propose that:
 
 __The Swarm is a union of an entity of Whitespace, driven by a transformative nature of curse, and amplified by the direct contact with the Void.__
@@ -4391,47 +4393,50 @@ In this chapter we will cover entirety of the timeline from the very beginning.
 
 1. In the beginning exists the Void, from which all matter originates in the form of material realm, Nameless Realm, Underworld with the Blinding Abyss, and Apocrean Realm.
 
-    Those realms are stacked on top of each other.
+  Those realms are stacked on top of each other:
 
-    Nameless Realm is at top, followed by material realm, Underworld, Blinding Abyss, Apocrean Realm, and ending in the primordial Void. Within this cosmology all matter is a form of energy, including the souls. Souls specifically emerge from the Nameless Realm, and manifest in the material realm as consciousnesses and their auras as physical bodies.
-2. From souls and sentience civilizations emerge, the first one being dragons. They were capable of traversing al realms without restrictions.
+  - The Void is at the foundation. When a Universe was dreated from it, the Void gained hunger charcterized by a lack of existence within it, drawing everything to itself.
+  - The rest of existence has manifested as the Apocrean Realm, Underworld and its Abyss stretching to the metaphysical bottom of the world, material relam and then the Nameless relam.
+  - Nameless Realm became at the top, and it contains all of the supernatural energy, from which souls flow into the material relam. It is the realm of Energy as Spiral order knows it.
+  - Souls manifest as consciousness in the material realm, and auras become the energy radiance of those souls beyond physical bodies.
+  - As souls are energy so is everything, minerals and fire crystals are phenomenon of energy from the Nemaless Relam arriving in large amounts into the material relam.
 
-    In physiology, there were of divinity - elemental dragons, of frenzy - shadow dragons, and of rage - red dragons.
-3. Then came valkyries, later be known as Owlites, but now they are known as the celestial beings in the heavenly kingdom, located in the Nameless Realm.
-4. Valkyries slayed dragons, allowing for material realm to be created, and by that they left the Nameless Realm. That is the creation myth.
+  Underworld and Apocrean Realm by the nature of being the furtherst from the Nameless Relam, are metaphysically sustained by souls, which arrive there as their bodies perish in the material relam. This would be the main catalyst for both Underworld, - as Undercorp, as well as Apocrea to bring those souls to them.
+2. From souls and sentience civilizations emerge, the first one being dragons. They were capable of traversing entire metaphysical landscape, traversing though those realms.
 
-    In the heavenly kingdom they were protectors of a realm and a deity residing within, later known as the Sleeper, from Underworld, manifested as darkness or curse.
-
+    In physiology, there were of storms and elemental proprties of Nameless Relam, of frenzy and shadow, and of rage.
+3. Valkyries, later be known as Owlites, emerge. For now they are known as the celestial beings in the heavenly kingdom, located in proximity to the Nameless Realm.
+By that time dragons had descendants - drakes, wyverns and tortoises. Among them, only tortoises had developed into a civilization, known as tortomega upon the planet, which wold eventually become Cradle. Their homeland would be the now shattered Aurora Isles, with the rest of their territory located in the Gloaming Wildwoods.
+4. Valkyries hunted and slayed dragons, allowing for a outflow of energy to be created and manipulated with. That is the creation myth. As far as it goes, it was not the creation of the material relam, but rather a statement on the extent of the power dragons wielded, which was released in their passing.
 5. Underworld develops by itself in isolation from the material realm.
+6. Isorians emerge as a civilization. They evolved separately from Owlites, but near the time to encounter dragons.
+7. Underworld is shortly discovered by Isorians, which shaped their own culture and myths.
+8. By the time Isorians became a spacefaring civilization, they started hunting dragons, primarily for the resources. But, with this power they eventually discovered universal energy, found in dragons passing, eventually developing into an interstellar empire. Spiral order was established.
+10. Tortomega and Valkyries are warring civilization in the material realm. During this period tortomega would become known as Titans. The relation between both is complex. Primarily, titans built floating castles for valkyries. Those castles composed the known heavenly kingdom within the material realm.
+As the war went, titans were pressed by valkyries back into the woods. In this state, Titnas discovered the Underworld.
+11. By that point Underworld contained a fully developed civilization and, specifically, corporations. One of corporations would become on the forefront of the Underworld, known as Undercorp.
+12. As Titans uncovered Underworld, under a lead of the Nefarious Imp, both civilization in beneficial agreement managed to back up.
 
-    Underworld and Apocrean Realm exist as separated realms. The main distinction is in the fact Apocrean Realm was aware of the general cosmology by nature of being eldritch entities, and was located in proximity of Underworld.
-6. Then came Isorians, they also developed on their own, yet from early history had encounters with dragons.
-7. Underworld is shortly discovered by Isorians, which shaped their own culture and myths, of deities in the mountains.
-8. After some time, Isorians started hunting dragons. With this power they eventually developed into an interstellar empire.
-9. By that time dragons had descendants - drakes, wyverns and tortoises. Among them, only tortoises had developed into a civilization, known as tortomega upon the planet, which wold eventually become Cradle. Their homeland would be the now shattered Aurora Isles, with the rest of their territory located in the Gloaming Wildwoods.
-10. Tortomega and Valkyries are warring civilization in the material realm. During this period tortomega would become known as Titans. The relation between both is complex. Primarily, titans built floating castles for valkyries. Those castles composed the heavenly kingdom within the material realm.
+    This introduced shadow graviton technology to material realm, Underworld's culture, and skillful usage of enegry within minerals, dark matter specifically. Through this technology, tortodrones were developed, initially utilizing power of crimsonite, which was close to the nature of tortomega as descendants of dragons, of red dragons specifically, which wielded through their nature powers of rage.
 
-    And yet, titans were pressed by valkyries back into the woods. where they discovered the Underworld.
-11. Underworld had a connection with the Apocrean Realm. By that point Underworld contained full-fledged corporations, such as Undercorp.
-12. As Titans uncovered Underworld, under a lead of Nefarious Imp, both civilization in beneficial agreement managed to back up and developed or likely introduced to material realm shadow graviton technology. By nature of the latter, it utilizes glyphs and souls to operate, which are at their core, energy.
+    Through further development of graviton technology, Grim Gates were built, though which devilite cities were transported into material realm.
+13. At some point, Undercorp betrays Titans and subdues them by the same machinery of tortodrones, originally developed to assist Titans.
 
-    Through further development of graviton technology, Grim Gates are built, though which devilite cities are transported into material realm. It is during this period of time tortodrones are build, powered by crimsonite.
-13. At some point, Undercorp betrays Titans and subdues them by the machinery of tortodrones, originally developed to assist Titans.
+    Those tortodrones were maodified across dark cities' laboratories with the dark matter, and then transported through the grim gates across targeted locations to initialize the onslaught of titans. One of those intial location was later discovered by Spiral order on Cradle, knon as the Ancient Grove, repurposed by Undercorp to serve as a staging area for tortodrones.
 
-    As Titans are at war with Undercorp, they break all connection with the Underworld through destruction of Grim Gates. This causes to curse to pour in in uncontrolled manner into the woods, afflicting wildlife of the Gloaming Wildwoods. Due to this, Snarbolax as an immortal bearer of curse, is born.
+14. As Titans are at war with Undercorp, they break all connection with the Underworld through destruction of Grim Gates. This causes an unaccounted behavior of graviton technology to distabilize.
 
-    The Ancient Grove within the Wildwoods becomes Undercorp's staging area for the corrupted tortodrones.
-14. Remaining Titans flee in the remaining territories within the Aurora Isles and fall into deep sleep, in order to hide and outlive the erasure of their civilization. The remaining tortodrones are left without their masters.
-
-    This place where Titans had fallen to slumber will be known as Starlight Cradle.
-15. Isorians are now a spacefaring civilization with an established Spiral Order. Those spacefaring vessels came before any major colonies were established. One of such vessels falls on planet later to become Cradle, wherein all technological advancements have no use.
-16. On, essentially, Cradle, those stranded Isorians develop a medieval civilization, which would eventually become the kingdom of Almire, kingdom of Ironmight, and of northerns settlements of raiders.
+    While for Undercorp it was only a series of explosions, improper breakage of the connection on their part releases curse, native to Underworld, from the gates into the material relam. In case of titans the surrounding area was ridden by curse in uncontrolled manner pouring into the woods, afflicting wildlife of the Gloaming Wildwoods. Due to this, Snarbolax as an immortal bearer of curse, was born, as a transformed species close to wolvers.
+14. Remaining Titans flee in the remaining territories within the Aurora Isles and fall into deep sleep, in order to hide and outlive the erasure of their civilization. The remaining tortodrones are left without their masters. This place where Titans had fallen to slumber will be known as Starlight Cradle.
+15. At that the infestatin of the woods with curse had not ended, as its excess had resulted in a poisonoues miasma to emerge, charaterized by crimson fog. By the time miasma has passed, most of the tortomega civilizatiion was erased.
+15. Isorians are now a spacefaring civilization with an established Spiral Order. Those spacefaring vessels came before any major colonies were established. One of such vessels falls on planet later to become Cradle, wherein all technological advancements was not as well advanced. This is the planet, inhabited by valkyries and formerly titans, being a planet, which would eventually be reconstructed into Cradle.
+16. Those stranded Isorians develop a medieval civilization, which would eventually become the kingdom of Almire, kingdom of Ironmight, and of northerns settlements of raiders.
 17. Near that time Underworld is found by Isorians for the second time and Valkyries are generally hold neutral. This epoch will be known as the forgotten time.
 
     During this period of time some most ancient weapons would be created, which, by virtue, carried into the modern times, such as inherited from Titans heavy swords with an amount of inner elemental energy, gunpowder-powered handguns, and blades forged to slay the undead. Gunslinger priests they were called.
 
     These designs would eventually be adopted by Valkyries, as it turns out, piercing weapons are effective against the Underworld fiends, and Isorians had only those in their disposal, due to lack of knowledge on underworld or of greater elemental powers.
-18. And yet, isorians presented a danger to Valkyrian rule, as they had their experience with the Underworld.
+18. And yet, Isorians presented a danger to Valkyrian rule, as they had their experience with the Underworld.
 
     One of Valkyries, driven by ambition of power of Underworld, orchestrates a creation of a stone army, made of spiral wardens. Those became Trojans of Legion of Ur. For this, Fallen Valkyrian is banished from the heavenly kingdom. With this plot uncovered, Fallen Valkyrian and trojans, now known as Legion of Ur, conquer the Underworld.
 19. Due to this, heavenly kingdom now oversees the mountains, within which an entrance to the Underworld is hidden.
