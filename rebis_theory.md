@@ -4,7 +4,7 @@
 </script>
 
 <h1 align="center">
-  Rebis Theory <span class="energy">🜔</span>
+  Rebis Theory <span class="energy bold">🜔</span>
 </h1>
 
 <SubTitleCentered>
@@ -306,7 +306,7 @@ Here we would consider that the overall design of Drakon battle sprite is the cl
 
 <h3 align="center">Chapter <code>II</code>: Establishment of Undercorp</h3>
 
-Within Underworld fiendish ecosystem develops. Devilites emerge as one of conscious species, and over time develop a society, existing, as currently known, within corporations. One such corporation is named "Undercorp" and is related to material realm (desc, design: [Devilite](https://wiki.spiralknights.com/Devilite), desc: [Morgral'm](https://wiki.spiralknights.com/Morgral%27m)).
+Within Underworld fiendish ecosystem develops. Devilites emerge as one of conscious species, and over time develop a society, existing, as currently known, within corporations. One such corporation is named Undercorp and is related to material realm (`Assistant Supervisor of Resource Allocations, Undercorp` - [Morgral'm](https://wiki.spiralknights.com/Morgral%27m)) through its presence in the [Ancient Grove](https://wiki.spiralknights.com/March_of_the_Tortodrones/Ancient_Grove).
 
 Underworld is not devoid of elements. Based on fiendish biology and elemental alignment of devilites, subdivisions are formed within the corporate structure:
 
