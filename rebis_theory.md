@@ -732,6 +732,22 @@ The only conflict is that devilites' flat anatomy of a face, rather that a drago
 
 This ability of dragons to travel across realms can also explain the scenario, where Isorians did not originate on Cradle nor on planet that was captured by Cradle, but rather on an unrelated planet, implied to be Isora, wherein dragons were already present, as stated by the [Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm): `The technique which weaves dragon scale seamlessly into the metal is a closely guarded secret`. The presence of Riders as once carving worlds from stone in this interpretation can be attributed to a different builders - this time being valkyries, meaning that the __castles with fiendish statues were assisted in building by titans, and the rest of castles build by valkyrian riders, gods__. This would respect both descriptions of riders as well as propose a plausible explanation for the statues, alluding to norse mythology.
 
+Moreover, this exact narrative seems as the closest to the myth of how Asgard of the norse mythology was build - with an assistance of giants:
+
+<BookCitation source="New World Encyclopedia: Asgard">
+
+Describing the red band in the rainbow, the Prose Edda suggests that `that which thou seest to be red in the bow is burning fire; the Hill-Giants might go up to heaven, if passage on Bifröst were open to all those who would cross.`[11. Snorri Sturluson, Gylfaginning XV, Brodeur, 28.] This, the constant threat of invasion by the hostile giants (Jotun), represented a genuine fear for the Aesir.
+
+...
+
+In the mythic texts, the Aesir are thought to have constructed Asgard at some point in the mythic past. As Snorri suggests, `In the beginning [Odin] established rulers, and bade them ordain fates with him, and give counsel concerning the planning of the town; that was in the place which is called Ida-field, in the midst of the town. It was their first work to make that court in which their twelve seats stand, and another, the high-seat which Allfather himself has. That house is the best-made of any on earth, and the greatest; without and within, it is all like one piece of gold; men call it Gladsheim.` [16. Gylfaginning XIV, Brodeur 25.]
+
+However, once these various homes and meeting halls were completed, the Aesir realized that they were relatively susceptible to attack. Fortuitously (or so it seemed at the time), a giant stopped by and offered to construct them an impregnable wall and a gate to protect their fledgling realm. However, his terms were quite steep, as he wished to receive in payment the hand of Freya in marriage, as well as the sun and the moon. The Aesir agreed to this bargain, on the condition that the work be completed within six months, and that he do it with no help (as they assumed that such a task would simply be impossible to complete). The giant stone-wright agreed to this once Loki convinced the Aesir to allow him to use his stallion to help in the building process.
+
+</BookCitation>
+
+This cosmology of heavenly kingdom, material realm, and of Underwrold with the Blinding Abyss seem to match here the general basics of norse mythology - Asgard as home of the Aesir and Vanir clans, Midgard being the realm of mortals, and frozen over underworld known as Niflheim.
+
 #### Stone Constructs
 
 Stone [gun and rocket puppies](https://wiki.spiralknights.com/Gun_puppies) were invented by tortomega, resembling drakes, set to guard the halls of the castles. Gun and Rocket Puppies' exterior was made of stone with mechanical internals, as seen by the cracked shells of tier 1 turrets.
@@ -4686,6 +4702,8 @@ In regards to the Fire Crystal, they have similar inner glow as orbs of alchemy.
 
 Document contains resources licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/ironkayman/RebisTheory/blob/master/LICENSE.txt) except for assets copyrighted by Grey Havens, adapted through the usage of model viewing and image editing software. Spiral Knights is property of Grey Havens, LLC.
 
+The document contains citations from New World Encyclopedia, the materials are licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
 1. [wiki.spiralknights.com](https://wiki.spiralknights.com)
 2. "The alchemical process of transformation" - Nigel Hamilton
 3. "Psychology and Alchemy" - Collected Works of Carl Jung
@@ -4693,6 +4711,7 @@ Document contains resources licensed under [Creative Commons Attribution-NonComm
 5. "The Dream-Quest of Unknown Kadath" - H.P. Lovecraft
 6. [TV Tropes](https://tvtropes.org/)
 7.  ["Where Do the Giants Live?"](https://onzenheertje.be/bible/studieeersteverbond/Waarleefdendereuzen.pdf) - Armann Jakobsson
+9. [Asgard - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Asgard)
 8. [Creation Mysticism: Fashioning the World From Letters](https://www.myjewishlearning.com/article/creation-mysticism-fashioning-the-world-from-letters/)
 9. [New World Encyclopedia - Dragon](https://www.newworldencyclopedia.org/entry/Dragon)
 10. [Symbolism of Magnum Opus](https://appliedjung.com/the-magnum-opus/)
