@@ -261,6 +261,16 @@ The rage/normal damage thematic parity is also seen in [tortodrones](https://wik
 
 While corrupted (`A handgun alchemized from the shell of a corrupted tortodrone.` - [Grim Buster](https://wiki.spiralknights.com/Grim_Buster)) tortodrones are fought in [Call of the Colossi](https://wiki.spiralknights.com/March_of_the_Tortodrones/Call_of_the_Colossi), they still deal normal and elemental damage, despite their corrupted weaponry likely being [Gorgofist](https://wiki.spiralknights.com/Gorgofist), as it is a shadow-damaging weapon. So far, we will not delve into the specifics of Tortodrones, as they will be revisited later in the [Arrival of Undercorp section](#chapter-vi-arrival-of-undercorp), where this motif will be explored in greater depth.
 
+As for the divine Drakon and its dragon counterpart, one more similarity can be suggested to parallel to the established idea dragons being interstellar species.
+
+<BookCitation source="Psychology and Alchemy - Carl Jung">
+
+`The dragon in itself is a monstrum - a symbol combining the chthonic principle of the serpent and the aerial principle of the bird. It is, as Ruland says, a variant of Mercurius. But Mercurius is the divine winged Hermes manifest in matter, the god of revelation, lord of thought and sovereign psychopomp`
+
+</BookCitation>
+
+This renders dragons in alchemy as figures of dual nature of the Universe.
+
 Due to this we propose that:
 
 - Drakon battle sprites are reincarnations of dragons, both are categorized into sub-species associated with damage types of __storms/divinity/elemental damage__, __rage/normal damage__, and __frenzy/shadow damage__.
@@ -273,7 +283,6 @@ At some point in time either Cradle or a planet which was later consumed by the 
 - `visage of beast who some believe created the world in its passing: its fire the sun, its bones the mountains` ([Storm Dragon Helm](https://wiki.spiralknights.com/Storm_Dragon_Helm#Storm_Dragon_Helm))
 - `visage of beast who some believe razed the world in its passing: its rage became magma rain, its breath a typhoon` ([Raging Dragon Helm](https://wiki.spiralknights.com/Raging_Dragon_Helm#Raging_Dragon_Helm))
 - `visage of beast who some believe shaped the world in its passing: its frenzy started the mighty winds, its scales became the shadows` ([Frenzy Dragon Helm](https://wiki.spiralknights.com/Frenzy_Dragon_Helm#Frenzy_Dragon_Helm))
-
 
 Dragons' lifespan is unknown, but as [dragon scales](https://wiki.spiralknights.com/Dragon_Scale) are present and are capable of withstanding effects of time, while still be used in 5-star alchemy by the Spiral Order, has its own implications of dragons' lifespan, or at least longevity of their armor. At the same time, it is stated that dragons may not be extinct: `An armored scale from what was thought to be an extinct creature`.
 
@@ -521,6 +530,8 @@ Based on counterarguments presented in favour of gremlins, isorians or devilites
 
 Yet, this does not explain naming convention of titans, mentioned a few times in the above descriptions. We see them as relating to stone, which places them with the rest of this ancient time period. The name itself, titans, creates cultural associations from mythology, such as _jotun, giants of norse mythology_, _titans of greek mythology_, and potentially, _fomorians of irish mythology_. The latter will make sense later in the analysis as several common motifs will be found relating to all of the interpretations of giants/titans in the setting.
 
+It is due to this narrative we will consider tortomega as the titans, mentioned in the equipment discussed earlier.
+
 So far at this point of the analysis we will consider __tortomega being this extinct not species, but an entire civilization of titans, responsible for existence of tortodrones__.
 
 #### Veiled Tortodrone Homeland
@@ -601,7 +612,7 @@ As later seen by [stone constructs](#stone-constructs), tortomega had skills to 
 
 Both Gloaming Wildwoods, as an instance of assumed tortomega civilization, and castles, have similar imagery and depictions of dragons. Yet castles and discussed earlier equipment are implied to belong to heavenly kingdom, as  only latter have more fine-grained depictions of dragons, a sign of possible acculturation of both civilization or taking inspiration directly from dragons.
 
-The scenario would seem fitting in the case of tortomega being similar or partially inspired by Fomorians from Irish mythology, specifically in their role as ancient builder of castles and fortresses across Ireland. This motif we cover in the [Castle Builders section](#castle-builders-and-irish-mythology), as a later explanation for the _single eye symbolism of the titan gates of the Arcade_.
+The scenario would seem fitting in the case of tortomega being similar or partially inspired by Fomorians from Irish mythology, specifically in their role as ancient opposition to a divine across Ireland. This motif we cover in the [Fomorians section](#fomorians-and-irish-mythology), as a later explanation for the _single eye symbolism of the titan gates of the Arcade_.
 
 A disappearance of tortomega civilization at some point had happened, same as dragons, remaining only in crafting materials and environment. Different reason for their extinction can be discussed:
 
@@ -659,7 +670,7 @@ Very likely the entirety of the necropolis did belong to Almire, as there are te
 
 As regarding graveyards themselves and Moorcroft Manor, the burials are same as of Almire. Moreover, zombies are found within Candlestick Keep. This is important due to the fact that all undead warriors of Almire have practically the same skull shape and features, with only [Carnavon](https://wiki.spiralknights.com/Zombie#Carnavon) and [Slag Walker](https://wiki.spiralknights.com/Zombie#Slag_Walker) having armor equipped, and both seen in the Firestorm Citadel.
 
-Carnavons are also present in relation to summoned Black Kats, which are known to gain powers from consuming auras (`They carry the heaviest curse of all and mindlessly seek to devour magical auras. This constant consuming of power makes them incredibly strong` - [Pembrooke](https://wiki.spiralknights.com/Pembrooke#Dialogue)), a key component of a living being on par with the soul, and capable of summoning curse-ridden undead. This aspect connects Almire, their civilization, and builders of castles. This allows to rule out a scenario, when coffins were build for tortomega, which, as discussed earlier, possibly were the basis behind tortodrone design.
+Carnavons are also present in relation to summoned Black Kats, which are known to gain powers from consuming auras (`They carry the heaviest curse of all and mindlessly seek to devour magical auras. This constant consuming of power makes them incredibly strong` - [Pembrooke](https://wiki.spiralknights.com/Pembrooke#Dialogue)), a key component of a living being on par with the soul, and capable of summoning curse-ridden undead. This aspect connects Almire, their civilization, and builders of castles.
 
 Then, what kind of connection did Heavenly kingdom and Almire share, separated by many years? This will be explored later, but currently, this oddity will be kept in mind.
 
@@ -687,33 +698,45 @@ The latter having significant similarity to Drakon battle sprites as in mentione
 
 It is important to address the design of busts present within castles' halls of Scarlet Fortress, Owlite Academy and Moorcroft Manor:
 
-- The stone on statue's forehead resembles the [Prismatic Dazzling Gem](https://wiki.spiralknights.com/Prismatic_Dazzling_Gem), which is related to Kats through idea of battle sprites being reincarnations of past civilizations - [Seraphynx](#seraphynx)
-- The eyes most resemble [devilite yesmen](https://wiki.spiralknights.com/Yesman) with their circular, dot-like form, and small pits beneath, outlining the eye sockets
-- The mouth is also similar to devilites, having central tooth and 2 on each side. Based on [yesmens'](https://wiki.spiralknights.com/Yesman#Yesman) underbite and other [devilite overbite](https://wiki.spiralknights.com/Yesman#Devilite), - visibility of frontal jaw and position of shadows within the texture, the lower jaw has 2 front teeth and upper jaw has 3 with one in the middle, similar to the statue.
+- The stone on statue's forehead resembles the [Prismatic Dazzling Gem](https://wiki.spiralknights.com/Prismatic_Dazzling_Gem), which is related to Kats through idea of battle sprites being reincarnations of past civilizations. In that case being [Seraphynx](#seraphynx).
+- The eyes most resemble [devilite yesmen](https://wiki.spiralknights.com/Yesman) with their circular, dot-like shape, and small pits beneath, outlining the eye sockets.
+- The mouth is also similar to devilites, having central tooth and 2 on each side. Based on [yesmens'](https://wiki.spiralknights.com/Yesman#Yesman) underbite and other [devilite overbite](https://wiki.spiralknights.com/Yesman#Devilite) within the textures, the lower jaw has 2 front teeth and upper jaw has 3 with one in the middle, similar to the statue.
 
-But, as no devilites were encountered at that point in time, this architectural development could be some time later, during the time of [arrival of Undercorp to Cradle](#chapter-vi-arrival-of-undercorp), as proven by future appearances of Grim Gates. This conflicts with the proposed idea of tortomega not yet uncovering Underworld and constructing tortodrones, as described at [Arrival of Undercorp section](#chapter-vi-arrival-of-undercorp), as that was precursor to titans being extinct.
+But, as no devilites were encountered at that point in time, this architectural development could be some time later, during the time of [arrival of Undercorp to Cradle](#chapter-vi-arrival-of-undercorp), as proven by future appearances of Grim Gates. This conflicts with the proposed idea of tortomega not yet uncovering Underworld and constructing tortodrones, as described at [Arrival of Undercorp chapter](#chapter-vi-arrival-of-undercorp), as that was precursor to titans being extinct.
 
 Across cultures, tall foreheads as well as presence of jewelry signifies wisdom, this can be applied both to dragons and devilites:
 
-- Known devilites does not fashion themselves with trinkets presented on the status. Although this could be a time before Undercorp could have been established in a more modern setting or a fact that most of encountered devilites are white-collar workers (`The office minions of the Underworld are a disgruntled lot, attacking any unauthorized personnel on sight. While not terrible threats on their own, they can become far worse if one of their Pit Bosses gets a hold of them` [Devilish Drudgery - Information Module](https://wiki.spiralknights.com/Information_Module:_Devilish_Drudgery)).
-- If statues are of dragons, then it is them completely unknown weather tortomega or valkyries were castles' builders.
-- If statues are of devilites or fiends, then it would seem strange for valkyries to build them, notably near crypts in the Moorcroft Manor. While for titans, which will later cooperate with devilites, it would seem more fitting, as valkyries are not connected with shadow damage and Underworld until much further in time, as no Underworld was yet discovered, and valkyries do oppose it (`helmet whose name denizens of the Underworld dare not mention` -  [Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm)).
-- A possibility also exists that the castles were built by Isorian ancestors, but that would mean that all knowledge of elemental and shadow damage would at some point gone from Spiral Order, as they explicitly discover it on Cradle - shadow damage from devilites, and elemental from Owlites - as noted in [Isorian section](#similarity-to-heavenly-kingdom). It was covered earlier, suggesting that a different branch of order preceding Spiral Order had to arrive and establish heavenly kingdom.
-- The last option, one that was mentioned in the [Ancient Titans chapter](#chapter-iii-ancient-titans) is based on an idea, that dragons, as suggested by [dragon scale](https://wiki.spiralknights.com/Dragon_Scale) description: `It reflects light with an otherworldly sheen`, came from the Underworld or with it. This would place them into Underworld ecosystem and grant fiendish anatomy. This hypothesis could explain the anatomy being similar to devilites'. In that case, presence of the divine dragons can be argued as divinity comes from nature of dragons themselves being an ever-present specie, capable of traversing through all of existing realms.
+- Known devilites does not fashion themselves with trinkets presented on the statues.
 
-This ability to travel across realms can also explain the scenario, where Isorians did not originate on Cradle or on planets that was captured by Cradle's Core, but rather on an unrelated planet, implied to be Isora, wherein dragons were already present, as stated by the [Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm): `The technique which weaves dragon scale seamlessly into the metal is a closely guarded secret`. The only conflict is that devilite flat anatomy of a face, rather that a dragon muzzle depicted here, with a stone similar to dazzling gem. As anatomy of dragons is likely established, this makes this statues seem to belong to a different specie, likely tortomega themselves.
+    Although, this could be a time before Undercorp could have been established in a more modern setting of a corporation, or a fact that most of encountered devilites are white-collar workers (`The office minions of the Underworld are a disgruntled lot, attacking any unauthorized personnel on sight. While not terrible threats on their own, they can become far worse if one of their Pit Bosses gets a hold of them` [Devilish Drudgery - Information Module](https://wiki.spiralknights.com/Information_Module:_Devilish_Drudgery)), without giving insight into the inner details of Underworld's society.
+- If statues are of dragons, then it would be a different depiction of them, - with a greater relation to the Underworld's anatomy and physiology, or, it makes Underworld to appear very early in the timeline. It would also mean, that both titans and valkyries could be those castles' builders, given presence of dragons.
+- If statues are of devilites or fiends, then it would seem strange for valkyries to build them, notably near crypts in the Moorcroft Manor.
 
-Considering previous elements of norse mythology, it can be argued that these statues are of tortomega/titans with the inclusion of complex relationship between giants and valkyries from the norse mythology.
+    While for titans, which will later [cooperate with devilites](#arrival-of-undercorp), it would seem more fitting, as valkyries are not connected with shadow damage and Underworld until much further in the timeline we propose. And, as no Underworld was yet discovered, and valkyries do oppose it (`helmet whose name denizens of the Underworld dare not mention` - [Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm)), this seems as questionable design choice.
 
-As for the divine drakon and its dragon counterpart, one more similarity can be suggested to parallel to the established idea dragons being interstellar species: `The dragon in itself is a monstrum - a symbol combining the chthonic principle of the serpent and the aerial principle of the bird. It is, as Ruland says, a variant of Mercurius. But Mercurius is the divine winged Hermes manifest in matter, the god of revelation, lord of thought and sovereign psychopomp` (Psychology and Alchemy - p. 404), which renders dragons in alchemy as figures of dual nature of the Universe.
+    Unless this was a later development. We consider this scenario as all of those locations lasted the most, as they are populated by Spookats - evidence of Kat tribe invading those location, meaning, that Owlites were there. And at that, far later point of the timeline, heavenly kingdom would've encountered devilites is several times. Carving them within their halls may be a symbolic gesture of a [yet-to-happen Valkyrian onslaught into the Underworld](#war-of-heavenly-kingdom-and-underworld). But, this suggestion does not follow any so far related myths nor their narratives, Valkyries of norse mythology included, - due to this, such suggestion of devilites being carved into the walls seems as a speculation, rather than a hypothesis.
+- A possibility also exists of the castles being built by Spiral Order ancestors, but that would mean that all knowledge of elemental and shadow damage would at some point gone from Spiral Order, as they explicitly discover it on Cradle - shadow damage from devilites, and elemental from Owlites - as it will be discussed in [chapter on Isorians and Spiral Order](#similarity-to-heavenly-kingdom).
+- An option, one that was mentioned in the [Ancient Titans chapter](#chapter-iii-ancient-titans) is based on an idea, that those are titans, depicting themselves at some point in time.
+
+    This would lead to and idea, initially suggested by [dragon scale](https://wiki.spiralknights.com/Dragon_Scale) description: `It reflects light with an otherworldly sheen`, that dragons are related to Underworld to a degree of being able to pass through it.
+
+    While this would conflict with the established design of dragons, the potential designs of titans and tortoises, as similar to fiends design-wise would be not so far plausible.
+
+    The key element is the [dazzling gem](https://wiki.spiralknights.com/Dazzling_Gem)-like jewelry, which those castles were carved by valkyries, would mean that underworld is a different relation, but no such relation was discovered.
+
+    On the other hand, such decorations for the depictions of builders of those structure would seem as more plausible, if we are to draw parallels with norse mythology - of gratitude and respect to titans, as builder of heavenly kingdom, an interpretation of the complex relationship between giants and valkyries from the norse mythology.
+
+    This would place titans into close proximity of Underworld ecosystem and grant anatomy reminiscent of fiends, while not being as such. This hypothesis could explain the anatomy being similar to devilites'.
+
+The only conflict is that devilites' flat anatomy of a face, rather that a dragon muzzle depicted here, with a stone similar to dazzling gem, which is attributed to Owlites. As anatomy of dragons is established, this makes this statues seem to belong to a different specie, likely titans themselves or devilites of later times in history of heavenly kingdom. We won't discard other cases of the statues' identities, but in order to move forward, we will consider titans as ones depicted on those statues.
+
+This ability of dragons to travel across realms can also explain the scenario, where Isorians did not originate on Cradle nor on planet that was captured by Cradle, but rather on an unrelated planet, implied to be Isora, wherein dragons were already present, as stated by the [Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm): `The technique which weaves dragon scale seamlessly into the metal is a closely guarded secret`. The presence of Riders as once carving worlds from stone in this interpretation can be attributed to a different builders - this time being valkyries, meaning that the __castles with fiendish statues were assisted in building by titans, and the rest of castles build by valkyrian riders, gods__. This would respect both descriptions of riders as well as propose a plausible explanation for the statues, alluding to norse mythology.
 
 #### Stone Constructs
 
 Stone [gun and rocket puppies](https://wiki.spiralknights.com/Gun_puppies) were invented by tortomega, resembling drakes, set to guard the halls of the castles. Gun and Rocket Puppies' exterior was made of stone with mechanical internals, as seen by the cracked shells of tier 1 turrets.
 
-They had same design of dragons present in titans' castles, these designs would be later enhanced by gremlins with gun puppies of tiers 2 and 3, explicitly elemental, with the addition of elemental essences contained near spiral imagery carved into a stone slabs on top of gun puppies' heads ([Red Rover](https://wiki.spiralknights.com/Gun_Puppy#Red_Rover), [Slush Puppy](https://wiki.spiralknights.com/Gun_Puppy#Slush_Puppy), [Sick Puppy](https://wiki.spiralknights.com/Gun_Puppy#Sick_Puppy), [Sparky](https://wiki.spiralknights.com/Gun_Puppy#Sparky)).
-
-> The elemental essences in question are 5 star materials of icon like the [Storm Chaser](https://wiki.spiralknights.com/Storm_Chaser)
+They had same design of dragons present in titans' castles, these designs would be later enhanced by gremlins with gun puppies of tiers 2 and 3, explicitly elemental, with the addition of elemental essences contained near spiral imagery carved into a stone slabs on top of gun puppies' heads ([Red Rover](https://wiki.spiralknights.com/Gun_Puppy#Red_Rover), [Slush Puppy](https://wiki.spiralknights.com/Gun_Puppy#Slush_Puppy), [Sick Puppy](https://wiki.spiralknights.com/Gun_Puppy#Sick_Puppy), [Sparky](https://wiki.spiralknights.com/Gun_Puppy#Sparky)). The elemental essences in question are 5 star materials of icon like the [Storm Chaser](https://wiki.spiralknights.com/Storm_Chaser).
 
 Gun puppies of tier 2 and 3 have more mechanical design, with the base at which the rotation of the turret happens, having bolts. Tier 1 gun puppies don't have any external mechanical elements, looking practically the same as the statues at [Gloaming Wildwoods](https://wiki.spiralknights.com/Gloaming_Wildwoods), [Aurora Isles](https://wiki.spiralknights.com/Aurora_Isles) and [Haven](https://wiki.spiralknights.com/Town_Square).
 
@@ -731,19 +754,29 @@ The lack of void/swarm gun puppies, but lumbers, may also point to them being of
 
 A note, void gun puppies, while present in the game files, are not considered canon, as their design is of an older iteration.
 
-#### Howlitzers and Dragons
+#### Howlitzers, Dragons, and Drakes
 
-Finally, there are [howlitzers](https://wiki.spiralknights.com/Howlitzer). present within regions mostly populated by the undead, and notably Owlite Keep, they have reptilian anatomy, and jaws similar to [fiendish statues](#fiendish-statues), horns, depending on their tier, like [drakon battle sprites, related to dragons](#dragons). Those similarities make them seem as the very extinct tortomega, or, more likely, dragons themselves.
+Then, there are [howlitzers](https://wiki.spiralknights.com/Howlitzer) present within regions mostly populated by the undead, and notably Owlite Keep, they have reptilian anatomy, and jaws similar to [fiendish statues](#fiendish-statues), horns, depending on their tier, like [drakon battle sprites, related to dragons](#dragons). Those similarities make them seem as drakes or potentially dragons, evident by 2 horns at the back of their skulls.
 
-Within howlitzer ribcage a pulsing essence is present similar to essence orbs found on [Gun Puppies](https://wiki.spiralknights.com/Gun_puppies). All of howlitzers deal shadow damage, as an undead.
+Considering the [creation myth](#creation-myth), we would consider the original dragons being far larger than a howlitzer, in order for creation myth to be founded, but this concept seem to fail, as most of evidence on the identity of dragons seem to suggest that those were lesser in scale. We can also argue that the design of howlitzers' skull with a nose horn is more often seen across depictions of dragons, but this design choice would be more plausible for drakes, as terrestrial descendants of dragons, also lesser in size.
 
-If considered that dragons had to be undead in order for howlitzers to appear, then gun puppies would have to be invented later, unless they are meant to represent symbolic dragon, rather that anatomically correct, or, they are made in the image of howlitzers.
+As a logical leap, the design of [Drake Scale Shield](https://wiki.spiralknights.com/Drake_Scale_Shield) is the only one having its left side sharpened, while its upgrades have more rounded corners, but more visible scales, more reminiscent of spikes along the back.
 
-Dragons on their death should have affected the environment, but at the same time, howlitzers are considered undead, same as spookats, meaning that something had to bring them back from the dead. The only powers known to be related to undeath, cause undeath, as it will be alter seen, and be related to afterlife, are: the devilites of undercorp, and, potentially, Core energy. The prior, considering further relation of tortomega, then known as Titans, with the Underworld in the [Arrival of Undercorp section](#chapter-vi-arrival-of-undercorp) seems to be a reason behind resurrections of dragons. The scenario of Core's energy will be explored later, but as it will be seen in the Undercorp section, does not hold up that well compared to the prior.
+Similar design choice of lack of spikes is seen in the [Drake Scale Helm](https://wiki.spiralknights.com/Drake_Scale_Helm), and due to this, we may consider general interpretation of drakes compared to that of dragons, as for them equipment such as [Dragon Scale Helm](https://wiki.spiralknights.com/Dragon_Scale_Helm) exists.
 
-This current hypothesis would then suggest that in order for gun puppy statues to be present, either image of howlitzer had be present within tortomega culture, or that the statues is meant to represent a dragon. Now, considering the drastic difference between two instances, an undead howlitzer and a statue, stylized depiction of a dragon within tortomega society seems a more likely candidate.
+If considered that drakes or dragons had to be undead in order for howlitzers to appear, then gun puppies would have to be invented later, unless they are meant to represent symbolic dragon, rather than an anatomically correct one, inspired by statues, rather than living beings.
 
-Gun puppies of elements do have similar elemental core but located on top, this might likely be of gremlin development.
+Dragons on their death should have affected the environment, but at the same time, howlitzers are considered undead and found all across Cradle, same as spookats, meaning that something had to bring them back. The only powers known to be related to undeath, cause undeath, as it will be later seen, and be related to afterlife, ares the devilites of Undercorp and powers of curse, the Core, and Kataclysm.
+
+The prior, considering further relation of tortomega, then known as Titans, with the Underworld in the [Arrival of Undercorp section](#chapter-vi-arrival-of-undercorp) could be a potential reason for resurrections of dragons, but this idea as we will further see, would not be developed apart from presence of howlitzers in the Gloaming Wildwoods.
+
+This current hypothesis would then suggest that in order for gun puppy statues to be present, either image of howlitzer had be present within tortomega culture, or that the statues is meant to represent a dragon. Now, considering the drastic difference between the two - an undead howlitzer and a statue of supposedly dragon, - stylized depiction of a dragon within tortomega society seems a more likely candidate.
+
+The last argument in favour of howlitzers being undead dragons, despite their small size, is the shape of the skull. If we consider chromalisks being descendants of drakes, then drakes would be in between dragon anatomy and chromalisks'. At that only [salamander](https://wiki.spiralknights.com/Chromalisk#Salamander) and [salamander mask's alchemy tree](https://wiki.spiralknights.com/Salamander_Mask) have a distinct nose spike. This seems as a more solid link to identifying howlitzers as drakes. here we should mention evolution of Drakon battle sprite, as it can acquire nose horn. We could attribute it to a potential link to drakes as Drakons could encompass them in their diversity, as well as due to the lack of dragons being depicted with the nose horn.
+
+So far, most of evidence suggest that howlitzers are dragons, but drakes have a benefit of being less known of across the setting, and related through mythology to salamanders, chromalisks, etc. If we commit to the idea of valkyries slaying dragons, then it would not be far fetched for drakes falling to them too, resulting in the presence of their remains, brought back to life within the territory of heavenly kingdom and beyond. the question the is of how non-flying drakes managed to reach heavenly kingdom, which we do not have answer for so far, as of the case of wolvers being found in the Firestorm Citadel.
+
+Within howlitzer ribcage a pulsing essence is present similar to essence orbs found on [Gun Puppies](https://wiki.spiralknights.com/Gun_puppies). All of howlitzers deal shadow damage, as an undead. Gun puppies of elements do have similar elemental core located on top, reminiscent of the nose horn of salamanders.
 
 <center class="chapter-break">
   <span class="energy">🜕</span>
@@ -1479,17 +1512,13 @@ Yet, during earlier prosperous time, many shadow technology was developed, as de
 
 This two aspects seem wo us extremely strong arguments. But, there is one more - [Heavy Statue](https://wiki.spiralknights.com/File:Exploration-Heavy_Statue.png). They have the ornament evil eye and [Troika](https://wiki.spiralknights.com/Troika), a weapon suggested to belong to tortomega. The further analysis will be concluded in relation to the presence of evil eye in its [own section](#evil-eye).
 
-##### Castle Builders and Irish Mythology
-
-But, it is here we can propose one seemingly definitive solution for the question of who has built the castles across Cradle.
+##### Fomorians and Irish Mythology
 
 We will appeal to irish mythology specifically, due to its later relevance in the context of Almire. Here, we are concerned with the story of Balor - a one-eyed giant, a king of Fomorians, - malevolent civilization from the Underworld, embodying forces of chaos and destruction, at war with pantheon of deities named Tuatha De Danann.
 
-What is important here, is that across the myths, Fomorians were ones building castles across Ireland and up to a mythological Battle of Mag Tuired, ruled over it.
+What is important here, is that across the myths, Fomorians were ones ruling over Ireland up to a mythological Battle of Mag Tuired.
 
-This idea can be directly applied to the current setting and a vagueness of castles' origin. That is, we propose, that the castles were originally built by tortomega, titans.
-
-The other relation is one of the eye - as mentioned earlier, titans are depicted as cyclops, and possessing a single eye, weather it is a helm or their anatomy, a connection to the eye of Balor could be made here, as in myths, his eye. It symbolizes evl and destructive power, conveniently similar to the dread seal, evil eye of Spiral Knights, which will be discussed soon.
+The other relation is one of the eye - as mentioned earlier, titans are depicted as cyclops, and possessing a single eye, weather it is a helm or their anatomy, a connection to the eye of Balor could be made here, as in myths, his eye. It symbolizes evil and destructive power, conveniently similar to the dread seal, evil eye of Spiral Knights, which will be discussed soon.
 
 #### Minerals and Souls: Part 1
 
@@ -4445,13 +4474,13 @@ In this chapter we will cover entirety of the timeline from the very beginning.
     In physiology, there were of storms and elemental properties of Nameless Realm, of frenzy and shadow, and of rage.
 3. Valkyries, later be known as Owlites, emerge. For now they are known as the celestial beings in the heavenly kingdom, located in proximity to the Nameless Realm.
 By that time dragons had descendants - drakes, wyverns and tortoises. Among them, only tortoises had developed into a civilization, known as tortomega upon the planet, which wold eventually become Cradle. Their homeland would be the now shattered Aurora Isles, with the rest of their territory located in the Gloaming Wildwoods.
-4. Valkyries hunted and slayed dragons, allowing for a outflow of energy to be created and manipulated with. That is the creation myth. As far as it goes, it was not the creation of the material realm, but rather a statement on the extent of the power dragons wielded, which was released in their passing.
-5. Underworld develops by itself in isolation from the material realm.
+4. Valkyries hunted and slayed dragons, allowing for a outflow of energy to be created and manipulated with. That is the creation myth. As far as it goes, it was not the creation of the material realm, but rather a statement on the extent of the power dragons wielded, which was released in their passing. But this event also caused creation of godlike valkyrians, known as riders, known for their ability to manipulte the released primordial elemnts.
+5. . Underworld develops by itself in isolation from the material realm.
 6. Isorians emerge as a civilization. They evolved separately from Owlites, but near the time to encounter dragons.
 7. Underworld is shortly discovered by Isorians, which shaped their own culture and myths.
 8. By the time Isorians became a spacefaring civilization, they started hunting dragons, primarily for the resources. But, with this power they eventually discovered universal energy, found in dragons passing, eventually developing into an interstellar empire. Spiral order was established.
-10. Tortomega and Valkyries are warring civilization in the material realm. During this period tortomega would become known as Titans. The relation between both is complex. Primarily, titans built floating castles for valkyries. Those castles composed the known heavenly kingdom within the material realm.
-As the war went, titans were pressed by valkyries back into the woods. In this state, Titans discovered the Underworld.
+9.  Tortomega and Valkyries are warring civilization in the material realm. During this period tortomega would become known as Titans. The relation between both is complex. Primarily, titans assisted in building floating castles for valkyries as did vlkyrian riders, carbing worlds from stone. Those castles composed the known heavenly kingdom within the material realm. Due to greater stability of this period, decorates statues and busts of titans were carved in several castles as a form of rememberance.
+10. But, as the war went on, titans were pressed by valkyries back into the woods. In this state, Titans discovered the Underworld.
 11. By that point Underworld contained a fully developed civilization and, specifically, corporations. One of corporations would become on the forefront of the Underworld, known as Undercorp.
 12. As Titans uncovered Underworld, under a lead of the Nefarious Imp, both civilization in beneficial agreement managed to back up.
 
@@ -4465,60 +4494,60 @@ As the war went, titans were pressed by valkyries back into the woods. In this s
 14. As Titans are at war with Undercorp, they break all connection with the Underworld through destruction of Grim Gates. This causes an unaccounted behavior of graviton technology to destabilize.
 
     While for Undercorp it was only a series of explosions, improper breakage of the connection on their part releases curse, native to Underworld, from the gates into the material realm. In case of titans the surrounding area was ridden by curse in uncontrolled manner pouring into the woods, afflicting wildlife of the Gloaming Wildwoods. Due to this, Snarbolax as an immortal bearer of curse, was born, as a transformed species close to wolvers.
-14. Remaining Titans flee in the remaining territories within the Aurora Isles and fall into deep sleep, in order to hide and outlive the erasure of their civilization. The remaining tortodrones are left without their masters. This place where Titans had fallen to slumber will be known as Starlight Cradle.
-15. At that, the spread of curse across the woods had not ended, as its excess had resulted in a poisonous miasma to emerge, characterized by crimson fog. By the time miasma has passed, most of the tortomega civilization was erased.
-16. Isorians are now a spacefaring civilization with an established Spiral Order. Those spacefaring vessels came before any major colonies were established. One of such vessels falls on planet later to become Cradle, wherein all technological advancements was not as well advanced. This is the planet, inhabited by valkyries and formerly titans, being a planet, which would eventually be reconstructed into Cradle.
-17. Those stranded Isorians develop a medieval civilization, which would eventually become the kingdom of Almire, kingdom of Ironmight, and of northerns settlements of raiders.
-18. Near that time Underworld is found by Isorians for the second time and Valkyries are generally hold neutral. This epoch will be known as the forgotten time.
+15. Remaining Titans flee in the remaining territories within the Aurora Isles and fall into deep sleep, in order to hide and outlive the erasure of their civilization. The remaining tortodrones are left without their masters. This place where Titans had fallen to slumber will be known as Starlight Cradle.
+16. At that, the spread of curse across the woods had not ended, as its excess had resulted in a poisonous miasma to emerge, characterized by crimson fog. By the time miasma has passed, most of the tortomega civilization was erased.
+17. Isorians are now a spacefaring civilization with an established Spiral Order. Those spacefaring vessels came before any major colonies were established. One of such vessels falls on planet later to become Cradle, wherein all technological advancements was not as well advanced. This is the planet, inhabited by valkyries and formerly titans, being a planet, which would eventually be reconstructed into Cradle.
+18. Those stranded Isorians develop a medieval civilization, which would eventually become the kingdom of Almire, kingdom of Ironmight, and of northerns settlements of raiders.
+19. Near that time Underworld is found by Isorians for the second time and Valkyries are generally hold neutral. This epoch will be known as the forgotten time.
 
     During this period of time some most ancient weapons would be created, which, by virtue, carried into the modern times, such as inherited from Titans heavy swords with an amount of inner elemental energy, gunpowder-powered handguns, and blades forged to slay the undead. Gunslinger priests they were called.
 
     trojans
 
     These designs would eventually be adopted by Valkyries, as it turns out, piercing weapons are effective against the Underworld fiends, and Isorians had only those in their disposal, due to lack of knowledge on underworld or of greater elemental powers.
-19. And yet, Isorians presented a danger to Valkyrian rule, as they had their experience with the Underworld.
+20. And yet, Isorians presented a danger to Valkyrian rule, as they had their experience with the Underworld.
 
     One of Valkyries, driven by ambition of power of Underworld, orchestrates a creation of a stone army, made of spiral wardens. Those became Trojans of Legion of Ur. For this, Fallen Valkyrian is banished from the heavenly kingdom. With this plot uncovered, Fallen Valkyrian and trojans, now known as Legion of Ur, conquer the Underworld.
-20. Due to this, heavenly kingdom now oversees the mountains, within which an entrance to the Underworld is hidden.
-21. In contrast to nature of those mountains, a kingdom of Almire flourishes, as it is under the divine protection of Spirit Mother.
+21. Due to this, heavenly kingdom now oversees the mountains, within which an entrance to the Underworld is hidden.
+22. In contrast to nature of those mountains, a kingdom of Almire flourishes, as it is under the divine protection of Spirit Mother.
 
     Near this kingdom, kingdom of Ironmight exists, which has in their disposal magical trees. From their wood one of most durable armors were created. And it was the kingdom to hold the economic power over the region.
 
     Almire in that regard had their own developments. While being a kingdom generally attuned to nature, it found fiery elemental in the mountains.
-22. Through the proximity to Underworld's influence, fiendish cults had there development there, leading to crating of altars to those Underworld deities.
-23. As heavenly kingdom remain in the sky, a war between Ironmight kingdom and kingdom of Almire breaks out. Northern raider assisted Ironmight kingdom.
-24. The war led to Almire's Fall and Lord Vanaduke leaving into mountains in search for myths, inherited from a war between Titans and Valkyries, including aftermath of Titan's erasure by Undercorp, and stories of legion of Ur.
-25. As war went, apart from a cult of a volcanic deity, later known to be, likely, Vog, across graveyards a different cult emerges - of a nameless Vile deity, related to poisons and rot.
-26. As Almire's army was overpower, Lord Vanaduke flees into the volcanic mountains. There, he finds fiery cult's chamber.
+23. Through the proximity to Underworld's influence, fiendish cults had there development there, leading to crating of altars to those Underworld deities.
+24. As heavenly kingdom remain in the sky, a war between Ironmight kingdom and kingdom of Almire breaks out. Northern raider assisted Ironmight kingdom.
+25. The war led to Almire's Fall and Lord Vanaduke leaving into mountains in search for myths, inherited from a war between Titans and Valkyries, including aftermath of Titan's erasure by Undercorp, and stories of legion of Ur.
+26. As war went, apart from a cult of a volcanic deity, later known to be, likely, Vog, across graveyards a different cult emerges - of a nameless Vile deity, related to poisons and rot.
+27. As Almire's army was overpower, Lord Vanaduke flees into the volcanic mountains. There, he finds fiery cult's chamber.
 
     It curses Lord Vanaduke, causing him to emerge from the mountains with an Underworld army of trojans.
-27. Lord Vanaduke returns, frees Almire of the invaders and conquers their lands. With this an undead Almirian Empire is founded.
-28. Valkyries invade Underworld in order to purge it of Legion of Ur, as they saw extent of their might. With this, they seal the Legion of ur in the Underworld.
-29. A tribe of Kats develops, they invade heavenly kingdom, specifically Owlite Academy, and through ill-usage of tomes located there, cause Kataclysm, erasing both civilizations.
+28. Lord Vanaduke returns, frees Almire of the invaders and conquers their lands. With this an undead Almirian Empire is founded.
+29. Valkyries invade Underworld in order to purge it of Legion of Ur, as they saw extent of their might. With this, they seal the Legion of ur in the Underworld.
+30. A tribe of Kats develops, they invade heavenly kingdom, specifically Owlite Academy, and through ill-usage of tomes located there, cause Kataclysm, erasing both civilizations.
 
     Kataclysm takes part of Owlite Academy at the epicenter of the cataclysm into the realm close to the Underworld.
-30. This state of affairs lasts for a long time, until the planet was found by gremlin interstellar empire.
+31. This state of affairs lasts for a long time, until the planet was found by gremlin interstellar empire.
 
     Here the first contact with the Sleeper was established by king Tinkinzar. Sleeper reveals itself as a ancient entity, unprotected by heavenly kingdom, yet capable of beneficial actions.
-31. Sleeper shows Tinkinzar a grand vision of what will eventually become Cradle, devised to be a new home for gremlins, as they protect it.
-32. In this vision Clockworks are built, utilizing both knowledge of elementals as well as more natural sciences.
+32. Sleeper shows Tinkinzar a grand vision of what will eventually become Cradle, devised to be a new home for gremlins, as they protect it.
+33. In this vision Clockworks are built, utilizing both knowledge of elementals as well as more natural sciences.
 
     The Core, which would contain and protect Sleeper, introduced Nameless Realm into the material realm in the form of contained Whitespace. Several control points are built to secure access to the Core, the Sanctuary, wherein Sleeper is located. This action also marks the moment spirits are forbidden from completely leaving into the afterlife.
 
     This creates a metaphysical shift, as departed spirit now return to material realm, but severing Underworld, and making graveyards from Almirian age far more dangerous. As fallen civilization came back to life, apart from eternally shrouded by curse Almire and Owlites, forcing them to be contained within Clockworks. As such, graveyards of the Almirian Empire are now brought down in proximity of Underworld by the amount of souls after Almirian-Ironmight war contained there and unable to depart. it is such due to still slumbering Sleeper as a divine entity, and only after its proper awakening, metaphysics of Cradle would eventually return to general normal.
-33. The king reunites all warring gremlin clans, giving the most prosperous time for the empire, located in the Great Colony.
-34. Eventually the king succumbs to madness, which accompanied him in later years, breaking the agreement.
+34. The king reunites all warring gremlin clans, giving the most prosperous time for the empire, located in the Great Colony.
+35. Eventually the king succumbs to madness, which accompanied him in later years, breaking the agreement.
 
     Tinkinzar's madness is considered to be brought by Undercorp's intervention, specifically, Nefarious Imp. In the result, curse was be applied at the nature of Nameless Realm, now present in material realm as the Whitespace.
 
     This transformation and introduction of curse results in the foundation of Clockworks' building resource to be influenced by curse, yet, due to its nature of Nameless Realm, it was in greater proximity to the fundamental alchemical forces of the universe, tapping directly into the Void. Amplified and merged with the chaotic nature of the Void, the Swarm was created - an inverse of what it initially was.
-35. As king was succumbing to madness, an Order of 9 members, Crimson Order, was founded to uphold king's reign. Under the reign of Crimson Order Iron Law is established as a measure of containing the failing empire as well as the Swarm at a cost of sealing the Core, which imprisoned the Sleeper within its confinements.
-36. The Core is sealed, Core Terminal's passage is destroyed, and the device, the Artifact, used to activate thee consoles, is hidden.
-37. Across Isorian colonies a war erupts, leading to a prolonged conflict, known as the Morai Wars. This war leaves most of the civilization in ruins and without a sun. This causes all parties to search an unprecedented energy source.
-38. Morai vessel in their search for energy, stumbles onto Cradle and is shot down by its defenses. Morai soldier are raised from the dead under Core's influence. As the Citadel, and as undead, they are contained by gremlins.
-39. Lichen meteorite fall on Cradle, gremlins use slime's properties to bioengineer purposed organisms in the maintenance of Clockworks.
-40. Near a hundred years later, another, now Isorian vessel - Skylark, - would discover Cradle. Cradle's defenses strike Skylark down, causing it to crash land on Cradle's surface. This, finally, leads to the events of the game.
-41. Crimson Order member Herex is influenced by the same madness as one afflicted Tinkinzar, causing him to seek hidden Artifact.
+36. As king was succumbing to madness, an Order of 9 members, Crimson Order, was founded to uphold king's reign. Under the reign of Crimson Order Iron Law is established as a measure of containing the failing empire as well as the Swarm at a cost of sealing the Core, which imprisoned the Sleeper within its confinements.
+37. The Core is sealed, Core Terminal's passage is destroyed, and the device, the Artifact, used to activate thee consoles, is hidden.
+38. Across Isorian colonies a war erupts, leading to a prolonged conflict, known as the Morai Wars. This war leaves most of the civilization in ruins and without a sun. This causes all parties to search an unprecedented energy source.
+39. Morai vessel in their search for energy, stumbles onto Cradle and is shot down by its defenses. Morai soldier are raised from the dead under Core's influence. As the Citadel, and as undead, they are contained by gremlins.
+40. Lichen meteorite fall on Cradle, gremlins use slime's properties to bioengineer purposed organisms in the maintenance of Clockworks.
+41. Near a hundred years later, another, now Isorian vessel - Skylark, - would discover Cradle. Cradle's defenses strike Skylark down, causing it to crash land on Cradle's surface. This, finally, leads to the events of the game.
+42. Crimson Order member Herex is influenced by the same madness as one afflicted Tinkinzar, causing him to seek hidden Artifact.
 
     It was retrieved, applied to the console in Owlite ruins now ruled by the Jelly King. After activation the Core had opened for a moment, exactly by the time Alpha Squad reached the Core Terminal in pursuit of the Swarm, which felt the Core opening.
 
