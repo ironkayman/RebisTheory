@@ -127,6 +127,8 @@ At that very point the implied duality of the phrase above must be kept in mind,
 
 `The “treasure hard to attain,” whose presence was suspected in the dark prima materia, is symbolized by the alchemists in various ways. Christopher of Paris, for instance, says that the chaos (as prima materia) is the work of all-wise nature. Our understanding ... , aided by the “celestial and glowing spirit,” must transform this natural work of art —chaos—into the celestial nature of the quintessence, and into the life- giving (vegetabilis) essence of heaven. The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum).`
 
+---
+
 `the earth (as prima materia) is not a dead body, but is inhabited by a spirit that is its life and soul. All created things, minerals included, draw their strength from the earth- spirit. This spirit is life, it is nourished by the stars, and it gives nourishment to all the living things ... This invisible spirit is like the reflection in a mirror, intangible, yet it is at the same time the root of all the substances necessary to the alchemical process or arising therefrom (radix nostrorum corporum).`
 
 </BookCitation>
@@ -211,7 +213,11 @@ We will consider this in-universe concept of alchemy as one inspired by the real
 
 `This puzzle has proved something of a headache to many an honest and well-meaning student of alchemy. On the one hand the alchemist declares that he is concealing the truth intentionally, so as to prevent wicked or stupid people from gaining possession of the gold and thus precipitating a catastrophe. But, on the other hand, the same author will assure us that the gold he is seeking is not—as the stupid suppose—the ordinary gold (aurum vulgi), it is the philosophical gold or even the marvellous stone, the lapis invisibilitatis (the stone of invisibility), or the lapis aethereus (the ethereal stone), or finally the unimaginable hermaphroditic rebis, and he will end up by saying that all recipes whatsoever are to be despised.`
 
+---
+
 `For psychological reasons, however, it is highly unlikely that the motive prompting the alchemist to secrecy and mystification was consideration for mankind. Whenever anything real is discovered it is usually announced with a flourish of trumpets. The fact is that the alchemists had little or nothing to divulge in the way of chemistry, least of all the secret of goldmaking.`
+
+---
 
 `The real nature of matter was unknown to the alchemist: he knew it only in hints. In seeking to explore it he projected the unconscious into the darkness of matter in order to illuminate it. In order to explain the mystery of matter he projected yet another mystery— his own unknown psychic background—into what was to be explained: Obscurum per obscurius, ignotum per ignotius! This procedure was not, of course, intentional; it was an involuntary occurrence.`
 
@@ -259,7 +265,7 @@ Those scales could relate to Underworld or to general supernatural by the fact o
 
 The rage/normal damage thematic parity is also seen in [tortodrones](https://wiki.spiralknights.com/Tortodrone): `handgun empowered by the limitless fury of a tortodrone. While wielding it you can feel the berserk energy within eager to be unleashed` ([Grand Tortofist](https://wiki.spiralknights.com/Grand_Tortofist)), - and it deals pure normal damage. Tortodrones themselves are associated with rage not only by their equipment and design of cosmetics, but the design of an [enraged tortodrone](https://wiki.spiralknights.com/March_of_the_Tortodrones_(Mission)) of missions card.
 
-While corrupted (`A handgun alchemized from the shell of a corrupted tortodrone.` - [Grim Buster](https://wiki.spiralknights.com/Grim_Buster)) tortodrones are fought in [Call of the Colossi](https://wiki.spiralknights.com/March_of_the_Tortodrones/Call_of_the_Colossi), they still deal normal and elemental damage, despite their corrupted weaponry likely being [Gorgofist](https://wiki.spiralknights.com/Gorgofist), as it is a shadow-damaging weapon. So far, we will not delve into the specifics of Tortodrones, as they will be revisited later in the [Arrival of Undercorp section](#chapter-vi-arrival-of-undercorp), where this motif will be explored in greater depth.
+While corrupted (`A handgun alchemized from the shell of a corrupted tortodrone.` - [Grim Buster](https://wiki.spiralknights.com/Grim_Buster)) tortodrones are fought in [Call of the Colossi](https://wiki.spiralknights.com/March_of_the_Tortodrones/Call_of_the_Colossi). The colossi in question, due to tortodrones' size, we suggest, are those exact tortodrones. They still deal normal and elemental damage, despite their corrupted weaponry likely being [Gorgofist](https://wiki.spiralknights.com/Gorgofist), as it is a shadow-damaging weapon. So far, we will not delve into the specifics of Tortodrones, as they will be revisited later in the [Arrival of Undercorp section](#chapter-vi-arrival-of-undercorp), where this motif will be explored in greater depth.
 
 As for the divine Drakon and its dragon counterpart, one more similarity can be suggested to parallel to the established idea dragons being interstellar species.
 
@@ -738,9 +744,11 @@ Moreover, this exact narrative seems as the closest to the myth of how Asgard of
 
 Describing the red band in the rainbow, the Prose Edda suggests that `that which thou seest to be red in the bow is burning fire; the Hill-Giants might go up to heaven, if passage on Bifröst were open to all those who would cross.`[11. Snorri Sturluson, Gylfaginning XV, Brodeur, 28.] This, the constant threat of invasion by the hostile giants (Jotun), represented a genuine fear for the Aesir.
 
-...
+---
 
 In the mythic texts, the Aesir are thought to have constructed Asgard at some point in the mythic past. As Snorri suggests, `In the beginning [Odin] established rulers, and bade them ordain fates with him, and give counsel concerning the planning of the town; that was in the place which is called Ida-field, in the midst of the town. It was their first work to make that court in which their twelve seats stand, and another, the high-seat which Allfather himself has. That house is the best-made of any on earth, and the greatest; without and within, it is all like one piece of gold; men call it Gladsheim.` [16. Gylfaginning XIV, Brodeur 25.]
+
+---
 
 However, once these various homes and meeting halls were completed, the Aesir realized that they were relatively susceptible to attack. Fortuitously (or so it seemed at the time), a giant stopped by and offered to construct them an impregnable wall and a gate to protect their fledgling realm. However, his terms were quite steep, as he wished to receive in payment the hand of Freya in marriage, as well as the sun and the moon. The Aesir agreed to this bargain, on the condition that the work be completed within six months, and that he do it with no help (as they assumed that such a task would simply be impossible to complete). The giant stone-wright agreed to this once Loki convinced the Aesir to allow him to use his stallion to help in the building process.
 
@@ -1317,33 +1325,55 @@ Now, as for the __identity of the ship, we propose that it belongs to species of
 
 <h3 align="center">Chapter <code>VI</code>: Arrival of Undercorp</h3>
 
-Tortomega, descendants of tortoises and far descendants of dragons, were pressed back into the wildwoods after the war with valkyries of heavenly kingdoms, as discussed in the [ancient titans section](#chapter-iii-ancient-titans). It was a place where their civilization had emerged for the first time.
+Tortomega, the [titans](#chapter-titans), descendants of tortoises and far descendants of dragons, were pressed back into the wildwoods after the [war with valkyries of heavenly kingdom](#fiendisj-statues). It was a place where their civilization had emerged for the first time, in the woods, as we concluded from the analysis of strata of ruins, present across [Aurora Isles](https://wiki.spiralknights.com/Aurora_Isles), [Wolver Dens](https://wiki.spiralknights.com/Wolver_Den), [Gloaming Wildwoods](https://wiki.spiralknights.com/Gloaming_Wildwoods), [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove), and [Starlight Cradle](https://wiki.spiralknights.com/Starlight_Cradle).
 
 As tortodrones are most recent physically present lead to understanding Tortomega, we will start this analysis from what was found during the long migration of tortodrones, specifically, in the [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove).
 
-The connection between fiends of Undercorp and tortodrones is posed almost instantly, as to encounter working tortodrones, albeit in a corrupted state, Spiral Knights need to collect fiendish glyphs and make an identification card in order to gain access to the depths of Ancient Grove, wherein tortodrones are located. Spiral HQ suggests that `the Fiends are somehow linked to the disappearance of those once-mythical beings` ([March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones_(Mission))).
+The connection between fiends of Undercorp and tortodrones is posed almost instantly, as to encounter working tortodrones, albeit in a corrupted state, Spiral Knights need to collect [fiendish glyphs](https://wiki.spiralknights.com/Fiendish_ID_Card#Recipe) and make an [identification card](https://wiki.spiralknights.com/Fiendish_ID_Card) in order to gain access to the depths of Ancient Grove, wherein tortodrones are located, [Call of the Colossi](https://wiki.spiralknights.com/Call_of_the_Colossi). Spiral HQ suggests that `the Fiends are somehow linked to the disappearance of those once-mythical beings` ([March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones_(Mission))).
 
-#### Ritual Circles
+#### Ritual Circles / Circle of Art
 
 We will start from a particular ritual circle around inactive tortodrone near the elevator at the end of [Call of the Colossi](https://wiki.spiralknights.com/Call_of_the_Colossi) beyond the grim gates located in the [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove).
 
-This circle has all of the same fiendish sigils, used occasionally across the Clockworks in locations usually containing mineral pillars. Currently we will not analyze nature of those rooms in Clockwork tunnels. Circle of the same color, but smaller and without fiendish sigils can be found before the Call of The Colossi arena, surrounding inactive tortodrone part as well as an entire inactive tortodrone near the exit elevator.
+This circle has all of the same fiendish sigils, used occasionally across the Clockworks in locations usually containing mineral pillars. Currently we will not analyze nature of those rooms in Clockwork tunnels. Circle of the same color, pale white, but smaller and without fiendish sigils can be found before the Call of The Colossi arena, surrounding inactive tortodrone part, as well as an entire inactive tortodrone near the depth's exit elevator.
 
-Based on the notion of fiends having in possession working tortodrones, through, likely, power of dark matter as based on its presence in shells, stitches, and carved sigils, we can safely suggest, although it is a speculation currently, that those circles of different color and currently unknown mineral seem to possess a warding property, protecting the encircled entity. In our case, it is inactive tortodrone parts. We will later revisit this speculation and the warding motif later as we analyze the imagery of devilite ritual circles.
+Based on the notion of fiends having in possession working tortodrones, through, likely, power of dark matter as based on its presence in stitched shells and carved sigils, we can safely suggest, although it is a speculation currently, that those circles of different color and currently unknown mineral seem to possess a warding property, protecting the encircled entity. In our case, inactive tortodrone and its parts. We will later revisit this speculation of the warding motif, developing it further, as we analyze the imagery of devilite ritual circles.
 
-To touch upon the color, as the regular ritual circles are purple, same as dark matter mineral, the circles found in the Call of the Colossi are ghostly white, somewhat similar to patterns observed at the [Everfrost Tower](https://wiki.spiralknights.com/Everfrost_Tower) and different from a [ritual circle in the Moorcroft Manor](https://wiki.spiralknights.com/File:Konjuring_Kat-Overworld.png) and [Departure of Shroud of Apocrea](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png). It is most certainly that dark matter is not used in the latter instances, as they are not purple. Currently we won't consider different physics of the ritual circles depending on their mineral, but, it is important to note, that there exists an aspect of minerals capable of being charged, which results, as we will soon see, in a change of color.
+Fiendish ritual circles are purple, same as dark matter mineral, the circles found in the Call of the Colossi are ghostly white. This practice of using differnt color is observed at the [Everfrost Tower](https://wiki.spiralknights.com/Everfrost_Tower), found in a [ritual circle in the Moorcroft Manor](https://wiki.spiralknights.com/File:Konjuring_Kat-Overworld.png), and during [Departure of Shroud of Apocrea](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png). Due to consistency of dark matter's color, we can conclude that dark matter is not used in the latter instances, as they are not purple. Currently we won't consider different physics of the ritual circles depending on their mineral, but, it is important to note, that _there exists an aspect of minerals capable of being charged, which results, as we will soon see, in their color shifting_.
 
-The sigils themselves are important to understand potential usage of fiendish ritual circles.
+The sigils themselves, including ritual circles, seem to be inspired by the Solomon Seals, and pinpointed to a few patterns, as suggested by [Kentngo on Spiral Knights forums](https://forums.spiralknights.com/en/node/7857#comment-40758): `The Fifth Pentacle of Saturn combined with the meaning of the Seventh Pentacle of the Sun. Two circles, denoting the angels names between the two. The center shows a resemblance to the Third Pentacle of Mercury. Although the angelic names are gibberish in this case`.
 
-As devilites use sigils extensively, this seems as a solid proof that the sigils are of Underworld origin rather than of material realm, as there are also runes present on [Rider Mantles](https://wiki.spiralknights.com/Rider_Mantle). Those runes, 3 exactly, were never seen anywhere else on Cradle.
+<BookCitation source="The Key of Solomon the King">
 
-The sigils themselves, that is with the entire ritual circles, seem to be inspired by the Solomon Seals, and pinpointed to a few patterns, as suggested by [Kentngo on Spiral Knights forums](https://forums.spiralknights.com/en/node/7857#comment-40758), specifically to:
+`The Fifth Pentacle of Saturn. This Pentacle defendeth those who invoke the Spirits of Saturn during the night and chaseth away the Spirits which guard treasures` [p.60, fig.15].
 
-- `The Fifth Pentacle of Saturn. This Pentacle defendeth those who invoke the Spirits of Saturn during the night and chaseth away the Spirits which guard treasures` (p.60, fig.15, "The Key of Solomon").
-- `The Seventh and Last Pentacle of the Sun. If any be by chance imprisoned or detained in fetters of iron, at the presence of this Pentacle, which should be engraved in Gold on the day and hour of the Sun, he will be immediately delivered and set at liberty` (p.66, fig.38, "The Key of Solomon").
-- `The Third Pentacle of Mercury. This and the following serve to invoke the Spirits subject unto Mercury and especially those who are written in this Pentacle` (p.68, fig.46, "The Key of Solomon").
+---
 
-Previously mentioned idea of white circles serving as ward, seems more plausible under those interpretations of protection.
+`The Seventh and Last Pentacle of the Sun. If any be by chance imprisoned or detained in fetters of iron, at the presence of this Pentacle, which should be engraved in Gold on the day and hour of the Sun, he will be immediately delivered and set at liberty` [p.66, fig.38].
+
+---
+
+`The Third Pentacle of Mercury. This and the following serve to invoke the Spirits subject unto Mercury and especially those who are written in this Pentacle` [p.68, fig.46].
+
+</BookCitation>
+
+The idea of protection for dark matter circles is a novel one, but it follows along the previous concept of pale circles as warding ones. The protected target is the one encircled - in case of devilites those are mineral pillars. Then, through this logic, the pale circles indeed belong to a different party, as they had used a different mineral for those circles. We suggest, that the same is correct for the latter examples of ritual circles, ones relating to everfrost, and others to inner establishment of the Moorcroft Manor, likely the undead Kat Tribe. We are noting here, that __those circles are not drawn by fiends, but the consistent practice itself has to emerge from some culture, which we consider so far being from the Underworld__.
+
+Previously mentioned idea of white circles serving as ward, seems more plausible under those interpretations of protection. Moreover, the concept of the circle itself, which is introduced in "The Key of Solomon the King" it is called __Circle of Art__:
+
+<BookCitation source="The Key of King Solomon the King">
+
+`Verily, since no experiments for converse with Spirits can be done without shouldest wish to prepared, whatsoever experiments therefore thou wishest to undertake for conversing with Spirits, therein thou must learn to construct a certain particular Circle that being done surround that Circle with a Circle of Art for better caution and efficacy. [Book 1, ch. II, "Of the Days, and Hours, and of the Virtues of the Planets."]`
+
+---
+
+`The which being finished, and the fumigations being performed, as is described in the chapter on Fumigations in the Second Book, the Master should reassemble his Disciples, encourage them, reassure them, fortify them, and conduct them into the parts of the Circle of Art, where he must place them in the four quarters of the earth, encourage them, and exhort them to fear nothing, and to keep in the places assigned to them. [Book 1, ch. III, "The Construction of the Circle"]`
+
+---
+
+`The Medals or Pentacles, which we make for the purpose ot striking terror into the Spirits and reducing them to obedience, have besides this wonderful and excellent virtue. If thou invokest the Spirits by virtue of these Pentacles, they will obey thee without repugnance, and having considered them they will be struck with astonishment, and will fear them, and thou shalt see them so surprised by fear and terror, that none of them will be sufficiently bold to wish to oppose thy will. [Book 1, ch. XVIII, "Concerning the Holy Pentacles or Medals."]`
+
+</BookCitation>
 
 ##### Summoning from Underworld
 
@@ -1351,29 +1381,35 @@ Apart from those implied properties, which might help in establishing overall th
 
 There are 2 instances of such application of ritual circles is seen across Clockworks.
 
-During the events of [return of the Legion of Ur](https://wiki.spiralknights.com/The_Return_of_Ur), devilites utilized ritual circles to summon banished to the Underworld trojans. (`devilites are attempting to summon a legion of powerful trojan warriors. Based on intel from a devilite internal memo, the trojans are known as the 'Legion or Ur' ... the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back` - [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)).
+During the events of [return of the Legion of Ur](https://wiki.spiralknights.com/The_Return_of_Ur), devilites utilized ritual circles to summon banished to the Underworld trojans: `devilites are attempting to summon a legion of powerful trojan warriors. Based on intel from a devilite internal memo, the trojans are known as the 'Legion or Ur' ... the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back` ([The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)).
 
 Here the alternative approach devilites had spoken of, is implied to be used during mission's events, that of ritual circles. Then this must mean that an original approach should exist. Notably, from the same memo it is likely that whatever original approach was, it does not work for sealed in Underworld entities.
 
-We believe that the original approach implied to exist, is the technology of grim gates. Considering that devilites use the ritual circle method on Cradle, and are considered stranded (`data collected from fiendish cities seems to indicate that they are now stranded on Cradle, much like us` - [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)), then there should be a reason why they did not use the gates, as it is the only other technology directly related to devilites. We will analyze grim gates shortly.
+We believe that the original approach implied to exist, is the technology of grim gates. Considering that devilites use the ritual circle method on Cradle, and are considered stranded (`data collected from fiendish cities seems to indicate that they are now stranded on Cradle, much like us` - [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)), then there should be a reason why they did not use the gates, as it is the only other technology directly related to devilites.
 
-Then, this would also mean that underlying grim gates technology, paired with relation to tortodrones is one of if not the first instance of Underworld presenting itself to known material realm.
+The underlying grim gates technology, paired with relation to tortodrones is one of, if not the first, instances of Underworld presenting itself to known material realm.
 
-So, for trojans, the solution was to utilize known sigils and draw ritual circles, pulling trojans from Underworld, as implied by depths' names and internal design:
+For trojans, the solution was to utilize known sigils and draw ritual circles, pulling trojans from Underworld, as implied by depths' names and internal design:
 
-- [Plazamonium](https://wiki.spiralknights.com/Dark_City/Plazamonium) is referred in the [mission](https://wiki.spiralknights.com/The_Return_of_Ur) as the `Summoning Circle` ([The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur))
-- In that context Dimensional Shift may be identified as an area of dark cities surrounding the ritual site.
-- Also it is notable that a specific [scenario room](https://wiki.spiralknights.com/File:Scenario_Room-DevilishDrudgery_1.png) which has a particularly large ritual site composed of 6 smaller ritual circles. The information module near the site states: `5 Ways to Appease your Pit Boss` ([Scenario Room](https://wiki.spiralknights.com/Scenario_room)), this might reveal more about internal corporate structure of Undercorp.
+- Depth of [Plazamonium](https://wiki.spiralknights.com/Dark_City/Plazamonium) is referred in the [mission](https://wiki.spiralknights.com/The_Return_of_Ur) as the `Summoning Circle` ([The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)).
+- In that context `Dimensional Shift` ([The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)) may be identified as an area of dark cities surrounding the ritual site, and it is affected by something.
+- A specific [scenario room](https://wiki.spiralknights.com/File:Scenario_Room-DevilishDrudgery_1.png) has a particularly large ritual site composed of 6 smaller ritual circles.
+
+    The information module near the site states: `5 Ways to Appease your Pit Boss` ([Scenario Room](https://wiki.spiralknights.com/Scenario_room)), this might reveal more about internal corporate structure of Undercorp - that of unfamiliar utilized as mundane, - the _urban, corporate setting of devilites' dark cities is combined with the theme of mundane occult_.
 
 To affirm potential role as a summoning mechanism, connecting Underworld and material realm, there is one single direct evidence of those rituals circles seen as capable of bringing entities to material realm. Although there is a notion of ritual circles utilizing different minerals, we won't currently consider it in order to emphasize the patterns themselves, connected to devilites, yet minerals may play a role in the exact laws of rituals.
 
-In the Moorcroft Manor, black kat Margrel of the Kat tribe is summoned through the process of applying incantation from the [book of dark rituals](https://wiki.spiralknights.com/Book_of_Dark_Rituals) to the [ritual circle](https://wiki.spiralknights.com/File:Konjuring_Kat-Overworld.png).
+In the Moorcroft Manor, black kat Margrel of the Kat tribe is summoned through the process of applying incantation from the [Book of Dark Rituals](https://wiki.spiralknights.com/Book_of_Dark_Rituals) to the [ritual circle](https://wiki.spiralknights.com/File:Konjuring_Kat-Overworld.png).
 
-The summoning of Margrel is characterized by a formation of a dark-pink maelstrom enveloping the space below the manor. The maelstrom itself is extremely similar to one later observed across the grim gates, once their open portal is destroyed at the end of devilite onslaught, with a blue-purple core. We will look into the grim gates, as technology, soon enough. But, as of currently, it seems likely that in general, by the pattern of the ritual circle itself, entities can be brought in, and combined with the analysis of grim gates, the location in question is the Underworld. This seems as a strong argument to the original method devilites were summoned, although presence of their sigils then is likely anachronistic.
+The summoning of Margrel is characterized by a formation of a dark-pink maelstrom enveloping the space below the manor. The maelstrom itself is extremely similar to one later observed across the grim gates, once their open portal is destroyed at the end of devilite onslaught, with a blue-purple core. We will look into the grim gates, as technology, soon enough. But, as of currently, it seems likely that in general, by the pattern of the ritual circle itself, entities can be brought in, and combined with the analysis of grim gates, the location in question is the Underworld. This seems as a strong argument to the original method devilites were summoned.
 
-A particularly large logical leap we had to take here, but one proposing a solution of how devilites entered material realm, is that tortomega being the ones who summoned devilites originally to a planet preceding Cradle though application of similar magic to one used with fiendish ritual circles, while located in the ancient grove of the Wildwoods. We don't know weather the white circles were devised after devilites arriving, or prior to it, as the sigils do belong to fiends and used by them.
+A particularly large logical leap we had to take here, but one proposing a solution of how devilites entered material realm, is that tortomega being the ones who summoned devilites originally to a planet preceding Cradle though application of similar magic to one used with fiendish ritual circles, while located in the ancient grove of the Wildwoods. In this proposal we consider white circles being devised after devilites' arrival, as the sigils do seem to belong to fiends.
 
-But, considering that the dragons were likely a unique species in our thought framework, discovery of Underworld through their means, - dragon scales, - would seem plausible. To conclude, we propose that tortomega managed to summon devilites of Undercorp though a more rudimentary approach, that of ritual circles, albeit not the exact iteration seen in modern Clockworks and dark cities.
+The reasoning behind the ide of devilites arriving somewhere in the woods will be covered throughout the proposal itself, as we delve into specifics, but the gist of it is based around 2 major elements: [tortdrones' design](#construction-of-tortodrones) and [existence of Snarbolax](#snarbolax), with an addition of Shadow Gloaming Wildwoods' [miasma](#miasma). The latter exists largely on its own, and will be covered in the [analysis of Shadow Lairs](#analysis-of-shadow-lairs) themselves.
+
+But, considering that the dragons were likely a unique species in our thought framework, discovery of Underworld through their means, - through relation to dragons and inheritance of their abilities, - in case of tortomega, of potentially rage or frenzy. The latter could be more plausible, if we take [fiendish statues'](#fiendish-statues) depiction of tortomega as-is, rather than an interpretation.
+
+To conclude, we propose that __tortomega had summoned devilites of Undercorp into material realm__ through a more rudimentary approach of either _ritual circles_ or of their _semi-magical nature as descendants of shadow or rage dragons_.
 
 #### Undercorp's Initial Advancements
 
@@ -1381,32 +1417,30 @@ With Underworld uncovered, devilites and Undercorp arrived with [Greavers](https
 
 Likely, combined efforts of Undercorp and tortomega allowed for a cooperation. During this period of time several technologies were developed:
 
-- [Graviton Bomb and Graviton Vortex](https://wiki.spiralknights.com/Graviton_Bomb). Despite tortomega likely aware of power of frenzy or shadow, we think that the bomb was created after the arrival of devilites as it has ornament evil eye present on it, uncharacteristic of more simple eye present of Greavers' helm. Bomb's design of the shell and its explosion's sigil has the same ornament evil eye depicted.
-- [Vortex Block](https://wiki.spiralknights.com/File:Exploration-Vortex_Block.png) as it seems to use the same gravity-related principles, contains a dark pulsating core.
-- [Vile seal](https://wiki.spiralknights.com/Vile_Seal) which is utilized in alchemy of bombs and many shadow-related equipment. The seal itself is explicitly related by drop rate and description, to dark themes of Underworld: `A small scrap of ancient parchment imbued with dark magicks. It is believed that they grant power to those with evil souls`.
+- Invention of [Graviton Bomb and Graviton Vortex](https://wiki.spiralknights.com/Graviton_Bomb). Despite tortomega likely aware of power of frenzy or shadow, we think that the bomb was created after the arrival of devilites as it has an __ornament evil eye__ present on it, uncharacteristic of _more simple design of the evil eye_ present of Greavers' helm. Bomb's design of the shell and its explosion's sigil has the same _ornament evil eye depicted_.
+- Being similar to graviton bomb it its design - [Vortex Block](https://wiki.spiralknights.com/File:Exploration-Vortex_Block.png) seems to use the same gravity-related principles, contains a dark pulsating core.
+- Material, [Vile seal](https://wiki.spiralknights.com/Vile_Seal) is utilized in alchemy of bombs and many shadow-related equipment. The seal itself is explicitly related by drop rate and description, to occult themes of Underworld: `A small scrap of ancient parchment imbued with dark magicks. It is believed that they grant power to those with evil souls`.
 
 Weather grim gates were invented during this period of time is unknown, as they have devilite imagery, compared to the rest of tech, which lacks it. As regarding the naming convention, there are also [grim totems](https://wiki.spiralknights.com/Totem#Grim_Totem), which revive zombies from their skulls. Considering it, there are a few other items relating to death or Underworld in some ways:
 
 - `Designed to frighten their enemies, this helm is in the visage of Death itself` ([Grim Mask](https://wiki.spiralknights.com/Grim_Mask)).
-- [Grim Scarabs](https://wiki.spiralknights.com/Grim_Scarab#Grim_Scarab) which have relation to undeath and spirits during the [Dark Harvest Festival](https://wiki.spiralknights.com/Dark_Harvest_Festival). We should keep in mind that Strangers are ones who celebrate this festival, and are aware of such entities as Phantoms of Graveyard, scarabs and Pumpkin king, as seen from the masks obtained from [Maskwell](https://wiki.spiralknights.com/Maskwell)
-- `A small wisp of the essential spirit of darkness and decay` ([Grim Spark](https://wiki.spiralknights.com/Grim_Spark#Treasure_Box_Tokens)).
-- Although not related directly, [Grim Repeater](https://wiki.spiralknights.com/Grim_Repeater), has a peculiar wording: `this devilish machine gun earned its name from the incredible speed in which it hands out shadowy tickets to the afterlife`.
+- [Grim Scarabs](https://wiki.spiralknights.com/Grim_Scarab#Grim_Scarab) which have relation to undeath and spirits during the [Dark Harvest Festival](https://wiki.spiralknights.com/Dark_Harvest_Festival). We should keep in mind that Strangers are ones who celebrate this festival, and are aware of such entities as [Phantoms](https://wiki.spiralknights.com/Phantom) of [Graveyard](#graveyards), [scarabs](https://wiki.spiralknights.com/Scarab), and [Pumpkin King](https://wiki.spiralknights.com/Pumpkin_King), as seen from the masks obtained from [Maskwell](https://wiki.spiralknights.com/Maskwell).
+- `A small wisp of the essential spirit of darkness and decay` ([Grim Spark](https://wiki.spiralknights.com/Grim_Spark#Treasure_Box_Tokens))
+- Although not related directly, [Grim Repeater](https://wiki.spiralknights.com/Grim_Repeater), as it is a shadow damage weapon.
 
 Based on a few such instances, it is likely that at least Grim Totems and Grim Gates are of Undercorp development, or Underworld in general.
 
 #### Grim Gates
 
-Finally, the [Grim Gates](https://wiki.spiralknights.com/March_of_the_Tortodrones/Call_of_the_Colossi) were introduced to the material realm if not constructed in place, as means of large-scale transportation between Underworld and material realm.
+Finally, the [Grim Gates](https://wiki.spiralknights.com/March_of_the_Tortodrones/Call_of_the_Colossi) were introduced to the material realm if not constructed in place, as means of large-scale transportation between Underworld and material realm with the base of operation in [Call of The Colossi](https://wiki.spiralknights.com/Call_of_the_Colossi).
 
-This fits well with the setting of the main location wherein grim gates are always found, Call of The Colossi.
-
-This entire depth is referred as the "staging area" in Morgral'm's memo, highly suggesting that this area had its own dedicated role for Undercorp's operations, as Morgral'm is one working for it.
+This entire depth is referred as the `"staging area"` in [Morgral'm's memo](https://wiki.spiralknights.com/March_of_the_Tortodrones/Ancient_Grove): `An ID Card is required to access the staging area. Properly presenting the ID Card will consume it to power the Grim Gate`, highly suggesting that this area had its own dedicated role for Undercorp's operations in material realm.
 
 The term "staging area" is usually used in relation to logistics, construction, aviation and military, but all of them mean essentially the same - a point of arrival, departure or transit, wherein preparations are made. We will keep this definition in mind as currently we have to dissect tortodrones themselves.
 
-The depth itself is locked behind id card as well as has large amount of gates, aligning well wth the above description, as a transition zone. The area is connected to, likely, the Underworld, as seen by the dark city interior with an opened portals in the gates, with an inactive tortodrone in sight. This side of the gates will be visited shortly.
+The depth itself is locked behind [Fiendish ID Card](https://wiki.spiralknights.com/Fiendish_ID_Card) and has large amount of gates, aligning well wth the above description. The area is connected to, likely, the Underworld, as seen by the _dark city interior with an opened portals in the gates_, with an inactive tortodrone in sight. This side of the gates will be visited shortly.
 
-Grim Gates are powered by the glyphs transformed to id cards and carried by fiends ([Fiendish ID Card](https://wiki.spiralknights.com/Fiendish_ID_Card), `An ID Card is required to access the staging area. Properly presenting the ID Card will consume it to power the Grim Gate` - [Morgral'm](https://wiki.spiralknights.com/Morgral%27m)), proving that the underlying principle is of Underworld's physics.
+Grim Gates are powered by the glyphs, as those are used to create the [card](https://wiki.spiralknights.com/Fiendish_ID_Card) and carried by fiends ([Fiendish ID Card](https://wiki.spiralknights.com/Fiendish_ID_Card), `An ID Card is required to access the staging area. Properly presenting the ID Card will consume it to power the Grim Gate` - [Morgral'm](https://wiki.spiralknights.com/Morgral%27m)), sharing more information on the underlying principles of portals' physics.
 
 ##### Fiendish Glyphs
 
@@ -1414,40 +1448,70 @@ Naming convention of glyphs with their appearance may shed some light on the ins
 
 There are 5 fiendish glyphs in total required to construct the identification card, which also functions as power source for the gates. This fact alone suggests that those glyphs have an internal power, similar to minerals, as their will be discussed later.
 
-Then, it is glyph's icons in the inventory. Here we apply a similar concept of the diegetic interface of the game, where materials are also fall under Spiral Order classification. In the inventory they are depicted as essences, or metaphysic elements. We establish this motif based on other instances of this inventory icon being used:
+Glyphs' icons in the inventory also provide more context for their nature. Here we apply a similar concept of the diegetic interface of the game, where materials are also fall under Spiral Order classification. In the inventory they are depicted as essences, or metaphysic elements, yet being identified as glyphs - characters in writing system. We establish this motif based on other instances of this inventory icon being used:
 
-- [Flame Soul](https://wiki.spiralknights.com/Flame_Soul): `A powerful essence that left behind when a creature perishes during a blind, fiery rage`.
-- [Storm Chaser](https://wiki.spiralknights.com/Storm_Chaser): `A rare elemental found hovering in storm clouds. Their electric hum creates an almost melodic choir that can be faintly heard between thunderclaps`. While it differs thematically from the rest, we must keep in mind, that its original name - of the material - was Spark of Life (`The old ‘Spark of Life’ crafting material has been renamed to 'Storm Chaser'` - [Release Notes: 2013.07.30](https://wiki.spiralknights.com/Release_Notes_2013-07-30)).
-- [Plague Essence](https://wiki.spiralknights.com/Plague_Essence): `A powerful essence left behind when a creature perishes from a particularly putrid disease`.
-- [Everfrost](https://wiki.spiralknights.com/Everfrost): `A small patch of ice crystals that never seem to melt, even when exposed to direct heat`.
-- [Dark Ember](https://wiki.spiralknights.com/Dark_Ember): `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time`.
+- `A powerful essence that left behind when a creature perishes during a blind, fiery rage` ([Flame Soul](https://wiki.spiralknights.com/Flame_Soul)).
+- `A rare elemental found hovering in storm clouds. Their electric hum creates an almost melodic choir that can be faintly heard between thunderclaps` ([Storm Chaser](https://wiki.spiralknights.com/Storm_Chaser)). While it differs thematically from the rest, we must keep in mind, that its original name - of the material - was Spark of Life (`The old ‘Spark of Life’ crafting material has been renamed to 'Storm Chaser'` - [Release Notes: 2013.07.30](https://wiki.spiralknights.com/Release_Notes_2013-07-30)).
+- `A powerful essence left behind when a creature perishes from a particularly putrid disease` ([Plague Essence](https://wiki.spiralknights.com/Plague_Essence)).
+- `A small patch of ice crystals that never seem to melt, even when exposed to direct heat` ([Everfrost](https://wiki.spiralknights.com/Everfrost)).
+- `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)).
 
 The glyphs have color, one that can be related to minerals, although currently this may be an attempt of fitting similarities:
 
-- [Amu Glyph](https://wiki.spiralknights.com/Fiendish_Amu_Glyph), color pink, relation to crimsonite: `said to contain the passion, anger and strength of the life surrounding it`.
-  - Amon, an Egyptian god associated with sun, king of gods.
-- [Nok Glyph](https://wiki.spiralknights.com/Fiendish_Nok_Glyph), color green, relation to valestone: `said to contain the essence of all natural life`.
-- [Sol Glyph](https://wiki.spiralknights.com/Fiendish_Sol_Glyph), color yellow, relation luminite: `said to contain the faith, wisdom, and zeal of the life surrounding it`.
-  - Roman and old norse personification of the sun.
-- [Tor Glyph](https://wiki.spiralknights.com/Fiendish_Tor_Glyph), color blue, relation to moonstone: `said to contain the knowledge and origins of all worlds`.
-- [Ur Glyph](https://wiki.spiralknights.com/Fiendish_Ur_Glyph), color purple, relation to dark matter: `said to contain the essences of both chaos and nothingness`.
-  - Reminiscent of germanic runic alphabet.
-  - The name Ur can be attributes to an ancient sumerian city of the same name.
+- Name [Amu Glyph](https://wiki.spiralknights.com/Fiendish_Amu_Glyph), color pink, relation to crimsonite: `said to contain the passion, anger and strength of the life surrounding it`.
+- Name [Nok Glyph](https://wiki.spiralknights.com/Fiendish_Nok_Glyph), color green, relation to valestone: `said to contain the essence of all natural life`.
+- Name [Sol Glyph](https://wiki.spiralknights.com/Fiendish_Sol_Glyph), color yellow, relation luminite: `said to contain the faith, wisdom, and zeal of the life surrounding it`.
+- Name [Tor Glyph](https://wiki.spiralknights.com/Fiendish_Tor_Glyph), color blue, relation to moonstone: `said to contain the knowledge and origins of all worlds`.
+- Name [Ur Glyph](https://wiki.spiralknights.com/Fiendish_Ur_Glyph), color purple, relation to dark matter: `said to contain the essences of both chaos and nothingness`.
 
-Definition of glyph varies between civilizations and cultures, and in case of Underworld this is also true.
+This concept of color relation, apart from glyphs' color, is found in the texts of "The Key of Solomon the King", which might connect our colors to ones described in the Key through an alchemical interpretation and symbolism found in the descriptions of aforementioned Cradle minerals:
 
-Names of glyphs are seen in [fiendish cities](#dark-cities) of Amu-Sol and Sol' Fork, and fiendish legion of Ur, consisting of trojans. The case of dark cities may suggest that glyphs may hold multiple meanings to them, not as letters, but words, as suggested by the naming convention of cities.
+<BookCitation source="The Key of King Solomon the King">
 
-Then there is legion of Ur. The presence of Ur name in legion's name, if taken from real world history, implies Ur being legion's commander, a single entity. Other clue stems from the history of the Roman Empire. Their legions' names had nomenclatures which existed throughout internal reforms: numerical, which is not relevant here, and titled. The latter case seems applicable to the trojan legion. In that context, Ur may still be a figurehead's name but also a military campaign.
+These Pentacles are usually made of the metal the most suitable to the nature of the Planet ; and then there is no occasion to observe the rule of particular colours. They should be engraved with the instrument of Art in the days and hours proper to the Planet.
 
-Here we suggest a  following interpretation: if the inspiration of Seal of Solomon is taken into an account, then glyphs, as written characters, have power to spell entities' true names, and especially, true names of devilites. This mey not conflict with the mentioned concept of glyphs, as it is likely there are more of them - as names like Morgral'm exist. But may shed light on their meaning depending on the context.
+Saturn ruleth over Lead; Jupiter over Tin; Mars over Iron; the Sun over Gold; Venus over Copper Mercury over the mixture of Metals; and the Moon over Silver.
+
+They may also be made with exorcised Virgin paper, writing thereon with the colours adopted for each Planet, referring to the rules already laid down in the proper Chapters, and according to the Planet with which the Pentacle is in sympathy.
+
+Wherefore unto Saturn the colour of Black is appropriated Jupiter Mars over Red the Sun over Gold, or the colour ruleth over Celestial Blue of Yellow or Citron; Venus over Green; Mercury over Mixed Colours; the Moon over Silver, or the colour of Argentine Earth. `[Book 1, ch. XVIII, "Concerning the Holy Pentacles or Medals."]`
+
+---
+
+THE ORDER OF THE PENTACLES.
+
+(1.) Seven Pentacles consecrated to Saturn=Black.
+
+(2.) Seven Pentacles consecrated to Jupiter=Blue.
+
+(3.) Seven Pentacles consecrated to Mars=Red.
+
+(4.) Seven Pentacles consecrated to the Sun=Yellow.
+
+(5.) Five Pentacles consecrated to Venus=Green.
+
+(6.) Five Pentacles consecrated to Mercury=Mixed Colours.
+
+(7.) Six Pentacles consecrated to the Moon=Silver.
+
+`[Book 1, ch. XVIII, "Concerning the Holy Pentacles or Medals."]`
+
+</BookCitation>
+
+Names of glyphs are seen in [fiendish cities](#dark-cities) of `Amu-Sol` and `Sol' Fork`, and fiendish legion of Ur, consisting of trojans. The case of dark cities may suggest that glyphs may hold multiple meanings to them, not as letters, but words, as suggested by the naming convention of cities.
+
+Then there is legion of Ur. The presence of Ur name in legion's name, if taken from real world history, implies Ur being legion's commander, a single entity. Other clue stems from the history of the Roman Empire. Their legions' names had nomenclatures which existed throughout internal reforms: numerical, which is not relevant here, and titled. The latter case seems applicable to the trojan legion. In that context, Ur may still be a figurehead's name.
+
+Here we suggest a  following interpretation: if the inspiration of Seal of Solomon is taken into an account, then glyphs, as written characters, have power to spell entities' names, and especially, names of devilites. This mey not conflict with the mentioned concept of glyphs, as it is likely there are more of them - as names like Morgral'm exist.
 
 Combined with the depictions of fiendish sigils which may or may not be the same glyphs may potentially reveal 2 scenarios:
 
 - If those sigils are glyphs, and the prior are made of dark matter, may, in the course of the [Minerals and Souls section](#minerals-and-souls-part-1), make them energy carriers, which would explain the logic behind power source of the Grim Gates.
 - Glyphs may also allude to a different inspiration - of runic alphabet, wherein individual runes while still had carried meaning, transcribed into sentences.
 
-The first scenario of glyphs being made of dark matter may reveal mor on souls-based economy of the Underworld, and also culture in relation to names, but this is a pure speculation. Stemming from the idea of fire deity Vog being present in the Underworld, as it will be also explored later. As there are 5 known glyphs, with at least 2 fiendish cities having names which are partially made of those names, could it be referring to Underworld deities? We believe this distinction must be brought up. On the other hand, there are deities likely inhabiting Underworld, such as Hail deity, Vile deity, and Fire Deity. Considering naming convention of glyphs, Vog could plausibly fit there as a name for a fiendish glyph. The latter scenario of those entities, such as Ur, being immortal, can be implied by the name of a division, referred by Morgral'm: `As your division's disciplinary action will undoubtedly result in relocation to the Eternal Torment Division, this will likely be our final correspondence. I wish you luck in your continued career here at Undercorp` ([Morgral'm - Fiendish Memo](https://wiki.spiralknights.com/Morgral%27m)), that is based on the concept that devilites are immortal.
+The first scenario of glyphs being made of dark matter may reveal mor on souls-based economy of the Underworld, and also culture in relation to names, but this is a pure speculation. Stemming from the idea of fire deity Vog being present in the Underworld, as it will be also [explored later](#he-brought-fire-from-the-mountains). As there are 5 known glyphs, with at least 2 fiendish cities having names which are partially made of those names, could it be referring to Underworld deities? We believe this distinction must be brought up. On the other hand, there are deities likely inhabiting Underworld, such as [Hail deity](#influences-of-undeworld), [Vile deity](#fiendish-cults), and [Magma deity](#fiendish-cults).
+
+Considering naming convention of glyphs, Vog could plausibly fit there as a name for a fiendish glyph. The latter scenario of those entities, such as Ur, being immortal, can be implied by the name of a division, referred by Morgral'm: `As your division's disciplinary action will undoubtedly result in relocation to the Eternal Torment Division, this will likely be our final correspondence. I wish you luck in your continued career here at Undercorp` ([Morgral'm - Fiendish Memo](https://wiki.spiralknights.com/Morgral%27m)), that is based on the concept that devilites are immortal.
 
 ##### Undercorp's Graviton Technology
 
@@ -1475,12 +1539,12 @@ Gloaming Wildwoods were inhabited by a [Snarbolax](https://wiki.spiralknights.co
 
 - Snarbolax itself has a default state of invincibility with a [shadow color scheme](https://wiki.spiralknights.com/Category:Shadow-Themed). Dispelled invincibility or stunned state reveals Snarbolax's more [natural fur coat](https://wiki.spiralknights.com/File:Monster-Snarbolax_stunned.png), similar to [wolvers' 3 color pattern one of which is white accent](https://wiki.spiralknights.com/File:Monster-Alpha_Wolver_3.png). Rabid Snarbolax is poison themed, possibly relating to the [poison-themed cults](#fiendish-cults). On the other hand, the [fur](https://wiki.spiralknights.com/Nightmare_Mane) acquired from the Shadow Lairs is of color belonging to a shadowed state.
   - Equipment made of this fur - [Snarbolax Cap](https://wiki.spiralknights.com/Snarbolax_Cap) and [Snarbolax Coat](https://wiki.spiralknights.com/Snarbolax_Coat) states: `Even looking at it too closely is dangerous`, although currently this could be a gimmicky writing, we believe it will gain larger connotation when the context of next few items shall be presented.
-- [Barbarous Thorn blade](https://wiki.spiralknights.com/Barbarous_Thorn_Blade): `Those who wield it claim to feel the fiery stare of the beast upon them whenever they close their eyes`. The charge attack has a ghostly image of Snarbolax performing a bite, similar to ghostly apparitions of wolver in case of [Wild Hunting Blade's charge](https://wiki.spiralknights.com/Wild_Hunting_Blade) and a larger wolver with a snarl and wide red eyes reminiscent of [Maulos' Perma-Frostifurs](https://wiki.spiralknights.com/Wolver#Perma-Frostifur). This blade, notably, also has a poison counterpart - [Dread Venom Striker](https://wiki.spiralknights.com/Dread_Venom_Striker)
-- [Dark Thorn Blade](https://wiki.spiralknights.com/Dark_Thorn_Blade) which is upgraded to [Barbarous Thorn blade](https://wiki.spiralknights.com/Barbarous_Thorn_Blade), the prior specifies that it is a `savage sword whose strength has been fortified by an offering of souls to the beast within`. With the beast most certainly referring to the Snarbolax.
-- [Twisted Snarble Barb](https://wiki.spiralknights.com/Twisted_Snarble_Barb) has color scheme of a stunned Snarbolax with its overall green hue and lime-like color reminiscent of [Rabid Snarbolax](https://wiki.spiralknights.com/Rabid_Snarbolax) thorns.
-- [Dark Briar Barrage](https://wiki.spiralknights.com/Dark_Briar_Barrage) on detonation summons ghostly apparition of Snarbolax, with a matching description: `A mythical object that can explode with the fury of the Snarbolax itself. The unearthly howl it produces is said to be more crippling than its blast`.
-- [Barbarous Thorn Shield](https://wiki.spiralknights.com/Barbarous_Thorn_Shield) imitates Snarbolax's three-eye pattern and states the following: `its said the beast can use the glowing orbs on the shield's face to see and stalk weak-hearted wielders`.
-- [Dark Thorn Shield](https://wiki.spiralknights.com/Dark_Thorn_Shield) plain specifies: `A gloomy guard that gives one's sword strikes a supernatural savagery`.
+- Barbarous [Thorn blade](https://wiki.spiralknights.com/Barbarous_Thorn_Blade): `Those who wield it claim to feel the fiery stare of the beast upon them whenever they close their eyes`. The charge attack has a ghostly image of Snarbolax performing a bite, similar to ghostly apparitions of wolver in case of [Wild Hunting Blade's charge](https://wiki.spiralknights.com/Wild_Hunting_Blade) and a larger wolver with a snarl and wide red eyes reminiscent of [Maulos' Perma-Frostifurs](https://wiki.spiralknights.com/Wolver#Perma-Frostifur). This blade, notably, also has a poison counterpart - [Dread Venom Striker](https://wiki.spiralknights.com/Dread_Venom_Striker)
+- Dark [Thorn Blade](https://wiki.spiralknights.com/Dark_Thorn_Blade) which is upgraded to [Barbarous Thorn blade](https://wiki.spiralknights.com/Barbarous_Thorn_Blade), the prior specifies that it is a `savage sword whose strength has been fortified by an offering of souls to the beast within`. With the beast most certainly referring to the Snarbolax.
+- Twisted [Snarble Barb](https://wiki.spiralknights.com/Twisted_Snarble_Barb) has color scheme of a stunned Snarbolax with its overall green hue and lime-like color reminiscent of [Rabid Snarbolax](https://wiki.spiralknights.com/Rabid_Snarbolax) thorns.
+- Dark [Briar Barrage](https://wiki.spiralknights.com/Dark_Briar_Barrage) on detonation summons ghostly apparition of Snarbolax, with a matching description: `A mythical object that can explode with the fury of the Snarbolax itself. The unearthly howl it produces is said to be more crippling than its blast`.
+- Barbarous [Thorn Shield](https://wiki.spiralknights.com/Barbarous_Thorn_Shield) imitates Snarbolax's three-eye pattern and states the following: `its said the beast can use the glowing orbs on the shield's face to see and stalk weak-hearted wielders`.
+- Dark [Thorn Shield](https://wiki.spiralknights.com/Dark_Thorn_Shield) plain specifies: `A gloomy guard that gives one's sword strikes a supernatural savagery`.
 - Statues of Snarbolax - [Replica Natural Snarbolax](https://wiki.spiralknights.com/Replica_Natural_Snarbolax) and [Replica Shadowy Snarbolax](https://wiki.spiralknights.com/Replica_Shadowy_Snarbolax) seem to suggest a definitive, natural, version of Snarbolax.
 
 Based on all of those items it seems, that Snarbolax has a few supernatural properties. There are no enemies, and especially of beast family on Cradle, which would possess such powers, with the exception of [Perma-Frostifurs](https://wiki.spiralknights.com/Perma-Frostifur#Perma-Frostifur). Perma-Frostifurs are invincible and are not delivered from Undercorp, as we suggest by the [Fiendish Memo](https://wiki.spiralknights.com/Amu-Sol), as they are absent in the description of requested items. As it is unknown weather Perma-Frostifurs themselves had originated in the material realm and became such from the effects of everfrost or transformed by Maulos, or creature of the Blinding Abyss.
@@ -1492,11 +1556,15 @@ We propose that those characteristics imply relation to Underworld, as it is one
 The final and most evident, as we see it, argument towards intrinsic connection between Snarbolax and curse emerges from 2 items when they are analyzed together:
 
 - Snarbolax's fur - [Nightmare Mane](https://wiki.spiralknights.com/Nightmare_Mane), - is described here: `Each fiber seems to curl and fray as if life is still flowing through it`.
-- [Snarbostuffing](https://wiki.spiralknights.com/Snarbostuffing) refers to fur as cursed, as does not decay in its presence, presence of [Nightmare Mane](https://wiki.spiralknights.com/Nightmare_Mane): `A dense, fluffy stuffing made from a special polymer that doesn't break down when exposed to the cursed fur of the Snarbolax. its perfect for creating trophies or adorable, cursed, stuffed toys`, - this recontextualizes Nightmare Mane's description, specifically - `seems to curl and fray as if life is still flowing through it`, - in the frame of animation after death in the practically the same manner as the equipment above.
+- The [Snarbostuffing](https://wiki.spiralknights.com/Snarbostuffing) refers to fur as cursed, as does not decay in its presence, presence of [Nightmare Mane](https://wiki.spiralknights.com/Nightmare_Mane): `A coat of coarse fur taken from a Snarbolax. Each fiber seems to curl and fray as if life is still flowing through it` ([Nightmare Mane](https://wiki.spiralknights.com/Nightmare_Mane)), - `A dense, fluffy stuffing made from a special polymer that doesn't break down when exposed to the cursed fur of the Snarbolax. its perfect for creating trophies or adorable, cursed, stuffed toys` ([Snarbostuffing](https://wiki.spiralknights.com/Snarbostuffing)), - this recontextualizes Nightmare Mane's description, specifically - `seems to curl and fray as if life is still flowing through it`, - in the frame of animation after death in the practically the same manner as the equipment above.
 
-If it is so then, how it was achieved? We suggest that the source of this supernatural power is the result of improper usage of grim gates near the ancient grove, as the resulting explosions of the portals, discussed earlier have a characteristic, associated with the curse, dark-red and pink mist, present when portal explodes from the other side. The curse affects only living things, and can, depending on its source, be fully detrimental as in case of Spiral Knights and Nature Sprites or come with additions, as in case of Lord Vanaduke.
+If it is so then, how it was achieved? We suggest that the source of this supernatural power is the result of improper usage of grim gates near the ancient grove, as the resulting explosions of the portals, discussed earlier have a characteristic, associated with the curse, dark-red and pink mist, present when portal explodes from the other side.
 
-Considering the absence of tortomega and suggested here and by tortodrone mission description (`Investigations into the cause were inconclusive, but Spiral HQ suspects fiends are somehow involved` [March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones)), connection with devilites and Undercorp, this scenario of Underworld's influence on material realm wildlife would be particularly plausible. Despite this, the method through which Snarbolax became such, remains unknown, apart from a potential offering of souls in the text of [Dark Thorn Blade](https://wiki.spiralknights.com/Dark_Thorn_Blade).
+The curse affects only living things, and can, depending on its source, be fully detrimental as in case of Spiral Knights and Nature Sprites or come with additions, as in case of Lord Vanaduke.
+
+Considering the absence of tortomega and suggested here and by tortodrone mission description (`Investigations into the cause were inconclusive, but Spiral HQ suspects fiends are somehow involved` [March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones)), connection with devilites and Undercorp, this scenario of Underworld's influence on material realm wildlife would be particularly plausible, likely being the exact [pink miasma found in the Shadow Gloaming Wildwoods](#miasma).
+
+Apart from this miasma and a potential offering of souls in [Dark Thorn Blade](https://wiki.spiralknights.com/Dark_Thorn_Blade) - `A savage sword whose strength has been fortified by an offering of souls to the beast within`, - the method through which Snarbolax became cursed in the first place, remains unknown.
 
 Under this assumption, we can also explain general thematic shift of alchemy tree of high-tier Snarbolax gear. Last 2 tiers of equipment, 5 and 4 stars', are themed around shadowy Snarbolax, while 2 and 3 star gear is seemingly attributed to stunned or natural Snarbolax, without any explicit supernatural influence. At that, we propose, that alchemy tree in a way represents this transformation from mundane to supernatural. Similar if not exact themes, we believe, are present in the descriptions and context of Snarbolax trophies:
 
@@ -1571,8 +1639,8 @@ Based on corrupted tortodrones' design, it can be concluded with certainty that 
 
 Then there are a few such instances of placing dark matter into an inactive tortodrone:
 
-- [Drudgery](https://media3.spiralknights.com/wiki-images/1/1b/Scenario_Room-DevilishDrudgery_2.png).
-- [Clockwork tunnels](https://media3.spiralknights.com/wiki-images/a/a1/Scenario_Room-Clockworks_18.png).
+- [Drudgery](https://media3.spiralknights.com/wiki-images/1/1b/Scenario_Room-DevilishDrudgery_2.png)
+- [Clockwork tunnels](https://media3.spiralknights.com/wiki-images/a/a1/Scenario_Room-Clockworks_18.png)
 - Imagery of opened portals within the grim gates.
 
 The stitched shell has engravings of fiendish sigils on its plates. The central top piece is replaced with dark matter. Dark matter itself, as discussed earlier, is used to power tortodrone same as crimsonite. Considering that the sigils carved in the shell do glow, it is likely that those corrupted tortodrones are in their aggravated state, which has to be red for regular tortodrones and characteristic of aggro aura.
@@ -3784,13 +3852,13 @@ Here we will cover the rest of the locations, specifically the Wildwoods and the
 
 The miasma is described as the reason for the change within the Wildwoods: `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!`
 
-yet, when Snarbolax is encountered, apart from being rabid, it is present in multiple instances. We have previously suggested, that Snarbolax is cursed, with curse accumulating in its hide, and gaining immortality, which would be the reason for its existence since the collapse of tortomega civilization.
+Yet, when Snarbolax is encountered, apart from being rabid, it is present in multiple instances. We have previously suggested, that Snarbolax is cursed, with curse accumulating in its hide, and gaining immortality, which would be the reason for its existence since the collapse of tortomega civilization.
 
 Snarbolax was defeated by knights, unless here it was not one of its kind, as suggested by presence of multiple it instances.
 
 This case of Rotting Metropolis creates a fitting precedent for existence of poisoned Gloaming Wildwoods and Rabid Snarbolax. It is stated that `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!` ([Release Notes: 2011.10.09](https://wiki.spiralknights.com/Release_Notes_2011-10-19)), so, considering that all of Clockwork location can be moved, the prime example being molten cavern of Firestorm Citadel - `The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. ... We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)), it is plausible for the wildwood at some point being affected by the [slime generators](https://wiki.spiralknights.com/The_Vile_Engine/Processing_Plant) at depth 22.
 
-As it was discussed earlier, we had proposed an existence of a [Vile Deity](), who is the reason behind supernatural occurrences related to poison, rot, and undeath across graveyards.
+As it was discussed earlier, we had proposed an existence of a [Vile Deity](#fiendish-cults), who is the reason behind supernatural occurrences related to poison, rot, and undeath across graveyards.
 
 It is then a question weather it in fact exists and what is its influence onto material realm. And one argument that seems feasible is the existence of [Plague Essence](https://wiki.spiralknights.com/Plague_Essence): `A powerful essence left behind when a creature perishes from a particularly putrid disease.` as it is a material from the same tier and design as [Everfrost](https://wiki.spiralknights.com/Everfrost) and [Flame Souls](https://wiki.spiralknights.com/Flame_Soul). We won't suggest, that a type of supernatural plague was utilized to create toxigels. But, a Underworld-originating plague, we suggest, is present in the Shadow Lairs version of Gloaming Wildwoods.
 
@@ -3809,7 +3877,7 @@ The red mist is the main point of concern and a counter argument for Slime Gener
 
 - The stone lantern found across the woods are similar to the Yukimi-Gata lanterns and [5-layer stone stupas](https://www.onmarkproductions.com/html/5-elements-pagoda-gravestone.html).
 
-Apart from those leads, nature of red mist remains unknown.
+The second comparison, we believe, hides the nature of this miasma, as one originatingt from curse flowing from [distabilized grim gates](#grim-gates-portal-collapse), [described earlier](#grim-gates). We have proposed, that the reason for this large-scale spread of curse-related affliction is due to [Undercorp turning against Titans](#the-fall-of-titans), erasing their civilization through mechanical change of tortodrones.
 
 ##### True Citadel of Almirian Empire
 
