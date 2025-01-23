@@ -1111,9 +1111,7 @@ Lastly, the most likely scenario - Morai are simply Isorian colony, which had no
 
 #### Isora and Cradle
 
-As Isorians are a spacefaring civilization, Morai likely being one of the colonies, other planets could be present.
-
-Next part covers an overview of a few notable elements, which suggest that Isorians had at some point interacted with planets that were incorporated into Cradle or Cradle itself.
+As Isorians are a spacefaring civilization, we will discuss further several similarities between Cradle and Isorians in attempt to identify the nature of this relation.
 
 ##### Spiral Raiders
 
@@ -1122,11 +1120,7 @@ Across Raiders' equipment, [Raider Buckler](https://wiki.spiralknights.com/Raide
 1. Spiral imagery is seen in celestial equipment, suggesting that it was utilized by Isorians from very early times, during the less technological age, one inspired by northern cultures. This similarity to valkyries and heavenly kingdom will be kept in mind.
 2. It is not of native Isorian origin. It seem that at least a few other items could support that theory, - [Raiders Prize Box](https://wiki.spiralknights.com/Raiders_Prize_Box) has [Firestorm Raider Tunic](https://wiki.spiralknights.com/Firestorm_Raider_Tunic#Firestorm_Raider_Tunic): `Treasure is at your fingertips and ash in your wake with this soot laden coat`, [Firestorm Raider Helm](https://wiki.spiralknights.com/Firestorm_Raider_Helm#Firestorm_Raider_Helm): `A pristine raider helmet, save for a few dings and a thick coat of ash`, and [Firestorm Skeggox](https://wiki.spiralknights.com/Firestorm_Skeggox): `An ornate, fiery axe favored by raiders for its versatility`, - these items of raider roster have fiery/ash themes, and as the name itself suggest, are meant to be associated with the Firestorm Citadel, or, although less likely, [firestorm skill](https://wiki.spiralknights.com/Firestorm) of [drakon](https://wiki.spiralknights.com/Drakon), which is also referencing dragons: `Summon the power of true dragon fire to burn everything in your path`.
 
-Note, that there is gear of other elements: of frost and squall. Weather those elements are related to original three of dragons - is unlikely, but the pattern itself of naimg common elements differntly is present. All of these items have spiral imagery: as weapons have spiral carved onto them, and costumes have spiral on their belt and other elements of equipment.
-
-Now, considering that dragons were a possible inspiration both for Spiral Order and Valkyries, with both containing norse mythology motifs, - can they be further connected, maybe even, in attempt to prove that valkyries and Isorians are potentially the same species?
-
-Raiders can play a key role in understanding, which 2 kingdoms invaded Almire, and, as later it will be explored, both in relation to Almire and addressing anachronicity of Spiral Order imagery in that period.
+Note that there is gear of other elements: of frost and squall. Weather those elements are related to original three of dragons - is unlikely, but the pattern itself of naming common elements differntly is present. All of these items have spiral imagery: as weapons have spiral carved onto them, and costumes have spiral on their belt and other elements of equipment. Considering that dragons were a possible inspiration both for Spiral Order and Valkyries, with both containing norse mythology motifs, - can they be further connected in attempt to relate valkyries to Isorians as potentially the same species?
 
 Another explanation for those items can be based on the development of Isorians, marking establishment of Spiral Order or its precursor far earlier in their history, with symbol of a spiral already being a staple for its predecessors.
 
@@ -1160,25 +1154,26 @@ Based on [Feron dialogue](https://wiki.spiralknights.com/Reporting_for_Duty#Dial
 
 Skylark has at least 2 types of engines, one powered by tearium and one recovered and placed into the Lab, whose power supply is barely enough to power the complex, and it is designed similar to arcade gate pillars with distinct presence of Energy aura patterns.
 
-##### Connection of Isorians and Cradle
+##### Thematic Connections of Isorians and Cradle
 
 There are many items pointing to Isorians being related to Cradle:
 
+- The aforementioned Raiders' [firestorm theme](#spiral-raiders).
 - `Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` ([Aegis](https://wiki.spiralknights.com/Aegis)) - it seems the vagueness here is intentional.
 - `The technique which weaves dragon scale seamlessly into the metal is a closely guarded secret` ([Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm)) - as it was examined in relation to both Spiral Order and dragons, in the current context of Isorian origins it remains relevant.
 
     While dragons are in fact mentioned, the helm itself is of Spiral Order's medieval designs, nothing out of ordinary, and the set specifically lacks any relation to elemental or shadow, except for known piercing damage. So, this would mean that either dragons were present also on Isora, or knights originated on Cradle-related planet, while there were still dragons present, same as earlier.
 - `As it is often said, a knight need not have courage: just Valiance` ([Valiance](https://wiki.spiralknights.com/Valiance)) - a stretch, but it has similarity to Justice of Almire: `Law and Order have fled Almire. Only Justice remains, but she too has been twisted by the cursed flames that ravage our kingdom. Justice is now the burning scepter of our once great Lord Vanaduke. Justice is swift, unflinching, merciless` ([Legion of Almire/Inner Sanctum - Almirian codex](https://wiki.spiralknights.com/Legion_of_Almire/Inner_Sanctum)) in terms of how those concepts are referred.
 - Cradle has much present spiral imagery, mentioned in the [Spiral section](#concept-of-spiral), it could be an appropriate location thematically for Knights to be related.
-- [Hazardous Prize Box](https://wiki.spiralknights.com/Hazardous_Prize_Box) contains items relating to Scarlet Scouts:
+- The [Hazardous Prize Box](https://wiki.spiralknights.com/Hazardous_Prize_Box) contains items relating to Scarlet Scouts:
   - `this helm is in the visage of a demon said to have broken off its own horn to use as a weapon when it faced its end.` [Hazardous Diablo Helm](https://wiki.spiralknights.com/Hazardous_Diablo_Helm#Hazardous_Diablo_Helm) - a cultural presence of demons.
   - `this helm is in the visage of Death itself. Those that wear it have a saying, 'Death is at your heels, so keep facing forward'` ([Hazardous Grim Mask](https://wiki.spiralknights.com/Hazardous_Grim_Mask#Hazardous_Grim_Mask)), - a personification of Death.
   - `this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass` ([Hazardous Oni Helm](https://wiki.spiralknights.com/Hazardous_Oni_Helm#Hazardous_Oni_Helm)) - a cultural reference of Oni inhabiting mountains in Japanese folklore, and associated with thunder, which is present here as Storm-themed gear of the [Stormy Prize Box](https://wiki.spiralknights.com/Stormy_Prize_Box).
-- [Orbit aura](https://wiki.spiralknights.com/Orbit_Aura#Orbit_Aura) has Cradle's Sun and Moon present, held by clock-like mechanism, in construction similar materials used in the [Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber).
+- Among auras, the [Orbit aura](https://wiki.spiralknights.com/Orbit_Aura#Orbit_Aura) has Cradle's Sun and Moon present, held by clock-like mechanism, in construction similar materials used in the [Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber).
 
     Yet, it has imagery of Cradle's Sun and Moon, - this is likely an asset reuse, but we are not confident of that due to presence of the same imagery on the [Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield) - due to how the theme of equinox is related through Strangers to Cradle, and seemingly to Isorian culture, despite located far from Isora.
 
-Considering Isorians' advancements of interstellar travel, taken Skylark designs or designs of celestial cosmetics, they must have a homeworld or a place of origin advanced enough to, at least, allow traveling to planet's orbit. Based on descriptions of celestial sets, Isora seems to be that homeworld, as this argument was presented earlier in relation to Morai.
+Considering Isorians' advancements of interstellar travel, taken Skylark designs or designs of celestial cosmetics, they must have a homeworld or a place of origin advanced enough to, at least, allow traveling to planet's orbit. Based on descriptions of celestial sets, Isora is implied to be that homeworld.
 
 ##### Similarity to Heavenly Kingdom
 
@@ -1187,15 +1182,17 @@ Another point of discussion, if the Knights were at some point on Cradle, - is t
 There are some parallels of Spiral Knights gear and warriors of Heavenly Kingdom:
 
 - Presence of [Sun Silver](https://wiki.spiralknights.com/Sun_Silver), used in Almire-related gear and Azure Guardian Armor.
-  - [Azure Guardian Armor](https://wiki.spiralknights.com/Azure_Guardian_Armor) and [Valkyrie Armor](https://wiki.spiralknights.com/Valkyrie_Mail).
-  - [Aegis](https://wiki.spiralknights.com/Aegis) and [Crest of Almire](https://wiki.spiralknights.com/Crest_of_Almire) shields. If Isorians were in fact ancestors of Almire, Crest of Almire then can be justified to be made in an image of Aegis as the latter is made by the Spiral Order: `Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` ([Aegis](https://wiki.spiralknights.com/Aegis)), but Spiral Order's instance of Crest of Almire is the most prominent [redesign](#technology-alchemy-and-isorian-redesigns), specifically one that follows Aegis, but with the introduction of shadow defense in place of piercing.
-  - [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger) which might belong to [Heavenly set](https://wiki.spiralknights.com/Heavenly_Guardian_Armor), but most certainly comes from a different time and place, where curse was found and reversed, as seen in the swords design, - that is heavenly kingdom with knowledge of seals and evil eye imagery, as it will be discussed later in the [Legion of Ur section](#legion-of-ur).
+  - Application in [Azure Guardian Armor](https://wiki.spiralknights.com/Azure_Guardian_Armor) and [Valkyrie Armor](https://wiki.spiralknights.com/Valkyrie_Mail).
+  - Revisiting [Aegis](https://wiki.spiralknights.com/Aegis) and [Crest of Almire](https://wiki.spiralknights.com/Crest_of_Almire) shields. If Isorians were in fact ancestors of Almire, Crest of Almire then can be justified to be made in an image of Aegis as the latter is made by the Spiral Order: `Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` ([Aegis](https://wiki.spiralknights.com/Aegis)), but Spiral Order's instance of Crest of Almire is the most prominent [redesign](#technology-alchemy-and-isorian-redesigns), specifically one that follows Aegis, but with the introduction of shadow defense in place of piercing.
+  - Avenger line of swords ending with [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger) which might belong to [Heavenly set](https://wiki.spiralknights.com/Heavenly_Guardian_Armor), but most certainly comes from a different time and place, where curse was found and reversed, as seen in the swords design, - that is heavenly kingdom with knowledge of seals and evil eye imagery, as it will be discussed later in the [Legion of Ur section](#legion-of-ur).
 
 Although this fact is presented only now, the history of valkyries being that civilization of heavenly kingdom seems to more thematically fitting, which would not fit Spiral Order, even in its earlier state before it took name of a Spiral Order. This would lead to the same idea of gear of other species being adapted to anatomy of an Isorian.
 
 This would also mean, that there are 2 emerging scenarios:
 
-1. Knights of old order arrived at Cradle and there their conceived armors and gear utilizing Sun Silver present there.
+1. Knights of old order arrived at Cradle and there their conceived armors and gear utilizing Sun Silver present there. Yet, for now we can't offer a solid foundation for the difference of technological advancement before and after this suggested event.
+
+    In that regard we are yet to justify more fantasy-themed weapons, such as [Troka 5-star upgrades](https://wiki.spiralknights.com/Troika#Alchemy_Path) and the [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher) line of Calibur, making it similar to [Almirian Crusader Armor](https://wiki.spiralknights.com/Almirian_Crusader_Armor) from the _design of alchemy tree progression_.
 2. Dragons and Sun Silver would be universal to material realm, dragons were of different, primordial element, as it was earlier discussed, which would give them an unprecedented power nearing the gods. Although not associated with the gods in heavenly kingdom referred in [rider mantles](https://wiki.spiralknights.com/Rider_Mantle), unless the it was of dragons, then this would raise an anachronism.
 
 ##### Lack of Damage Types
@@ -1209,13 +1206,11 @@ One important aspect to address - if Isorians are as old as Heavenly Kingdom and
 - [Celestial Vortex](https://wiki.spiralknights.com/Celestial_Vortex) and [Arcana](https://wiki.spiralknights.com/Arcana) are a few instances of elemental damage in Spiral Order's history.
 - [Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield) being one of a few shields combining shadow damage and piercing defenses. Herein shadow damage is associated with cold - `Cradle's equinox inspired the dual nature of this specialist shield, which protects against the dazzling light of day and the chill of the night in equal measure`, - Similar to [Winter Grave](https://wiki.spiralknights.com/Winter_Grave)
 
-This would mean that Sun Steel is ever-present as Shadow Steel, which is likely forged in the Underworld, despite being made of [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), with heavens referred there being an unknown third realm: `An extremely rare metal of great power said to be from the heavens above`. The celestial naming was repeated at least twice - in relation to Isorians and Valkyries.
+This would mean that Sun Steel is ever-present as Shadow Steel, which is likely forged in the Underworld, despite being made of [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore), with heavens referred there being an unknown third realm: `An extremely rare metal of great power said to be from the heavens above`. The celestial naming scheme was repeated at least twice - in relation to Isorians and Valkyries.
 
-Also, although addressed earlier, - if Spiral Order did emerge on Cradle, Cradle or composing it planets must had to be far more advanced, at least same as the devices/gear of the celestials. Ancient structures are preserved as proven by presence of Scarlet Fortress and Tortodrones. The lack of knowledge of Spiral HQ side of the shadow damage, as it is was only present on Cradle in most powerful form, but, that would suggest, if the dragons were present outside of Cradle, Isorians would discover shadow damage on their own. A valid suggestion would also fit, is only some sub-specie of dragons was present on Isora, one that is not associated with frenzy/shadow, for Spiral Order to extract its scales in the Azure set, which could be part of the Spiral Order, as its crest is [given in the Hall of Heroes](https://wiki.spiralknights.com/Azure_Guardian_Crest#Azure_Guardian_Crest), and reaffirming universal presence of materials used to craft mentioned above items.
+Although addressed earlier, - if Spiral Order did arrive or emerge on Cradle, Cradle or composing it planets must had to be far more advanced, at least same as the devices/gear of the celestials. Ancient structures are preserved as proven by presence of Scarlet Fortress and Tortodrones. The lack of knowledge of Spiral HQ side of the shadow damage, as it is was only present on Cradle in most powerful form, but, that would suggest, if the dragons were present outside of Cradle, Isorians would discover shadow damage on their own. A valid suggestion would also fit, is only some sub-specie of dragons was present on Isora, one that is not associated with frenzy/shadow, for Spiral Order to extract its scales in the Azure set, which could be part of the Spiral Order, as its crest is [given in the Hall of Heroes](https://wiki.spiralknights.com/Azure_Guardian_Crest#Azure_Guardian_Crest), and reaffirming universal presence of materials used to craft mentioned above items.
 
-Based on that knowledge, we lean to a conclusion of Isorians being an extraterrestrial to Cradle specie. It does not have technology more advanced than of Almire or of gremlins found on Cradle, apart from the event of the [Iron Hulk](https://wiki.spiralknights.com/Ghosts_in_the_Machine).
-
-Cradle is not Isorian homeworld, but its inhabitants have similar myths to Isorian culture. On Isora there were dragons of rage, demons, mythical personification of Death and Oni within mountains, associated with powers of storms - but they remain as myths.
+Based on that knowledge, we lean to a conclusion of Isorians being an extraterrestrial to Cradle specie. It does not have technology more advanced than of Almire or of gremlins found on Cradle, apart from the event of the [Iron Hulk](https://wiki.spiralknights.com/Ghosts_in_the_Machine). Cradle is not Isorian homeworld, but its inhabitants have similar myths to Isorian culture. On Isora there were dragons of rage, demons, mythical personification of Death and Oni within mountains, associated with powers of storms - but they remain as myths.
 
 From Isora interstellar expansion of Isorians began, at some point arriving to Cradle, as seen in case of the [Iron Hulk](https://wiki.spiralknights.com/Ghosts_in_the_Machine). If celestial gear is considered, the technology of those times was advanced enough to allow existence of starships, similar to Skylark.
 
