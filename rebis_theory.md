@@ -1090,7 +1090,7 @@ At that point, the question of who build the Artifact and the Core, while is of 
 
 A safe speculation can be performed, one that is based on idea of separate histories of Isorians and Clockworks: assuming that **the Spiral is, at least partially, a universal or interstellar phenomenon, important enough to be replicated in many instances, even cultures and civilizations**, it may be related to other illusive concepts, such as other realm or a deity - a part of a different, omnipotent concept that remains undiscovered. But it remains a speculation as a connection is established purely though to lack of strong leads, but hints of relation. Yet again, the Core, and the design of Whitespace have to be examined later due to complex and interconnected context of Whitespace itself to other less known of concepts, such as the Void or the Swarm.
 
-#### Morai Wars
+#### Morai Colony
 
 Now there are Morai and the Morai Wars, which had brought Isorians to the brink of extinction (`The Morai Wars have brought us to the brink of extinction` - [Spiral Knights: Prologue](https://www.youtube.com/watch?v=d5CrSNU-Wyg)).
 
