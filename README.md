@@ -2,6 +2,12 @@
 
 This repository contains source for the document containing a narrative analysis for the game Spiral Knights. The document is available [here](https://github.com/ironkayman/RebisTheory/blob/master/rebis_theory.md) and [here](https://ironkayman.github.io/entries/rebis-theory).
 
+## Setup
+
+Single document is intentional, so that cross-referencing could be done within the confinements of a single file.
+
+At the time of writing VSCode can't handle markdown of this size, so Zed with cSpell extension [mantou132/zed-cspell](https://github.com/mantou132/zed-cspell) is used.
+
 ## Credits
 
 - [Knight Launcher](https://github.com/lucasluqui/KnightLauncher) by lucasluqui
