@@ -1400,9 +1400,15 @@ Previously mentioned idea of white circles serving as a ward, seems more plausib
 
 </BookCitation>
 
-It is due to those similarities and general themes found in the Key, we propose, that fiendish symbols in the circles are derived from the shapes of symbols not of of the "Alphabet of Magic" as present in the Key, which itself is derived from Hebrew alphabet in "The Key of Solomon the King", but from Old Hebrew alphabet, or even Phoenician alphabet.
+It is due to those similarities and general themes found in the Key, we propose, that fiendish symbols in the ritual circles are derived from the shapes of symbols of Hebrew alphabet in "The Key of Solomon the King".
 
-This distinction, we believe, stems from the fact fiends had carved a final, nowhere else seen sigil on corrupted tortodrones' back of the shell along with other common sigils - letter Teth "𐤈", which also was at the foundation of letter Theta "Θ" of Greek alphabet, which, on par with our [suggestion](#technology-alchemy-and-isorian-redesigns) of symbol of Salt - "🜔", - could be a prototype for the symbol of energy, although one only in the design, rather than meaning, if we are to integrate this idea into the setting. By that we mean, that the possibility of several inspirations was already seen in prior chapters, so for energy to possess same motif of using multiple sources is not out of the established pattern so far.
+Lastly, fiends had carved one nowhere else seen sigil on corrupted tortodrones' back of the shell along with other commonly seen sigils, depicted as a _circled cross_. This description is closely similar to _pictograph of letter Teth_ "𐤈" of _Phoenician alphabet_, evolving into _letter Tet of Middle Semitic script_, and eventually into the _modern Hebrew alphabet_. Then, from Hebrew alphabet, letter _Tet_ became _Theta "Θ" of Greek alphabet_.
+
+Letter theta, on par with our [suggestion](#technology-alchemy-and-isorian-redesigns) of symbol of Salt - "🜔", - we can suggest, could be a prototype for the symbol of energy. If we are to integrate this idea, theta would serve as a symbol, but the meaning referring to alchemical salt. The symbolic meaning of pictograph of letter teth across Semitic script and Old Hebrew alphabet is connected to a depiction of a pot of a wheel, and of a connection to earth and nature.
+
+The reminiscence of letter theta of the symbol of energy might mean an existence of several inspirations, as it was seen in prior chapters. So, for energy to possess same motif of using multiple sources is not out of the established pattern so far.
+
+Considering presented Underworld cultural and linguistic motifs, could this cultural and linguistic relation to potentially alchemical or greek inspirations be extrapolated onto the relation between Underworld and civilizations of material realm which possess symbol of energy, weather it was heavenly kingdom or Isorians, albeit without involvement of titans?
 
 ##### Summoning from Underworld
 
@@ -1567,7 +1573,7 @@ The lager gates used to specifically access the staging area use tortodrone tech
 
 Another suggestion can be also made here - "armed" grim gates are the initial portal through which a connection is made. When Spiral Knights arrived to the Ancient Grove, the portal was already active but locked, while the other side does not have the characteristic arms as well as seemingly gremlins' monitors as an interface. Could it be that the portals in Undercorp's possession are constructed in similar manner and linked to portals near the Ancient Grove? Currently, considering all of earlier instances and similarities, this proposal holds up.
 
-#### Snarbolax And Empowerment <span class="through-curse">Through Curse</span>
+#### Snarbolax And Haunting <span class="through-curse">Through Curse</span>
 
 The excess usage of the gates with the presence of curse had its own effects onto the region. It settled in nearby wildlife, most evident by the presence of Snarbolax within the Gloaming Wildwoods. Snarbolax will serve here the first most distinct case study of curse afflicting creatures of material realm, not by detriment but empowerment, apart from Arkus. So, here it is important to analyze nature of Snarbolax in that context.
 
@@ -5102,6 +5108,7 @@ The document contains citations from New World Encyclopedia, the materials are l
 14. [Why are dragons and monsters carved into Norway’s stave churches?](https://www.medievalists.net/2019/05/why-are-dragons-and-monsters-carved-into-norways-stave-churches/)
 15. [New World Encyclopedia - Valkyries](https://www.newworldencyclopedia.org/entry/Valkyrie)
 16. [Symbolism of Sun Cross](https://symbology.wiki/symbol/sun-cross/)
+17. [The Ancient Hebrew Alphabet - Teth](https://www.ancient-hebrew.org/ancient-alphabet/tet.htm)
 17. [Magnum Opus: the Great Work](https://www.learnreligions.com/the-great-work-or-magnum-opus-95943)
 18. [Historycal reference on hounskull bascinet](https://www.musee-armee.fr/en/collections/museum-treasures/hounskull-bascinet.html)
 19. [Trading species to extinction: evidence of extinction linked to the wildlife trade](https://www.cambridge.org/core/journals/cambridge-prisms-extinction/article/trading-species-to-extinction-evidence-of-extinction-linked-to-the-wildlife-trade/09F38911BB76B0561056D96A5E60A341#)
