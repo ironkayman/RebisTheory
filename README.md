@@ -1,12 +1,8 @@
 # Rebis Theory
 
-This repository contains source for the document containing a narrative analysis for the game Spiral Knights. The document is available [here](https://github.com/ironkayman/RebisTheory/blob/master/rebis_theory.md) and [here](https://ironkayman.github.io/entries/rebis-theory).
+This repository contains source for the document containing a narrative analysis for the game Spiral Knights.
 
-## Setup
-
-Single document is intentional, so that cross-referencing could be done within the confinements of a single file.
-
-At the time of writing VSCode + cSpell extension does not recognize text below ~`2600` lines, so Zed with cSpell extension [mantou132/zed-cspell](https://github.com/mantou132/zed-cspell) is used instead.
+The document is available [here](https://ironkayman.github.io/entries/rebis-theory).
 
 ## Credits
 
