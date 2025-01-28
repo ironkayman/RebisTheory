@@ -1831,13 +1831,21 @@ Due to everfrost's themes and more explored applications of moonstone, we belie 
 
 ##### Apocrean Circles
 
-Where ever Underworld is present, there are souls and distant relation to Apocrean Realm through the prior. In small glimpse of Apocrean Realm, or its dimensional trap, as stated by the Lost Soul: `Soon you will find yourself in one of the traps set by the Apocrea. If you are powerful enough to escape then you may be able to save some of the other lost souls along the way` ([Lost Soul](<https://wiki.spiralknights.com/Lost_Soul_(SotA-Haven)#Dialogue>)), there are [yellow or gold ritual circles](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png) of the [Departure](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/Departure) inside [Shroud of Apocrea](https://wiki.spiralknights.com/Shroud_of_the_Apocrea_(Mission)).
+Where ever Underworld is present, there are souls and distant relation to Apocrean Realm. In small glimpse of Apocrean Realm, or its dimensional trap, as stated by the Lost Soul: `Soon you will find yourself in one of the traps set by the Apocrea. If you are powerful enough to escape then you may be able to save some of the other lost souls along the way` ([Lost Soul](<https://wiki.spiralknights.com/Lost_Soul_(SotA-Haven)#Dialogue>)), there are [yellow or gold ritual circles](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png) of the [Departure](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/Departure) inside [Shroud of Apocrea](https://wiki.spiralknights.com/Shroud_of_the_Apocrea_(Mission)).
 
-Those patterns have less common shape, yet seem to be made of the similar material, or rather, mineral, potentially luminite.
+Those patterns have less common shape, yet seem to be made of likely already known mineral, [luminite](https://wiki.spiralknights.com/Luminite#Luminite): `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it`.
 
-Apocrea, by being vividly inspired by eldrich horror, seems to one of the first civilizations, preceding even Underworld.
+Apocrea, by being vividly inspired by eldrich entities, gods, seems to be represented as one of the first civilizations, likely preceding even Underworld, due to the tropes behind prior's inspiration.
 
-And, if we to take an idea of ritual circles to be present in devilite culture and, finally, material realm, as in earlier case of Moorcroft Manor, it seems likely that it is the Apocrean Realm, from where this concept emerged for the first time, and was adopted by the latter civilizations. In that thought framework one important question remains, - why luminite was used? What particularly important properties does it have when compared to, for example, seemingly native to the Underworld, dark matter mineral?
+And, if we to take this idea and apply to the setting, then ritual circles would be one of the most ancient methods of transitioning the realms.
+
+In both ways, ritual circles could originate from Apocrean Realm, and then be adapted by Underworld to a more occult shapes similar to "The Key of Solomon the King". Or, Underworld could be one to invent those and then apply them in locations of connection to, at least, material realm, as seen in the [Departure](https://wiki.spiralknights.com/Departure). Either way, the concept would reach material realm, and, due to more notable presence of Underworld, we believe, this was done through underworld.
+
+Then it is the nature of Apocrean ritual circles which remains unknown. Why luminite was used? Is luminite connected to the idea of [minerals defining pentacle's application and proper function](#ritual-circles-circle-of-art-pentacles) as proposed in the analysis of [fiendish glyphs](#fiendish-glyphs)?
+
+The only idea so far we have is the idea of juxtaposing the Sun, as luminite, to darkness, one referred by, supposedly, Sleeper: `HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone:_Royal_Jelly_Palace)). We will keep a more general __idea of Apocrean darkness possessing an eldritch nature__ in connection to the Sleeper in the [final analysis of the Swarm](#the-swarm).
+
+As for the shape of those writings, we will kee them in mind, specifically, their floral design for the analysis of [the Spirit Mother and Nature Sprites](#almire-and-spirit-mother).
 
 #### Cradle Metaphysics
 
