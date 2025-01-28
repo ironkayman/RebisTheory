@@ -9,7 +9,7 @@
   },
   "languages": {
     "Markdown": {
-      "language_servers": ["cspell"]
+      "language_servers": ["cspell", "marksman"]
     }
   }
 }
