@@ -1845,7 +1845,7 @@ Then it is the nature of Apocrean ritual circles which remains unknown. Why lumi
 
 The only idea so far we have is the idea of juxtaposing the Sun, as luminite, to darkness, one referred by, supposedly, Sleeper: `HOLD DEARLY THIS FIRE IN YOU, FOR DARKNESS WILL CONSUME ALL THE NIGHT IF ITS STARS BEGIN TO FADE` ([Echo Stone: Royal Jelly Palace](https://wiki.spiralknights.com/Echo_Stone:_Royal_Jelly_Palace)). We will keep a more general __idea of Apocrean darkness possessing an eldritch nature__ in connection to the Sleeper in the [final analysis of the Swarm](#the-swarm).
 
-As for the shape of those writings, we will kee them in mind, specifically, their floral design for the analysis of [the Spirit Mother and Nature Sprites](#almire-and-spirit-mother).
+As for the shape of those writings, we will keep them in mind. Specifically their floral, nature-inspired design for the analysis of [the Spirit Mother and Nature Sprites](#almire-and-spirit-mother).
 
 #### Cradle Metaphysics
 
