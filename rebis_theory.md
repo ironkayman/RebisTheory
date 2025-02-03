@@ -5208,8 +5208,6 @@ In regards to the Fire Crystal, they have similar inner glow as orbs of alchemy.
 
 - [Knight Launcher](https://github.com/lucasluqui/KnightLauncher) by lucasluqui
 - [Spiral Knights - Scene Archive](https://github.com/sinkillerj/SpiralKnightsSceneArchive) by sinkillerj
-- Haven Discord server
-- Arcade Discord server
 
 ### Spiral Knights Subreddit
 
@@ -5232,10 +5230,6 @@ In regards to the Fire Crystal, they have similar inner glow as orbs of alchemy.
 - [Fiend sigils](https://forums.spiralknights.com/en/node/7857)
 
 ## Sources
-
-Document contains resources licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/ironkayman/RebisTheory/blob/master/LICENSE.txt) except for assets copyrighted by Grey Havens, adapted through the usage of model viewing and image editing software. Spiral Knights is property of Grey Havens, LLC.
-
-The document contains citations from New World Encyclopedia, the materials are licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://www.newworldencyclopedia.org/entry/New%20World%20Encyclopedia:Creative_Commons_CC-by-sa_3.0).
 
 1. [wiki.spiralknights.com](https://wiki.spiralknights.com)
 2. "The alchemical process of transformation" - Nigel Hamilton
@@ -5276,6 +5270,10 @@ Source code for the page is located at [ironkayman.github.io](https://github.com
 
 Source code for the document is located at [ironkayman/RebisTheory](https://github.com/ironkayman/RebisTheory).
 
-<div class="ending-rebis-hidden">
-  Thank You!
-</div>
+## Credits
+
+Contents of this page include resources licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) except for assets taken from [Spiral Knights](https://wiki.spiralknights.com/Spiral_Knights) and copyrighted by Grey Havens LLC, adapted through the usage of model viewing and image editing software. Spiral Knights is property of Grey Havens, LLC.
+
+The document contains citations from New World Encyclopedia, the materials are licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://www.newworldencyclopedia.org/entry/New%20World%20Encyclopedia:Creative_Commons_CC-by-sa_3.0).
+
+For copyright concerns, please contact by an Email: [lori.j.kayman@gmail.com](mailto:lori.j.kayman@gmail.com)
