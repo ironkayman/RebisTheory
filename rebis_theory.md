@@ -1130,6 +1130,8 @@ If Morai are fiends, then this would certainly lead to Spiral Order's discovery 
 
 Lastly, the most likely scenario - Morai are simply Isorian colony, which had not, same as Isorians, encountered any non-material realm entities even with entirety of their technology. As Isorians are a spacefaring civilization, as most directly proven by existence of Skylark, Morai are one of Isorian colonies. As it was stated by celestial sets, that explicitly Isorians were spacefaring, it makes it seem as Isora was the homeworld for this civilization.
 
+Due to those factors, we suggest, that if we ever to place morai into this entity classification table, they would possess similar properties to gremlins - bearing their insignia, as gremlins have their's, and being separate in their damage types and resistances, compared to other enemy types.
+
 #### Isora and Cradle
 
 As Isorians are a spacefaring civilization, we will discuss further several similarities between Cradle and Isorians in attempt to identify the nature of this relation.
@@ -1859,7 +1861,7 @@ Where Underworld is present, there we expect ritual circles to be drawn. So far 
 
 With this, we now have to move to the Apocrean Realm and its relation to the ritual circles.
 
-In a reveal of inner appearance of the Apocrean Realm, or its dimensional trap, as stated by the Lost Soul: `Soon you will find yourself in one of the traps set by the Apocrea. If you are powerful enough to escape then you may be able to save some of the other lost souls along the way` ([Lost Soul](<https://wiki.spiralknights.com/Lost_Soul_(SotA-Haven)#Dialogue>)), there are [yellow or gold ritual circles](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png) of the [Departure](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/Departure) during [Shroud of Apocrea mission](https://wiki.spiralknights.com/Shroud_of_the_Apocrea_(Mission)), or maybe even, a literal shroud, leading into Apocrean Realm.
+In a reveal of inner appearance of the Apocrean Realm, or its dimensional trap, as stated by the Lost Soul: `Soon you will find yourself in one of the traps set by the Apocrea. If you are powerful enough to escape then you may be able to save some of the other lost souls along the way` ([Lost Soul](<https://wiki.spiralknights.com/Lost_Soul_(SotA-Haven)#Dialogue>)), there are [yellow or gold ritual circles](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png) of the [Departure](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/Departure) and [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau) during [Shroud of Apocrea mission](https://wiki.spiralknights.com/Shroud_of_the_Apocrea_(Mission)), or maybe even, a literal shroud, leading into Apocrean Realm.
 
 Those patterns have [less common shape](https://wiki.spiralknights.com/File:SotA-Gameplay_End.png
 ), yet seem to be made of seemingly known mineral of [luminite](https://wiki.spiralknights.com/Luminite#Luminite): `A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it`.
@@ -1868,7 +1870,9 @@ Apocrea, by being vividly inspired by eldrich entities, gods, seems to be repres
 
 If we to take this generalized idea of eldritch beings and apply to the setting, then ritual circles would be one of the most ancient methods of using magic across the known realms.
 
-In both ways, ritual circles could originate from Apocrean Realm, and then be adapted by Underworld to a more occult shapes similar to "The Key of Solomon the King". Or, Underworld could be one to invent those and then apply them in locations of connection to, at least, material realm, as seen in the [Departure](https://wiki.spiralknights.com/Departure). Either way, the concept would reach material realm, and, due to more notable presence of Underworld, we believe, this was done through underworld.
+In both ways, ritual circles could originate from Apocrean Realm, and then be adapted by Underworld to a more occult shapes similar to "The Key of Solomon the King". Or, Underworld could be one to invent those and then apply them in locations of connection to, at least, material realm, as seen in the [Departure](https://wiki.spiralknights.com/Departure).
+
+Either way, the concept would reach material realm, and, due to more notable presence of Underworld, we believe, this was done through underworld.
 
 Then it is the nature of Apocrean ritual circles which remains unknown. Why luminite was used? Is luminite connected to the idea of [minerals defining pentacle's application and proper function](#ritual-circles-circle-of-art-pentacles) as proposed in the analysis of [fiendish glyphs](#fiendish-glyphs)?
 
@@ -1876,7 +1880,11 @@ The only idea so far we have is the idea of juxtaposing the Sun, as luminite, to
 
 There is a ray of light emanating from the floor surrounded by the circle, suggesting a portal, similar to the elevator exit purple portal. As for the shape of those writings, they are reminiscent of the floral, nature-inspired designs of magic belonging to [the Spirit Mother and Nature Sprites](#almire-and-spirit-mother). Could it be a further affirmation for the connection of souls to a Spirit Mother? Then, what those ritual patterns are meant to represent?
 
-#### Cradle Metaphysics, the Status Quo
+-This relation to light and protection may be also suggested by the several types of puzzles_ within the [Grasping Plateau](https://wiki.spiralknights.com/Shroud_of_the_Apocrea/The_Grasping_Plateau), as they play a key, helping an guiding role in solving the puzzles of the plateau.
+
+Here a [3 layered on top of each other circles](https://wiki.spiralknights.com/File:Level_Shroud_of_the_Apocrea_puzzle_tower_gold.png) should be notes, with a bow-like curved line below them. [The same pattern is seen for its dark matter counterpart](https://wiki.spiralknights.com/File:Devilite_Apocrea_Ritual.png), but instead of a curved line, the pattern is circled by a shape, most similar to alchemy orb, with 2 arms by its sides. We make this connection due to other appearance of the stylized pattern of the orb of alchemy - [Tomes of Rage](https://wiki.spiralknights.com/Tome_of_Rage) contain this pattern of their cover, relating to the fundamental concept of rage. We will keep this tome in mind for [the second part of the analysis of valkyries](#chapter-viii-kat-tribe).
+
+#### Cradle Metaphysics
 
 Owlites, Valkyries, and Kingdom of Almire are all far more aware of elemental and shadow damage by the time we discover them. And it is while the souls don't leave material realm on Cradle, and Spiral Order with Isorians existing for eons wasn't aware of likely supernatural nature shadow nor elemental physics for [eons](#chapter-v-isorians).
 
@@ -1900,7 +1908,16 @@ So far this concept was a major element to the theory, despite being mentioned o
 
 In the framing of the theory at that point in time we lean to the idea of spirit returning to material realm as a poetic resurging of existential threats of past civilizations - that undeath was present in the past predominantly in the relation to Underworld. We suggest this based on more peculiar items, such as [Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker): `An ancient handgun forged from sun silver. Its bullets serve as ushers for those that refuse to leave this world` and [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher): `A powerful cold iron blade forged for the singular purpose of hunting down and destroying the undead`. That undeath is universal, but it does not present evidence for literal lost souls to be mentioned. If souls were to be regular part of process of life-cycle, then Spiral Order would have known of them in the modern equipment. This notion of Spiral Order not acknowledging some aspects of the setting persists across all of the setting, from which we have to make guesswork themselves and rely on the recounts of older events.
 
-With this gathered information, we propose so far, that the nature of Cradle's metaphysical status quo - of souls appearing outside of Underworld and Apocrean Realm is unique in its scale, but nominal in the function - undeath was present, but as we will see, it was deeply related to Underworld. But here, undeath presents itself from every case of death in proximity to Cradle.
+With this gathered information, we propose so far, that the __nature of Cradle's metaphysical status quo - of souls appearing outside of Underworld and Apocrean Realm is unique in its scale, but nominal in the function__ - undeath was present, but as we will see, it was deeply related to Underworld. Most of those creatures will be covered in their own chapters later:
+
+- Undead [Howlitzers](https://wiki.spiralknights.com/Howlitzer) reemerging on Owlite grounds as they were [slain by Valkyries](#howlitzers-dragons-and-drakes) - either by influence of Kataclysm, or only now - due to the Core's activity.
+- Past Kat Tribe [Spookats](https://wiki.spiralknights.com/Kat) was erased by Kataclysm and then brought back in their undeath.
+
+    The distinction between Spookats and Black Kats will be covered in their own chapter, as their are only sealed, and are brought back through summoning, reminiscent of Legion of Ur.
+- Subclasses of [Zombies](https://wiki.spiralknights.com/Zombie) being within our theory [fallen people of Almire](#he-brought-fire-from-the-mountains) and other kingdoms, are suggested by influence of [Lord Vanaduke's fires](#nature-of-darkfire), as Legions of Almire. To them we attribute [Almirian Crusaders](https://wiki.spiralknights.com/Almirian_Crusader) and [Dreadnoughts](https://wiki.spiralknights.com/Deadnaught) as of similar [skeletal design](#undead-dreadnoughts).
+- Lastly, [Scarabs](https://wiki.spiralknights.com/Scarab) have a link to death, most evident by their name and ribcage shell. This motif of death and insect-like design reminds us of [inhabitants of Apocrean Realm](#analysis-of-apocrean-realm).
+
+But here, undeath presents itself from every case of death in proximity to Cradle, _without a need for an explicit action of curse or induced by it transformation_. Prime example of it being, if we commit to the idea of Spiral Order being unaware of souls, by the result of [ghost in the machine danger mission](#ghosts-in-the-machine).
 
 Lastly, the we are yet to identify the time period of both [western-themed handguns](https://wiki.spiralknights.com/Antigua) and [corresponding armor sets](https://wiki.spiralknights.com/Gunslinger_Sash) to be identified, as well as of the [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher), as they may stir in the correct direction the initial proposal described above.
 
@@ -1910,7 +1927,7 @@ We believe, that _gremlins guard the Firestorm Citadel at the [Gauntlet](https:/
 
 Gauntlet's second depth is of deconstruction zone with a nontrivial name - "Reign of Fire", and the last depth - the ["Last Stand"](https://wiki.spiralknights.com/The_Gauntlet/Last_Stand) with an architecture of the Scarlet Fortress, always has gremlins present at the final arena, accompanied by elite constructs and elemental fiery gun puppies.
 
-Overall, this does not seem as a coincidence, but a pattern, also seen in the [Ghost in The Machine](https://wiki.spiralknights.com/Ghosts_in_the_Machine) danger mission, discussed in the [GiTM section](#ghosts-in-the-machine) in the [context of lasers and battlepods](#battlepods-and-laser-technology).
+Overall, this does not seem as a coincidence, but a pattern, also seen in the [Ghost in The Machine](https://wiki.spiralknights.com/Ghosts_in_the_Machine) danger mission, discussed in the [its analysis section](#ghosts-in-the-machine) in the [context of lasers and battlepods](#battlepods-and-laser-technology).
 
 Firestorm Citadel has itself a dedicated room with a mysterious console embedded behind the throne room, which does not seem accessible from the outside of the molten cavern, as the rest of the citadel is protected by Lord Vanaduke. Due to this, Citadel became a significant element of rank missions, as it blocked further access to the Core: `The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. Recon Knights have said that all they see near it is fire, endless fire` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)).
 
