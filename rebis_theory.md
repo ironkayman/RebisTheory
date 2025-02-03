@@ -1876,21 +1876,37 @@ The only idea so far we have is the idea of juxtaposing the Sun, as luminite, to
 
 There is a ray of light emanating from the floor surrounded by the circle, suggesting a portal, similar to the elevator exit purple portal. As for the shape of those writings, they are reminiscent of the floral, nature-inspired designs of magic belonging to [the Spirit Mother and Nature Sprites](#almire-and-spirit-mother). Could it be a further affirmation for the connection of souls to a Spirit Mother? Then, what those ritual patterns are meant to represent?
 
-#### Cradle Metaphysics
+#### Cradle Metaphysics, the Status Quo
 
-The supernatural notion of souls and minerals contrasts with the fact that Isorians had not discovered elemental or shadow damage for, possibly, eons.
+Owlites, Valkyries, and Kingdom of Almire are all far more aware of elemental and shadow damage by the time we discover them. And it is while the souls don't leave material realm on Cradle, and Spiral Order with Isorians existing for eons wasn't aware of likely supernatural nature shadow nor elemental physics for [eons](#chapter-v-isorians).
 
-Owlites, Valkyries and Kingdom of Almire are aware of elemental and shadow damage, the souls don't leave material realm on Cradle, and Spiral Order with Isorians existing for eons wasn't aware of shadow and elemental physics.
+Due to this vague timeline positioning, where in the Core became a tangible gremlin-aligned force, the knowledge of those elements could not be attained by a status quo of souls returning. Unless this state is what allowed for greater manipulation of magic, compared to [Arcana](https://wiki.spiralknights.com/Arcana): `An exceptional handgun that fires powerful, elemental shots that many Spiral Knights refer to as 'magic missiles'`.
 
-This may seem as a logical leap, as Almire, as Valkyries, and then Owlites were introduced to those physics very early on in the overall timeline of events before any chance of the Core being an actor in their respective narratives.
+The events of all of the kingdoms above, even without their details are framed in a themes of phantasy, be it a lost kingdom, mythology-inspired heavenly valkyries and earthly titans, interventions of Underworld, or dark halls of a magic academy.
 
-The space prior to being influenced by those forces was inhabited and was already under abnormal, unnatural influence, unrelated to property of lingering of souls on Cradle. All of undead, devilites' work, and other supernatural phenomenon fit into the current chaotic environment of Cradle, suggesting that whatever makes souls to linger abides to the same laws. The Whitespace does contain void souls. It still allows for existence of souls. This makes seem that Whitespace's influence as one being hidden in the Core while still existing in the material realm is the most likely candidate responsible for those changes.
+On the other hand there is the Core and its internal structure as completely alien to everything above, abstract.
 
-Cradle has intersecting realms with a capacity for anyone to traverse them up to a degree. And it is confirmed by [Graveyards](https://wiki.spiralknights.com/Graveyards): `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through`. That same logic can be applied to the [Candlestick Keep](https://wiki.spiralknights.com/Candlestick_Keep), which itself is suspended in same obscured space, allowing for an advanced darkness, specifically grimalkin to enter to material realm in aftermath of the Kataclysm. Kataclysm will be discussed in the [analysis of Kat Tribe](#chapter-viii-kat-tribe).
+If we consider a possibility of the Whitespace, or what it was prior to the Core, being the reason for greater magical capabilities, and if all of civilizations above do belong to this single planet, - then the property of spirits returning to material realm would be connected to all of those magical phenomena, while justifying them.
+
+If the effects of the Core observed, as of spirits returning to material realm, exist on their own, only being manifested in cases such of the [Ghost in The Machine](#ghosts-in-the-machine), then magic does exist separately from this metaphysical condition, allowing for all of the fantasy events to happen without being tied to the Core's internal logic. This seems as moe plausible solution so far.
+
+But, what are laws for undeath to exist? Is undeath a prime evidence of spirits returning to material realm or is it a phenomenon characteristic of magic in general? How is - `spirits return to the material realm` ([Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)), - manifests itself on Cradle?
+
+All of undead, devilites' work, and other supernatural phenomenon fit into the current chaotic environment of Cradle, suggesting that whatever makes souls to linger abides to the same laws. The Whitespace does contain void souls, so in other words it still allows for existence of souls in this environment. Of course, there is the aspect of the Void, which remains unknown, but, as discussed in the analysis of [minerals and souls](#minerals-and-souls-part-1), the physical foundations, the laws, remain even here.
+
+Cradle has intersecting realms with a capacity for anyone to traverse them up to a degree. And it is confirmed by [Graveyards](https://wiki.spiralknights.com/Graveyards): `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through`. That same logic can be applied to the [Candlestick Keep](https://wiki.spiralknights.com/Candlestick_Keep), which itself is suspended in same obscured space, allowing for an advanced darkness, specifically not [phantoms](https://wiki.spiralknights.com/Phantom), but [grimalkin](https://wiki.spiralknights.com/Grimalkin#Grimalkin) to enter to material realm in aftermath of the Kataclysm. Kataclysm will be discussed in the [analysis of Kat Tribe](#chapter-viii-kat-tribe).
+
+So far this concept was a major element to the theory, despite being mentioned only once. We intend it to consider with all seriousness due to its implications and disclosure of the inner laws of the setting.
+
+In the framing of the theory at that point in time we lean to the idea of spirit returning to material realm as a poetic resurging of existential threats of past civilizations - that undeath was present in the past predominantly in the relation to Underworld. We suggest this based on more peculiar items, such as [Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker): `An ancient handgun forged from sun silver. Its bullets serve as ushers for those that refuse to leave this world` and [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher): `A powerful cold iron blade forged for the singular purpose of hunting down and destroying the undead`. That undeath is universal, but it does not present evidence for literal lost souls to be mentioned. If souls were to be regular part of process of life-cycle, then Spiral Order would have known of them in the modern equipment. This notion of Spiral Order not acknowledging some aspects of the setting persists across all of the setting, from which we have to make guesswork themselves and rely on the recounts of older events.
+
+With this gathered information, we propose so far, that the nature of Cradle's metaphysical status quo - of souls appearing outside of Underworld and Apocrean Realm is unique in its scale, but nominal in the function - undeath was present, but as we will see, it was deeply related to Underworld. But here, undeath presents itself from every case of death in proximity to Cradle.
+
+Lastly, the we are yet to identify the time period of both [western-themed handguns](https://wiki.spiralknights.com/Antigua) and [corresponding armor sets](https://wiki.spiralknights.com/Gunslinger_Sash) to be identified, as well as of the [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher), as they may stir in the correct direction the initial proposal described above.
 
 ##### Gremlin Containments
 
-We believe, that gremlins guard the Firestorm Citadel at the [Gauntlet](https://wiki.spiralknights.com/Gauntlet) with modern devices and traps.
+We believe, that _gremlins guard the Firestorm Citadel at the [Gauntlet](https://wiki.spiralknights.com/Gauntlet)_ with modern devices and traps.
 
 Gauntlet's second depth is of deconstruction zone with a nontrivial name - "Reign of Fire", and the last depth - the ["Last Stand"](https://wiki.spiralknights.com/The_Gauntlet/Last_Stand) with an architecture of the Scarlet Fortress, always has gremlins present at the final arena, accompanied by elite constructs and elemental fiery gun puppies.
 
