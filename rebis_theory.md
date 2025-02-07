@@ -2,24 +2,37 @@
   import BookCitation from "$lib/entries/sk/components/book_citation.svelte"
   import SubTitleCentered from "$lib/entries/sk/components/sub_title_centered.svelte"
 
+  import Spacer from "$lib/entries/sk/components/spacer.svelte"
+
   import thumbnail from '$lib/entries/sk/rebis-theory/assets/thumbnail_readme_no_text.png';
+
+  import Credits from '$lib/entries/sk/rebis-theory/CREDITS.md';
 </script>
 
 <h1 align="center">
-  Rebis Theory <span class="energy bold">🜔</span>
+  Rebis Theory <span class="energy">🜔</span>
 </h1>
 
-<SubTitleCentered>
+<SubTitleCentered bg="true">
 
 _"A Monstrous Research"_
 
 </SubTitleCentered>
 
+<br/>
+
+<div class="first-large">
+
 This document is meant to group elements of Spiral Knights' worldbuilding and lore into cohesive narratives within the context of singular timeline of the game while focusing on the main themes and motifs in attempt to achieve narratively satisfying closure for the presented story.
+
+</div>
 
 <p align="center">
   <img src="{thumbnail}" alt="thumbnail" style="width: 100%; display: block; margin: auto;"/>
 </p>
+
+<Spacer />
+
 
 ## Preface
 
@@ -5296,10 +5309,10 @@ In regards to the Fire Crystal, they have similar inner glow as orbs of alchemy.
 
 ---
 
-## Acklowledgements
+## Acknowledgements
 
 - [Knight Launcher](https://github.com/lucasluqui/KnightLauncher) by lucasluqui
-- [Spiral Knights - Scene Archive](https://github.com/sinkillerj/SpiralKnightsSceneArchive) by sinkillerj
+- [Spiral Knights Scene Archive](https://github.com/sinkillerj/SpiralKnightsSceneArchive) by sinkillerj
 
 ### Spiral Knights Subreddit
 
@@ -5364,10 +5377,4 @@ Source code for the page is located at [ironkayman.github.io](https://github.com
 
 Source code for the document is located at [ironkayman/RebisTheory](https://github.com/ironkayman/RebisTheory).
 
-## Credits
-
-Contents of this page include resources licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) except for assets taken from [Spiral Knights](https://wiki.spiralknights.com/Spiral_Knights) and copyrighted by Grey Havens LLC, adapted through the usage of model viewing and image editing software. Spiral Knights is property of Grey Havens, LLC.
-
-The document contains citations from New World Encyclopedia, the materials are licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://www.newworldencyclopedia.org/entry/New%20World%20Encyclopedia:Creative_Commons_CC-by-sa_3.0).
-
-For copyright concerns, please contact by an Email: [lori.j.kayman@gmail.com](mailto:lori.j.kayman@gmail.com)
+<Credits/>

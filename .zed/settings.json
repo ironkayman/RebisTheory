@@ -9,7 +9,8 @@
   },
   "languages": {
     "Markdown": {
-      "language_servers": ["cspell", "marksman"]
+      "language_servers": ["cspell", "marksman"],
+      "remove_trailing_whitespace_on_save": true
     }
   }
 }
