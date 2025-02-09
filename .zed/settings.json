@@ -5,7 +5,8 @@
 {
   "dictionaries": ["en-us"],
   "auto_install_extensions": {
-    "cspell": true
+    "cspell": true,
+    "marksman": true
   },
   "languages": {
     "Markdown": {
