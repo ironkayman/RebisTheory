@@ -2421,21 +2421,25 @@ Another notion, despite relation to a different culture - in Wolver Dens there i
 
 The sword is said to have a star map engraved on it, reminiscent of Isorian celestial sets. This might seem as an inspiration from a close to Ireland kingdom, a myth and symbol of the sovereignty of Great Britain. But, there are 2 elements to this: the sword is large, larger than any weapon so far discovered, and it has a map of stars: `Etched within the side of the blade appears to be some kind of map of the stars`. The only connection we can derive from it, given sword's size and connection to the stars is the myth of Asgard's construction with the assistance of Giants. The Sword of Freyr comes us to mind, as it was given up in marriage of Freyr with a giantess Gerðr.
 
-Here, if we attempt to extrapolate this myth, or merging of 2 myths, it would seem to as follows. The sword was made by Valkyries, given the star map, to assist titans in their own work. The sword was sent from the heavens and stuck in a rock, located in [fractured region we have theorized to be the veiled homeland](#veiled-tortodrone-homeland), now identified as Wolver Den, given similar architecture. The sword was never used as it was likely too late for titans, as Undercorp erased them. Given titans' past with mainly valkyries, it would seem uncommon for Isorians, even as raiders, to involved here.
+Here, if we attempt to extrapolate this myth, or merging of 2 myths, it would seem to us as follows.
 
-#### Lack of Clockworks and Isorian Descendants
+The sword was made by Valkyries, given the star map, to assist titans in their own work. The sword was sent from the heavens and stuck in a rock, located in [fractured region we have theorized to be the veiled homeland](#veiled-tortodrone-homeland), now identified as Wolver Den, given similar architecture. The sword was never used as it was likely too late for titans, as Undercorp erased them. Given titans' past with, mainly, valkyries, it would seem uncommon for Isorians, even as raiders, to be involved here with giants around the plot of this giant sword.
 
-So far we have proposed a scenario of Isorians being stranded on a planet, which was at some point incorporated into Cradle. This and not landing on Cradle itself seems to us mainly due to the fact that presence of CLockworks should then be recorder by, at least, people of Almire. Based on the position of Haven, Clockwork tunnels are not particularly deep below ground, although it is located near Arcade.
+So far we have proposed a scenario of Isorians being stranded on a planet, which was at some point incorporated into Cradle. Such case seems to us relatively plausible also due to the fact that presence of Clockworks should then be recorder by, at least, people of Almire - based on the position of Haven, Clockwork tunnels are not particularly deep below the ground, which should've been recounted.
 
-One anachronistic element here we have now to address - within the current proposal [gremlin confinements](#gremlin-containments), specifically elevators within Firestorm Citadel, are left ambiguous on the timeline, but, there decision regarding them significantly affect Cradle's past.
+##### Location of Firestorm Citadel
 
-It lead to 2 scenarios: either being built by gremlins before Almire's Fall, leading to existence of Clockworks on that planet, defining it as Cradle, or were built later as a means of securing the Console behind throne room. The latter scenario suggest a plausibility of access by gremlins to the citadel, judging by the notion of gremlins guarding it. But, it is not impossible, and the lack of Clockworks being mentioned in Almirian texts seems to us as a strong point of suggesting that the events of Almire's Fall occurred prior to them being captured by the Core, and only later Console was supposed to be build there.
+Under this notion of relying on norse and irish mythology, we could can attempt to establish the location of the Firestorm Citadel - based on the proximity to the potentially volcanic mountains, while looking at presence of several kingdom and Vikings being involved into the conflict.
 
-Here, we can attempt to establish the location of the Firestorm Citadel - based on it being the capital of Almire near the mountains, we can map it onto real world capital with consideration of Viking involvement.
+Among few medieval Irish castles, we consider Firestorm Citadel being a stand-in for Rock of Cashel, located in the city of Cashel in Kingdom of Munster near the Galtee Mountains. Kingdom was invaded by Uí Imair's army of pagan Vikings. Near it a certain mountain is located - Devil's Bit.
 
-Among few medieval Irish castles, we consider Firestorm Citadel being a stand-in for Rock of Cashel, located in the city of Cashel in Kingdom of Munster near the Galtee Mountains. Kingdom was invaded by Uí Imair's army of pagan Vikings. Near Rock was located a certain mountain - Devil's Bit. The legend says that the devil broke his teeth and spat the Rock of Cashel from his mouth to where it now stands. This parallels, although not in detail, [Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), `a sword said to be created from the fang of the fire beast, Vog`, as it is alchemized from Almirian Seals, suggesting its involvement with Lord Vanaduke's curse.
+According to the legend, the devil broke his teeth and spat the Rock of Cashel from his mouth to where it stands.
 
-Pembrooke, a spookat, is a reference to a city of Pembroke located in Wales. There a castle was build 1093.
+The concept of a deity or a beast giving its fang or tooth, making it into a weapon is found across many myths.
+
+While this proposal does not completely suffice the setting of Almire, as the themes, found in relation to Devil's Bit does not seem to parallel ours, the general motif of broken teeth and devil is also found here as the [Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), `a sword said to be created from the fang of the fire beast, Vog`.
+
+As it is alchemized from Almirian Seals, it might suggest its involvement with Lord Vanaduke, albeit the same Ancient Armor does not belong to this period of time despite being acquired for Almirian Seals, as we have discussed earlier.
 
 #### He Brought Fire from the Mountains
 
