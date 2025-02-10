@@ -4,8 +4,10 @@ After nearly a year in the making, our researchers compiled the **most complete 
 
 [**REBIS THEORY 🜔**](https://ironkayman.github.io/entries/rebis-theory)
 
-Here, we finally define the _nature of curse_, _the Swarm_, entire cosmology of _Nameless Realm_, _Spirit Mother_ and why spirit return to material realm, _Underworld_, _Heavenly Kingdom_, _Apocrea_, _Architect's Madness_ and Clockworks, their respective alchemical themes, eldritch motifs, and **so much more**! And most importantly, **we present a cohesive, complete system**, to which entirety of this cosmology abides with no space for oddities or hand waves.
+Here, we are to identify _nature of curse_, _the Swarm_, entire cosmology of _Nameless Realm_, _Spirit Mother_ and why spirit return to material realm, _Underworld_, _Heavenly Kingdom_, _Apocrea_, _Architect's Madness_ and Clockworks, their respective alchemical themes, eldritch motifs, and **so much more**!
 
-We have considered the sheer scale of the document, so be rest assured, — our biotechs are ~~outsourcing to Undercorp~~ already working on the _video presentation_.
+Most importantly, **we present a cohesive, complete system**, to which entirety of this cosmology abides!
+
+_P.S. We have considered the sheer scale of the document, so be rest assured, — our biotechs are ~~outsourcing to Undercorp~~ already working on the video presentation._
 
 https://ironkayman.github.io/entries/rebis-theory
