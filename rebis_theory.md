@@ -2081,19 +2081,31 @@ While the next connection is likely a coincidence, we have to point out mention 
 XXI. Nyarlathotep
 
 And at the last from inner Egypt came
+
 The strange dark One to whom the fellahs bowed;
+
 Silent and lean and cryptically proud,
+
 And wrapped in fabrics red as sunset flame.
+
 Throngs pressed around, frantic for his commands,
+
 But leaving, could not tell what they had heard;
+
 While through the nations spread the awestruck word
+
 That wild beasts followed him and licked his hands.
 
 Soon from the sea a noxious birth began;
+
 Forgotten lands with weedy spires of gold;
+
 The ground was cleft, and mad auroras rolled
+
 Down on the quaking citadels of man.
+
 Then, crushing what he chanced to mould in play,
+
 The idiot Chaos blew Earth’s dust away.
 
 </BookCitation>
