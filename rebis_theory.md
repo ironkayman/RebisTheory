@@ -2074,6 +2074,30 @@ Due to those parallels, we may suggest, __due to cunning nature and scheming the
 
 Nefarious Imp will be later addressed in the [Moorcroft manor past the heavenly kingdom section](#moorcroft-manor-past-heavenly-kingdom) in relation to Underworld expansion and then resolved in the [Resurrection of Margrel](#margrel-and-immortality-through-curse), further relation to this idea of Imp targeting Cradle.
 
+While the next connection is likely a coincidence, we have to point out mention of citadels, as if in potential relation to Almire, as a kingdom, [closely associated with the Spirit Mother](#almire-and-spirit-mother):
+
+<BookCitation source="H. P. Lovecraft - Fungi from Yuggoth, XXI. Nyarlathotep">
+
+XXI. Nyarlathotep
+
+And at the last from inner Egypt came
+The strange dark One to whom the fellahs bowed;
+Silent and lean and cryptically proud,
+And wrapped in fabrics red as sunset flame.
+Throngs pressed around, frantic for his commands,
+But leaving, could not tell what they had heard;
+While through the nations spread the awestruck word
+That wild beasts followed him and licked his hands.
+
+Soon from the sea a noxious birth began;
+Forgotten lands with weedy spires of gold;
+The ground was cleft, and mad auroras rolled
+Down on the quaking citadels of man.
+Then, crushing what he chanced to mould in play,
+The idiot Chaos blew Earth’s dust away.
+
+</BookCitation>
+
 ##### Operation Gelid and other methods of escaping Cradle
 
 At the same time, presence of Spiral Knights' armor within the [Glacial Prize Box](https://wiki.spiralknights.com/Glacial_Prize_Box) roster might suggest that Imp could be involved though the design similarities to the apocrean gear. Those being:
@@ -2910,7 +2934,7 @@ This leaves us with 2 explanations:
 
 It is also important to note, that Dark Ember, being the boss trophy, was added [after](https://wiki.spiralknights.com/Release_Notes_2012-12-12) [introduction](https://wiki.spiralknights.com/Release_Notes_2011-10-19) of Shadow Lairs, with nearly a year of a gap.
 
-Considering many instances of unreliable narrations so far, even with cases such as Nameless Realm, while is named once, darkfire, due to Vanaduke's mask argument and existence of Darkfire Vanaduke, darkfire seems to us as a distinct phenomenon, attributed to dark embers. And, as latter are specified as `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), we have to look into the canon of the events involving traversal of Shadow Firestorm Citadel.
+Considering many instances of unreliable narrations so far, even with cases such as Nameless Realm, while is named once, darkfire, due to Vanaduke's mask argument and existence of Darkfire Vanaduke, darkfire seems to us as a distinct phenomenon, attributed to dark embers. And, as latter are specified as `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), we have to look into the canon of the events involving traversal of [Shadow Firestorm Citadel](#true-citadel-of-almirian-empire).
 
 On the other hand, none of other boss trophies relate to Shadow counterparts, so this would potentially mean, that the purple curse was already present in the Firestorm Citadel, at least in the Throne Room.
 
