@@ -137,11 +137,11 @@ At that very point the implied duality of the phrase above must be kept in mind,
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
 
-`The “treasure hard to attain,” whose presence was suspected in the dark prima materia, is symbolized by the alchemists in various ways. Christopher of Paris, for instance, says that the chaos (as prima materia) is the work of all-wise nature. Our understanding ... , aided by the “celestial and glowing spirit,” must transform this natural work of art —chaos—into the celestial nature of the quintessence, and into the life- giving (vegetabilis) essence of heaven. The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum).`
+The “treasure hard to attain,” whose presence was suspected in the dark prima materia, is symbolized by the alchemists in various ways. Christopher of Paris, for instance, says that the chaos (as prima materia) is the work of all-wise nature. Our understanding ... , aided by the “celestial and glowing spirit,” must transform this natural work of art —chaos—into the celestial nature of the quintessence, and into the life- giving (vegetabilis) essence of heaven. The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum).
 
 ---
 
-`the earth (as prima materia) is not a dead body, but is inhabited by a spirit that is its life and soul. All created things, minerals included, draw their strength from the earth- spirit. This spirit is life, it is nourished by the stars, and it gives nourishment to all the living things ... This invisible spirit is like the reflection in a mirror, intangible, yet it is at the same time the root of all the substances necessary to the alchemical process or arising therefrom (radix nostrorum corporum).`
+The earth (as prima materia) is not a dead body, but is inhabited by a spirit that is its life and soul. All created things, minerals included, draw their strength from the earth- spirit. This spirit is life, it is nourished by the stars, and it gives nourishment to all the living things ... This invisible spirit is like the reflection in a mirror, intangible, yet it is at the same time the root of all the substances necessary to the alchemical process or arising therefrom (radix nostrorum corporum).
 
 </BookCitation>
 
@@ -230,21 +230,21 @@ We will consider this in-universe concept of alchemy as one inspired by the real
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
 
-`Alchemy, as is well known, describes a process of chemical transformation and gives numberless directions for its accomplishment. Although hardly two authors are of the same opinion regarding the exact course of the process and the sequence of its stages, the majority are agreed on the principal points at issue, and have been so from the earliest times, i.e., since the beginning of the Christian era.`
+Alchemy, as is well known, describes a process of chemical transformation and gives numberless directions for its accomplishment. Although hardly two authors are of the same opinion regarding the exact course of the process and the sequence of its stages, the majority are agreed on the principal points at issue, and have been so from the earliest times, i.e., since the beginning of the Christian era.
 
-`The alchemical opus deals in the main not just with chemical experiments as such, but with something resembling psychic processes expressed in pseudochemical language. The ancients knew more or less what chemical processes were; therefore they must have known that the thing they practised was, to say the least of it, no ordinary chemistry.`
+The alchemical opus deals in the main not just with chemical experiments as such, but with something resembling psychic processes expressed in pseudochemical language. The ancients knew more or less what chemical processes were; therefore they must have known that the thing they practised was, to say the least of it, no ordinary chemistry.
 
-`If the alchemist is admittedly using the chemical process only symbolically, then why does he work in a laboratory with crucibles and alembics? And if, as he constantly asserts, he is describing chemical processes, why distort them past recognition with his mythological symbolisms?`
+If the alchemist is admittedly using the chemical process only symbolically, then why does he work in a laboratory with crucibles and alembics? And if, as he constantly asserts, he is describing chemical processes, why distort them past recognition with his mythological symbolisms?
 
-`This puzzle has proved something of a headache to many an honest and well-meaning student of alchemy. On the one hand the alchemist declares that he is concealing the truth intentionally, so as to prevent wicked or stupid people from gaining possession of the gold and thus precipitating a catastrophe. But, on the other hand, the same author will assure us that the gold he is seeking is not—as the stupid suppose—the ordinary gold (aurum vulgi), it is the philosophical gold or even the marvellous stone, the lapis invisibilitatis (the stone of invisibility), or the lapis aethereus (the ethereal stone), or finally the unimaginable hermaphroditic rebis, and he will end up by saying that all recipes whatsoever are to be despised.`
-
----
-
-`For psychological reasons, however, it is highly unlikely that the motive prompting the alchemist to secrecy and mystification was consideration for mankind. Whenever anything real is discovered it is usually announced with a flourish of trumpets. The fact is that the alchemists had little or nothing to divulge in the way of chemistry, least of all the secret of goldmaking.`
+This puzzle has proved something of a headache to many an honest and well-meaning student of alchemy. On the one hand the alchemist declares that he is concealing the truth intentionally, so as to prevent wicked or stupid people from gaining possession of the gold and thus precipitating a catastrophe. But, on the other hand, the same author will assure us that the gold he is seeking is not—as the stupid suppose—the ordinary gold (aurum vulgi), it is the philosophical gold or even the marvellous stone, the lapis invisibilitatis (the stone of invisibility), or the lapis aethereus (the ethereal stone), or finally the unimaginable hermaphroditic rebis, and he will end up by saying that all recipes whatsoever are to be despised.
 
 ---
 
-`The real nature of matter was unknown to the alchemist: he knew it only in hints. In seeking to explore it he projected the unconscious into the darkness of matter in order to illuminate it. In order to explain the mystery of matter he projected yet another mystery— his own unknown psychic background—into what was to be explained: Obscurum per obscurius, ignotum per ignotius! This procedure was not, of course, intentional; it was an involuntary occurrence.`
+For psychological reasons, however, it is highly unlikely that the motive prompting the alchemist to secrecy and mystification was consideration for mankind. Whenever anything real is discovered it is usually announced with a flourish of trumpets. The fact is that the alchemists had little or nothing to divulge in the way of chemistry, least of all the secret of goldmaking.
+
+---
+
+The real nature of matter was unknown to the alchemist: he knew it only in hints. In seeking to explore it he projected the unconscious into the darkness of matter in order to illuminate it. In order to explain the mystery of matter he projected yet another mystery— his own unknown psychic background—into what was to be explained: Obscurum per obscurius, ignotum per ignotius! This procedure was not, of course, intentional; it was an involuntary occurrence.
 
 </BookCitation>
 
@@ -292,20 +292,18 @@ The rage/normal damage thematic parity is also seen in [tortodrones](https://wik
 
 While corrupted (`A handgun alchemized from the shell of a corrupted tortodrone.` - [Grim Buster](https://wiki.spiralknights.com/Grim_Buster)) tortodrones are fought in [Call of the Colossi](https://wiki.spiralknights.com/March_of_the_Tortodrones/Call_of_the_Colossi). The colossi in question, due to tortodrones' size, we suggest, are those exact tortodrones. They still deal normal and elemental damage, despite their corrupted weaponry likely being [Gorgofist](https://wiki.spiralknights.com/Gorgofist), as it is a shadow-damaging weapon. So far, we will not delve into the specifics of Tortodrones, as they will be revisited later in the [Arrival of Undercorp section](#chapter-vi-arrival-of-undercorp), where this motif will be explored in greater depth.
 
-As for the divine Drakon and its dragon counterpart, one more similarity can be suggested to parallel to the established idea dragons being interstellar species.
+As for the divine Drakon and its dragon counterpart, one more similarity can be suggested to parallel to the established idea dragons being interstellar species, but also, as we will se later, tying with the concepts closely related in alchemy:
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
 
-`The dragon in itself is a monstrum - a symbol combining the chthonic principle of the serpent and the aerial principle of the bird. It is, as Ruland says, a variant of Mercurius. But Mercurius is the divine winged Hermes manifest in matter, the god of revelation, lord of thought and sovereign psychopomp`
+The dragon in itself is a monstrum - a symbol combining the chthonic principle of the serpent and the aerial principle of the bird. It is, as Ruland says, a variant of Mercurius. But Mercurius is the divine winged Hermes manifest in matter, the god of revelation, lord of thought and sovereign psychopomp. The liquid metal, argentum vivum—“living silver,” quicksilver—was the wonderful substance that perfectly expressed the nature of the στίλβων: that which glistens and animates within. When the alchemist speaks of Mercurius, on the face of it he means quicksilver, but inwardly he means the world-creating spirit concealed or imprisoned in matter. The dragon is probably the oldest pictorial symbol in alchemy of which we have documentary evidence. It appears as the ούρο βόρος, the tail-eater, in the Codex Marcianus, which dates from the tenth or eleventh century, together with the legend: νἓ τò πάν (the One, the All). Time and again the alchemists reiterate that the opus proceeds from the one and leads back to the one, that it is a sort of circle like a dragon biting its own tail. For this reason the opus was often called circulare (circular) or else rota (the wheel). Mercurius stands at the beginning and end of the work: he is the prima materia, the caput corvi, the nigredo; as dragon he devours himself and as dragon he dies, to rise again as the lapis. He is the play of colours in the cauda pavonis and the division into four elements. He is the hermaphrodite that was in the beginning, that splits into the classical brother-sister duality and is reunited in the coniunctio, to appear once again at the end in the radiant form of the lumen novum, the stone. He is metallic yet liquid, matter yet spirit, cold yet fiery, poison and yet healing draught—a symbol uniting all opposites.
 
 </BookCitation>
-
-This renders dragons in alchemy as figures of dual nature of the Universe.
 
 Due to this we propose that:
 
 - Drakon battle sprites are reincarnations of dragons, both are categorized into sub-species associated with damage types of **storms/divinity/elemental damage**, **rage/normal damage**, and **frenzy/shadow damage**.
-- Dragons exist across multiple realms or their habitat is not restricted to a singular celestial body, this feature will be revisited and dissected in relation to Spiral Order in the [Old Order Knights of Isora section](#establishment-of-order) - that Spiral Order is aware of dragons and had their own interactions with them, while it is Cradle of all places which has large amounts of draconic imagery and designs, specifically, castles. Those castles we believe are inherited from other civilization, which had their own experiences with dragons.
+- Dragons exist across multiple realms or their habitat is not restricted to a singular celestial body, this feature will be revisited and dissected in relation to Spiral Order in the [Old Order Knights of Isora section](#establishment-of-order) - that Spiral Order is aware of dragons and had their own experiences with them, while it is Cradle of all places which has large amounts of draconic imagery and designs, specifically, across castles and [other set, or strate, of ruins](#veiled-tortodrone-homeland).
 
 #### Creation Myth
 
@@ -772,11 +770,11 @@ Moreover, this exact narrative seems as the closest to the myth of how Asgard of
 
 <BookCitation source="New World Encyclopedia: Asgard">
 
-Describing the red band in the rainbow, the Prose Edda suggests that `that which thou seest to be red in the bow is burning fire; the Hill-Giants might go up to heaven, if passage on Bifröst were open to all those who would cross.`[11. Snorri Sturluson, Gylfaginning XV, Brodeur, 28.] This, the constant threat of invasion by the hostile giants (Jotun), represented a genuine fear for the Aesir.
+Describing the red band in the rainbow, the Prose Edda suggests that "that which thou seest to be red in the bow is burning fire; the Hill-Giants might go up to heaven, if passage on Bifröst were open to all those who would cross."(11. Snorri Sturluson, Gylfaginning XV, Brodeur, 28.) This, the constant threat of invasion by the hostile giants (Jotun), represented a genuine fear for the Aesir.
 
 ---
 
-In the mythic texts, the Aesir are thought to have constructed Asgard at some point in the mythic past. As Snorri suggests, `In the beginning [Odin] established rulers, and bade them ordain fates with him, and give counsel concerning the planning of the town; that was in the place which is called Ida-field, in the midst of the town. It was their first work to make that court in which their twelve seats stand, and another, the high-seat which Allfather himself has. That house is the best-made of any on earth, and the greatest; without and within, it is all like one piece of gold; men call it Gladsheim.` [16. Gylfaginning XIV, Brodeur 25.]
+In the mythic texts, the Aesir are thought to have constructed Asgard at some point in the mythic past. As Snorri suggests, "In the beginning [Odin] established rulers, and bade them ordain fates with him, and give counsel concerning the planning of the town; that was in the place which is called Ida-field, in the midst of the town. It was their first work to make that court in which their twelve seats stand, and another, the high-seat which Allfather himself has. That house is the best-made of any on earth, and the greatest; without and within, it is all like one piece of gold; men call it Gladsheim." (16. Gylfaginning XIV, Brodeur 25.)
 
 ---
 
@@ -1099,8 +1097,8 @@ Currently, it is known, that the Knights incorporated concept of spiral at some 
 
   As the spiral is always visible from any location, during the day when Skylark crash-landed and on replica moons within Clockwork skydomes, it can be concluded with certainty, that the moon is tidally locked, either through an artificial process or as a natural celestial body mechanics of Cradle. The presence of a spiral on its near side seems to be intentional, or may be a consequence of being located near Cradle, but as there are not many instances of natural spiral, - elemental wolvers, sporadically - this seems unlikely.
 
-- [Ash tail](https://wiki.spiralknights.com/Wolver#Ash_Tail) and [Frostifur](https://wiki.spiralknights.com/Wolver#Frostifur) subspecies of [wolvers](https://wiki.spiralknights.com/Wolver) have spiral pattens on their coats. A speculation for only those two wolver species possessing a spiral might be of an unnatural nature of them, a connection to [Underworld](#influences-of-underworld) and Fire Deity. But this proposal seem to fail, as we suggested an existence of a [Underworld cults](#fiendish-cults).
-- [Lumbers](https://wiki.spiralknights.com/Lumber) are constructed from a tree with spiral pattern on its bark. Same trees are potentially seen in the [Jigsaw Valley](https://wiki.spiralknights.com/Jigsaw_Valley). As discussed in the [lumbers section](#lumbers-as-constructs), they are likely gremlins' creation, implying some knowledge of seal magic, as seen in lumbers' elemental variants. This rare usage of shadow-related concepts, and also energy cell present in the [Darkfang Shield](https://wiki.spiralknights.com/Darkfang_Shield), will be covered accordingly.
+- Wolvers - [Ash tail](https://wiki.spiralknights.com/Wolver#Ash_Tail) and [Frostifur](https://wiki.spiralknights.com/Wolver#Frostifur) subspecies of [wolvers](https://wiki.spiralknights.com/Wolver) have spiral pattens on their coats. A speculation for only those two wolver species possessing a spiral might be of an unnatural nature of them, a connection to [Underworld](#influences-of-underworld) and Fire Deity. But this proposal seem to fail, as we suggested an existence of a [Underworld cults](#fiendish-cults).
+- Construct [Lumbers](https://wiki.spiralknights.com/Lumber) are constructed from a tree with spiral pattern on its bark. Same trees are potentially seen in the [Jigsaw Valley](https://wiki.spiralknights.com/Jigsaw_Valley). As discussed in the [lumbers section](#lumbers-as-constructs), they are likely gremlins' creation, implying some knowledge of seal magic, as seen in lumbers' elemental variants. This rare usage of shadow-related concepts, and also energy cell present in the [Darkfang Shield](https://wiki.spiralknights.com/Darkfang_Shield), will be covered accordingly.
 - Clockwork tunnels' floor tiles. The tunnels are build by gremlins, which would mean that gremlins are aware of this concept, as they keep presence of spiral consistent across depths.
 - Stone structures within the [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove).
 - Whitespace of the Core has imagery and structures resembling spirals:
@@ -1201,7 +1199,7 @@ Based on [Feron dialogue](https://wiki.spiralknights.com/Reporting_for_Duty#Dial
 
 Skylark has at least 2 types of engines, one powered by tearium and one recovered and placed into the Lab, whose power supply is barely enough to power the complex, and it is designed similar to arcade gate pillars with distinct presence of Energy aura patterns.
 
-We can identify the potential application of tearium through the analysis of the [intro cinematic](https://youtu.be/d5CrSNU-Wyg). Skylark, prior to reaching Cradle's star system was located in a tunnel. Based on the general understanding of Isorian advancements, we propose that it is a tangible, physical tunnel created by teh vessel for long-distance travel, rather than a storytelling tool. In this proposed context we consider tearium as a fuel derived of "to tear", such as to tear regular space.
+We can identify the potential application of tearium through the analysis of the [intro cinematic](https://youtu.be/d5CrSNU-Wyg). Skylark, prior to reaching Cradle's star system was located in a tunnel. Based on the general understanding of Isorian advancements, we propose that it is a tangible, physical tunnel created by the vessel for long-distance travel, rather than a storytelling tool. In this proposed context we consider tearium as a fuel derived of "to tear", such as to tear regular space.
 
 ##### Thematic Connections of Isorians and Cradle
 
@@ -2248,7 +2246,9 @@ Although this is not much context on dreams, it may allow us to better understan
 
 <h3 align="center">Chapter <code>VII</code>: Kingdom of Almire</h3>
 
-It is known that kingdom of Almire was invaded, the first time it is mentioned is in the [Forgotten Library](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep#Gate_Map) of specifically Owlite Keep: `... This world has seen few greater tragedies than the fall of the great Kingdom of Almire. Once a vibrant, beautiful realm of lush forests and sweeping plains ... neighboring kingdoms declared war ... seeking the power needed to turn the tide, Lord Vanaduke of Almire fled into the mountains...` ([The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)), as well as here we have recounts of this place by Spookats of Moorcroft Manor: `An unlikely source of intel has surfaced from the residents of Moorcroft Manor. A few of the spookats that call it home contacted one of our visiting Recon Knights and provided details of the negative energy mass that has appeared above the Core. Calling it 'a place of burning hatred' and 'a prison for dark souls' they say that you can read all about it in 'one of those weird Owlite books' in an Owlite keep they pinpointed` ([An Occurrence at Owlite Keep](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep)), and by Kora: `Recon Knights have said that all they see near it is fire, endless fire` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)).
+We begin from a time when kingdom of Almire was invaded by neighboring kingdoms.
+
+The first time a war is mentioned in the Owlite tome within the [Forgotten Library](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep#Gate_Map) of, specifically, Owlite Keep: `... This world has seen few greater tragedies than the fall of the great Kingdom of Almire. Once a vibrant, beautiful realm of lush forests and sweeping plains ... neighboring kingdoms declared war ... seeking the power needed to turn the tide, Lord Vanaduke of Almire fled into the mountains...` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)). At the same mission we have recounts of, seemingly, an aftermath of this war by Spookats of Moorcroft Manor: `An unlikely source of intel has surfaced from the residents of Moorcroft Manor. A few of the spookats that call it home contacted one of our visiting Recon Knights and provided details of the negative energy mass that has appeared above the Core. Calling it 'a place of burning hatred' and 'a prison for dark souls' they say that you can read all about it in 'one of those weird Owlite books' in an Owlite keep they pinpointed` ([An Occurrence at Owlite Keep](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep)), as well as retelling of Recon Rangers of this place, through Kora: `Recon Knights have said that all they see near it is fire, endless fire` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)).
 
 In-game content creates a vague description of the timeline, mostly outlining general themes and events, but we can find a more precise and detailed description of those events, one which connects the concept of fire deity, Lord Vanaduke, and `neighboring kingdoms` even closer.
 
@@ -2256,58 +2256,71 @@ The existence of 3 kingdoms, their ongoing conflict, and the aftermath are given
 
 #### Diegesis of "Almire's Fall"
 
-Almire's Fall lore entry [had originated on the official wiki](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263), rather than forums or items' descriptions, and the edit shows that the author of this story snippet is one of the core members developers' team. We consider it as a solid proof of this entry being canon to an overarching story.
+Almire's Fall lore entry [had originated on the official wiki](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263), rather than forums or items' descriptions, as discovered by Spiralka-chan on the Arcade Discord server. The [edit shows](https://wiki.spiralknights.com/index.php?title=Firestorm_Citadel&oldid=1263), that the author of this story snippet is one of the core members of developers' team. We consider it as a solid proof of this entry being canon to an overarching story, but with a few caveats regarding its in-game - diegetic - placement. Despite being seemingly a minor detail, we will explore it properly, as its implications of being present on the wiki open a new perspective onto capabilities and technological advancement of Spiral Order in the field.
 
-Before moving further, this entry being present on the wiki, had to fit into the narrative of the game, so, if we attempt to make it diegetic. Most of the text so far was written by Owlites, which seems as most plausible explanation, due to them known to possess most of deeper research on the kingdom, as well as having relative dates, given the purpose of Owlite Academy, wherein the Owlite Keep is located.
+As this entry is present on the wiki and very likely is canon, it had to fit into the narrative of the game. As it is present on the wiki, it marks wiki itself as diegetic to inner structure of Spiral Order.
 
-But, on the other hand, we could consider _wiki as diegetically present in-game entity_, as devices by Spiral Order, given player's perspective as an Isorian, and wiki's design as similar to diegetic design-wise interface of the game.
+Most of the text on Almire so far was written by Owlites, so Almire's Fall should also be attributed to them, as it seems as a plausible explanation, given Owlites' other researches.
 
-If we would attempt to fit this snippet into prior Owlite tome based on remaining text, they would not align, suggesting them being different texts. But both discuss the same topic, so existence of multiple texts within Owlite civilization in regards to the kingdom is possible. Due to those factors, th state of the Forgotten Library and Eternal Study across Owlite civilization, nuanced presence of the wiki, themed in the designs of Spiral Order, we would lean to Almire's Fall being written by Spiral Order, specifically by researchers of Haven Lab, given present there researches and artifacts of past civilizations including Almire: `there were massive citadels housing Almire's armed forces and great estates for its noble houses ... We assume the kingdom is still a smoldering ruin somewhere`. In this interpretation we would consider Owlite texts being the foundation for Spiral Order research, up to a point of, rather unlikely, this text being found sometime earlier across Owlite libraries and then digitalized.
+But, on the other hand, as wiki has the same design as game's HUD, or at least is meant to be associated with the base game, its design can be attributed to it being devised by the Spiral Order. As player's perspective, as an Isorian, makes him one of the knights, access to the wiki can be considered diegetic, that it is access both from player's end, and by knight, based on the prior concept of knight's HUD following those ideas.
+
+If we would attempt to fit this snippet into prior Owlite tome based on remaining text, they would not align, suggesting them being different texts. But both texts discuss the same topic, so existence of multiple texts within Owlite civilization in regards to the kingdom is possible. Due to those factors, and the positions of Forgotten Library and Eternal Study across Owlite civilization, as researched by Spiral Order, makes source of this text being taken from Owlites.
+
+Then, we lean to Almire's Fall being not originally written by Spiral Order, specifically by researchers of Haven Lab, given present researches and artifacts of past civilizations including Almire, gathered by knights: `there were massive citadels housing Almire's armed forces and great estates for its noble houses ... We assume the kingdom is still a smoldering ruin somewhere`, but being an accumulation of both Spiral Order and Owlite research.
+
+In this interpretation we would consider Owlite texts being the foundation for Spiral Order research, up to a point of, rather unlikely, this text being found sometime earlier across Owlite libraries and then digitalized onto the wiki.
+
+#### Foundation for Three Kingdoms
+
+Now, with Almire's Fall taken into consideration, we can start to parse through it.
+
+As there are 2 kingdoms specified to exist, likely near or bordering kingdom of Almire in order to invade it. We have to also consider the fact that Lord Vanaduke did return from the mountains with an army: `Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), suggesting whatever this army is, they traversed a land.
+
+We propose those 2 kingdoms are northern Raiders, first introduced [in the context of Isorians general](#spiral-raiders), and the kingdom of Ironmight, one never explicitly mentioned.
+
+This proposal stems from the idea of all 3 kingdoms being descendants of Isorians in physiology - we have discussed plausibility of this concept in the [analysis of Ghost in the Machine](#ghosts-in-the-machine). The general idea behind this logic is based on the context and designs of [Iron Hulk](#ghosts-in-the-machine), - _as an Isorian or Morai vessel_. And, as it is hundred years old, while greater Isorian spacefaring civilization is far older, _why there were not to be a second case of an even more ancient space vessel crash landing on this planet, preceding Cradle_, which would give start to the events of this chapter?
+
+If Cradle or a planet preceding it was already found prior, time span of several hundred of years does not seem to us a restriction. Then, considering that [Isorians were eons old even before establishment of known Spiral Order](#spacefarers-of-old), while being an interstellar species, that seems to us at least as probable in the context of a link to Cradle. Due to those ideas, we will commit to it, developing and testing it further.
 
 #### Ironmight Kingdom
 
-As there are 2 kingdoms specified to exist likely near, bordering kingdom of Almire, in order to invade it, we propose that those are northern Raiders, discussed [for the first time in the context of Isorians](#spiral-raiders), and the being kingdom of Ironmight. We will analyze location of those kingdoms for potential geography after the initial analysis of both Ironmight domain and raiders as we will define their placement on the timeline.
-
-As those concepts will mainly stem from the idea of all 3 kingdoms being Isorians in physiology, we have discussed plausibility of this concept in the [analysis of Ghost in the Machine](#ghosts-in-the-machine). That is, if [Iron Hulk](#ghosts-in-the-machine) is Isorian or Morai, and it is hundred years old, why there were not to be a second case of an even more ancient space vessel?
-
-If Cradle or a planet preceding it was already found prior, time span of several hundred of years does not seem to us a logic restriction, as a period of hundred years for Iron hulk is not a defined limit. Then, considering that [Isorians were eons old even before establishment of known Spiral Order](#spacefarers-of-old) while being an interstellar species, that seems to us at least as probable in the context of a link to Cradle.
-
-The concept of a particular entity of Ironmight in the context of kingdom of Almire was also proposed separately from our own research by user Magnicth on [Spiral Knight subreddit](https://www.reddit.com/r/spiral_knights/comments/zakpe/the_ironmight_theory/).
+The concept of an entity of related to Ironmight in the context of kingdom of Almire was also proposed separately from our own research by user Magnicth on [Spiral Knight subreddit](https://www.reddit.com/r/spiral_knights/comments/zakpe/the_ironmight_theory/).
 
 The name Ironmight, if we refer to it properly, as a potential Kingdom of Ironmight, makes us think of other similar instances or naming conventions of empires and kingdoms:
 
 - Kingdom of the Netherlands, meaning a lower land, lower elevation, a property of geographical location.
 - United Kingdom, one that consists of multiple entities united by a monarch.
 - Holy Roman Empire combines an adjective, - Holy, - with a city of Rome.
-- The British Empire refers to the empire ruled by Britain.
 
-As for Ironmight, judging by its name, it has similar morphology. It is derived from a descriptive _term of might and is combined with iron, iron and might_, - __the might of iron__, - we suggest that it is a kingdom, one similar to Almire, with part of its identity being rooted in its military power, or as we will see, economic might. We will attempt to exclude a possibility of it being an empire - as an Ironmight Empire, - as we will attempt to fit it with the lore entry of Almire' Fall.
+As for Ironmight, judging by its name, it has similar morphology. It is derived from a descriptive term of might and is combined with iron, iron and might, - _the might of iron_, - we suggest that it is a kingdom, one similar to Almire, with part of its identity being rooted in its military power, or as we will see, economic might. We will attempt to exclude a possibility of it being an empire - as an Ironmight Empire, - as we will attempt to fit it with the lore entry of Almire' Fall.
 
-At that, Almire itself translates from a name in Urdu as "aristocratic", which might serve as a hint at more existing connection through the name's origin to south-east cultures and countries. Specifically, the translation is "aristocratic lady", - could it be linked to the Spirit Mother? Maybe as a literal kingdom of Spirit Mother, since spirit mother is directly mentioned in relation to the burning kingdom, as it would be her domain? A subtle, physical reconstruction of a concept of the Kingdom of God?
-
-The basis for the ironmight, as a name itself, we extract from the [Ironmight set](https://wiki.spiralknights.com/Ironmight_Plate_Mail).
+The basis for the Ironmight, as the name itself, we extract from the [Ironmight set](https://wiki.spiralknights.com/Ironmight_Plate_Mail). Through those items we can start to notice relations between the kingdoms before their conflict, which resulted in annihilation of the kingdoms.
 
 ##### Ironmight Shield, Crowns, and Coins
 
-The glowing emblem on the [Ironmight Plate Shield](https://wiki.spiralknights.com/Ironmight_Plate_Shield) - `A superior shield forged from sun silver. The meaning of the crest on its face has been lost to time`, - is the same emblem of a crown, engraved on the coins found across Clockworks, persisting on Cradle to this day. The dimensions of the currency are the same, but also there are matching stars symbols in cardinal direction present on the outer ring of the emblem and of the [coins](https://wiki.spiralknights.com/Crowns#Finding_Crowns) af all nominal values.
+The glowing emblem on the [Ironmight Plate Shield](https://wiki.spiralknights.com/Ironmight_Plate_Shield) - `A superior shield forged from sun silver. The meaning of the crest on its face has been lost to time`, - is the same emblem of a crown, engraved on the coins found across Clockworks, persisting on Cradle to this day.
 
-This particular coincidence does seem intentional, due to application of that symbol on the shield specifically. The other similar shield with a mysterious glowing emblem - [Volcanic Plate Shield](https://wiki.spiralknights.com/Volcanic_Plate_Shield) also implies an intentional design choice, but will be covered later.
+The dimensions of the currency and shield's emblem are identical. There are matching star symbols in cardinal direction on the outer ring of the emblem and of the [coins](https://wiki.spiralknights.com/Crowns#Finding_Crowns) of all nominal values.
 
-Could presence of stars mean symbolic location of the crown - the monarch of a kingdom, - in the center of the Universe, as one surrounded or protected by stars? Or ruling over stars in all cardinal directions, as if the kingdom is in divine security of stars, or at their center? We refer to this motif here, as often a monarch would've been considered a divine ruler, through the application of the concept called the Divine Right of Kings.
+This particular coincidence does seem intentional, due to application of that symbol on the shield specifically. The other similar shield with a mysterious glowing emblem, the [Volcanic Plate Shield](https://wiki.spiralknights.com/Volcanic_Plate_Shield), also seems intentional design choice, but will be covered separately.
 
-One thing is particular may point both in that direction is the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore). It is described as: `An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty` ([Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore)). From the celestial ore one element of kingship or monarchy is made - the [Ice Queen Crown](https://wiki.spiralknights.com/Ice_Queen_Crown), as it uses Celestial Ore in its alchemy.
+Could presence of stars mean symbolic location of the crown - the monarch of a kingdom, - in the center of the Universe or night sky, as one surrounded or protected by stars? Or ruling over stars in all cardinal directions means the kingdom is in divine security of stars, or at their center as divine? We refer to this motif here, as often a monarch would've been considered a divine ruler, through the application of the concept of the _Divine Right of Kings_.
+
+One thing is particular may point in that direction is the description of the [Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore): `An extremely rare metal of great power said to be from the heavens above. It is often completely wasted on crowns and jewelry for slime royalty` ([Celestial Ore](https://wiki.spiralknights.com/Celestial_Ore)). From the celestial ore one other element of kingship or monarchy is made - [Ice Queen Crown](https://wiki.spiralknights.com/Ice_Queen_Crown), as it uses Celestial Ore in its alchemy.
 
 It is common across history for crowns be made of rare, precious metals, but also that same notion can be attributed coins, - in case of Spiral Knight, crowns, which are also metallic as seen from their designs.
 
-In this sense, kingdom's currency had persisted on Cradle far past the kingdom itself. As well as, supposedly, slime royalty, - emerging on Cradle from a meteor. They utilize those principles, but not of coin manufacturing, but vanity items, such the aforementioned crown, as far as we can guess based on current information.
+In this interpretation, kingdom's currency had persisted on Cradle far past the kingdom itself, while being adopted by slime royalty and other civilizations later into the timeline.
 
 There is also presence of [sun silver](https://wiki.spiralknights.com/Sun_silver#Usage), which was present in Isorian equipment - such as [Azure Guardian armor and weapons](https://wiki.spiralknights.com/Azure_Guardian_Armor) and [Valkyrian armor](https://wiki.spiralknights.com/Valkyrie_Mail), including the [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger), which was discussed in relation to the [Heavenly Guardian Armor](https://wiki.spiralknights.com/Heavenly_Guardian_Armor) in [similarity of Isorians to valkyries](#similarity-to-heavenly-kingdom).
 
-This does not mean that Jelly civilization is involved into the Almirian conflict, but rather serves as a modern example of common practices within their kingdom. We should keep in mind how sun silver is already present across the Universe and other civilizations, now with the addition of celestial ore, and as both contain heavenly themes. Their might be a greater link to a heavenly kingdom referred by Valkyries, as not a strictly physical place, given [origins of castles](#castles), but bordering a different, potentially considered divine, realm, - an idea in concept resembling the myths regarding Asgard of norse mythology, introduced in the [analysis of fiendish statues across castles](#fiendish-statues).
+This does not mean that Jelly civilization is involved into the Almirian conflict, but rather serves as a modern example of common practices within their kingdom. We should note how sun silver is already present across the Universe and other civilizations, now with the addition of celestial ore, and as both contain heavenly themes.
+
+There might be a greater link to a heavenly kingdom, originally referred by Valkyries, as not a strictly physical place, given [origins of castles](#castles), but bordering a different, potentially considered divine, realm, - an idea in concept resembling the myths regarding Asgard of norse mythology, introduced in the [analysis of fiendish statues across castles](#fiendish-statues).
 
 ##### Strategic Use of Ironwood
 
-The [Ironmight Plate Mail](https://wiki.spiralknights.com/Ironmight_Plate_Mail) - `Superior plate mail forged from an alloy of several rare metals. its restrictive, but incredibly strong`, - describes rare metals, what are those rare metals? From the currently present materials, metals specifically, in an established cosmology we have a few:
+The [Ironmight Plate Mail](https://wiki.spiralknights.com/Ironmight_Plate_Mail) - `Superior plate mail forged from an alloy of several rare metals. its restrictive, but incredibly strong`, - describes rare metals. From the currently present materials, metals specifically, in an established cosmology we have a few:
 
 - `An extraordinary metal imbued with the radiant light of the sky` ([Sun Silver](https://wiki.spiralknights.com/Sun_Silver)). It has a relation to heavens and the sun.
 - `A rare metal recovered from a shattered mountain deep within the realm of the Apocrea` ([Perplexing Element](https://wiki.spiralknights.com/Perplexing_Element)). This metal does not seem to be related to the current case of Almire nor other kingdoms.
@@ -2340,7 +2353,7 @@ On the other hand, the suggested design is universal across plated armors - such
 
 ##### Volcanic Elements
 
-The [Volcanic Plate set](https://wiki.spiralknights.com/Volcanic_Plate_Mail) has elemental defenses, but [Ironmight set](https://wiki.spiralknights.com/Ironmight_Plate_Mail) has piercing defenses - a motif similar to Spiral Order.
+The [Volcanic Plate set](https://wiki.spiralknights.com/Volcanic_Plate_Mail) has elemental defenses, but [Ironmight set](https://wiki.spiralknights.com/Ironmight_Plate_Mail) has piercing defenses, which is reminiscent of Spiral Order cobalt armor alchemy tree.
 
 This scenario was already covered in relation to Spiral Order main line of armors, apart from [padded armor alchemy tree](#padded-armor), and here we may observe a similar scenario - likely, a lack of knowledge of other damage types due to, possibly, lack of encounters with such entities.
 
@@ -2369,17 +2382,23 @@ It can be confirmed that those are tree branches rather that black ironwork, bas
 
 Despite being gear of Spiral Order, we lean for it here as an affirmation of the presented nature-themes Almirian design. The nature-themed designs are seen across [all restored furniture](https://wiki.spiralknights.com/Almire_Furniture_Box), reminiscent of water fountains of the Spirit Mother and [Nature Sprites](https://wiki.spiralknights.com/Nature_Sprite), suggesting a deeper and longer relation.
 
+At that, Almire itself translates from a name in Urdu as "aristocratic", which might serve as a hint at more existing connection through the name's origin to south-east cultures and countries. Specifically, the translation also is suggested to be an "aristocratic lady". Could it be linked to the Spirit Mother? Maybe as a literal kingdom of Spirit Mother, since spirit mother is directly mentioned in relation to the burning kingdom, as it would be her domain? A subtle reconstruction of a concept of the Kingdom of God?
+
 Those [Nature Sprites](https://wiki.spiralknights.com/Nature_Sprite) have colored fur coat and furry striped ears not very similar to [tier 3 dust bunnies](https://wiki.spiralknights.com/Dust_bunny), in contrast to devoid of fur devilites. The fact that they are capable of being cursed, which restricts there power, they seem to be not related to the Underworld.
 
 The union of Almire and Spirit Mother might be the reason why they would try to right Lord Vanaduke's wrongs (`I've heard that some kind of force of nature had once tried to right his wrongs but Lord Vanaduke imprisoned it somewhere within his fortress. Finding and freeing it may prove useful` - [Nameless Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless))).
 
 Moreover, this connection of the kingdom with Spirit Mother can be affirmed through the announcement of [Almire Furniture Box](https://wiki.spiralknights.com/Almire_Furniture_Box): `Does your guild better commune with the Spirit Mother in her faraway realm?` ([Decorate your Guild Hall with the splendors of Almire!](https://forums.spiralknights.com/en/node/102786)).
 
-Then there is the _power of the water_ from Spirit Mother's Realm: `a force of nature summoned to this realm to extinguish the unnatural fire that is consuming it. ... Now none may proceed beyond the court as columns of shadow fire block all exits. Shadow fire can only be extinguished with the water that flows from these spirit wells. The water is the purest found in all of nature, flowing directly from the springs within the realm of the Spirit Mother herself` ([Firestorm Citadel - Nature Sprite](https://wiki.spiralknights.com/Nature_Sprite)). This water is placed in opposition to the shadow fires, whose nature we will discuss [later](#nature-of-darkfire).
+Then there is power of water from Spirit Mother's Realm: `a force of nature summoned to this realm to extinguish the unnatural fire that is consuming it. ... Now none may proceed beyond the court as columns of shadow fire block all exits. Shadow fire can only be extinguished with the water that flows from these spirit wells. The water is the purest found in all of nature, flowing directly from the springs within the realm of the Spirit Mother herself` ([Firestorm Citadel - Nature Sprite](https://wiki.spiralknights.com/Nature_Sprite)). This water is placed in opposition to the shadow fires, whose nature we will discuss [later](#nature-of-darkfire).
 
-This spirit realm was not encountered or mentioned in any other place across Clockworks. But, there is one single instance of a place referred to as realm, and also referred only single time - [the Nameless Realm](#nameless-realm), introduced in the Chaos Cloak: `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_cloak)). Although a htpothesis at that point, __the fact that Nature Sprite does not name Spirit Mother's realm by a distinguished name__ may be a potential reason to be the latter being named as such, - nameless. One thing that is shared across both, as we will [later discuss](#chapter-viii-kat-tribe), is _the innate aspect of divinity of both_.
+This spirit realm was not encountered or mentioned in any other place across Clockworks. But, there is one single instance of a place referred to as realm, and also referred only single time - [the Nameless Realm](#nameless-realm), introduced in the Chaos Cloak: `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_cloak)). Although a hypothesis at that point, __the fact that Nature Sprite does not name Spirit Mother's realm by a distinguished name__ may be a potential reason to be the latter being named as such, - nameless. One thing that is shared across both, as we will [later discuss](#chapter-viii-kat-tribe), is _the innate aspect of divinity of both_.
 
-It is important to note, that Chaos Cloak is an Owlite armor, and considering further analysis of Owlite and their advancements in elemental magic, might prove that this realm is indeed one and the same, despite their framed differences, discussed in the [introduction of the Void](#the-void).
+It is important to note now, that Chaos Cloak is an Owlite armor, and considering further analysis of Owlite and their advancements in elemental magic, they regard the mantle as forbidden likely due to its connection to the Nameless Realm.
+
+_This does seem contradictory, if both were meant to represent divinity_, - and its true, but we are missing on the alchemical aspect of [Nameless Realm](#nameless-realm), forming its characteristic duality.
+
+Apart from it, we have not yet discussed in detail aforementioned divinity of Nameless Realm. Both this and the possibility of a connection to Spirit Mother will be addressed in the analysis of [Kat Tribe](#chapter-viii-kat-tribe).
 
 #### Raiders and Pagan Vikings
 
@@ -2397,7 +2416,15 @@ One notion we have to also mention here, apart from a concept of raiders not hav
 
 Here we might think of raider's equipment being designed with Spiral Order or an order of old insignia, but, we only saw the case of utilitarian, functional aspects of equipment being adapted by Spiral Order and not its cultural background, and no placement for Spiral Order symbolism.
 
-We will proceed further with an idea of Isorian Raiders being the second kingdom, apart from Ironmight Kingdom, which had invaded Kingdom of Almire. But before this we have to argue that there is heavenly kingdom of Valkyries, seemingly located above 3 mountains, one of which was `magma-covered` (`A helm worm by heavenly guardians who watch over a kingdom hidden atop a magma-covered mountain` - [Raging Avenger Helm](https://wiki.spiralknights.com/Raging_Avenger_Helm)). While they seem as a preferable candidate for the second kingdom, they are in the sky, - and the Kingdom of Almire is on earth. This distinction is too large to consider heavenly kingdom as such, and that is without considering them being framed as a literal heavenly, divine kingdom, standing in opposition to Underworld. On the other hand, heavenly kingdom being the second kingdom would characterize them as more nuanced, making a greater emphasis on grey morality, but we have so far very small amount of material to suggest it. At that, undead zombies are found across castles of heavenly kingdom, in a similar manner to howlitzers, which we [have attempted to explain](#howlitzers-dragons-and-drakes). But, as we will discuss further, we believe this element of undeath will be proven relevant in a _period of time, happening after Lord Vanaduke's return and defeat of the 2 invading kingdoms_.
+Before we proceed further with an idea of Isorian Raiders being the second kingdom, apart from Ironmight Kingdom, which had invaded Kingdom of Almire, we have to argue that there is heavenly kingdom of Valkyries, seemingly located above 3 mountains, one of which was `magma-covered` (`A helm worm by heavenly guardians who watch over a kingdom hidden atop a magma-covered mountain` - [Raging Avenger Helm](https://wiki.spiralknights.com/Raging_Avenger_Helm)).
+
+While they seem as a preferable candidate for the second kingdom, as they are named as such and seem old enough for this time period, _they are in the sky_, - and the Kingdom of Almire is on earth, with Lord Vanaduke's army on earth.
+
+This distinction is too large to consider heavenly kingdom as an actor, and that is without considering them being framed as a literal heavenly, divine kingdom, standing in opposition to Underworld. Considering this, [we do have a later connection of them and Almire](#almirian-empire).
+
+On the other hand, heavenly kingdom being the second kingdom would characterize them as more nuanced, making a greater emphasis on grey morality, but we have so far very small amount of material to suggest it, as well as this approach would be too thematically odd.
+
+At that, undead zombies are found across castles of heavenly kingdom, in a similar manner to howlitzers, which we [have attempted to explain](#howlitzers-dragons-and-drakes). But, as we will discuss further, we believe this element of undeath will be proven relevant in a _period of time, happening after Lord Vanaduke's return and him defeating armies of the 2 invading kingdoms_.
 
 As raiders were already covered in the [Spiral Raiders section](#spiral-raiders), [Spacefarers of Old](#spacefarers-of-old), and the [connection of Isorians and Cradle](#isora-and-cradle), within current context we suggest, that raiders, people of Almire and Ironmight kingdoms were descendants of Isorians which had a connection with Cradle or its planets.
 
@@ -2455,17 +2482,17 @@ So far we have proposed a scenario of Isorians being stranded on a planet, which
 
 ##### Location of Firestorm Citadel
 
-Under this notion of relying on norse and irish mythology, we could can attempt to establish the location of the Firestorm Citadel - based on the proximity to the potentially volcanic mountains, while looking at presence of several kingdom and Vikings being involved into the conflict.
+Under this notion of relying on norse and irish mythology, we can attempt to establish the location of the Firestorm Citadel based on the proximity to the potentially volcanic mountains, while looking at presence of several kingdoms and Vikings being involved into the conflict.
 
-Among few medieval Irish castles, we consider Firestorm Citadel being a stand-in for Rock of Cashel, located in the city of Cashel in Kingdom of Munster near the Galtee Mountains. Kingdom was invaded by Uí Imair's army of pagan Vikings. Near it a certain mountain is located - Devil's Bit.
+Among few medieval Irish castles, we consider Firestorm Citadel being potentially inspired by the Rock of Cashel, located in the city of Cashel in Kingdom of Munster near the Galtee Mountains. Kingdom was invaded by Uí Imair's army of pagan Vikings. Near it a certain mountain is located - Devil's Bit.
 
-According to the legend, the devil broke his teeth and spat the Rock of Cashel from his mouth to where it stands.
+According to the legend, the devil broke his teeth and spat the Rock of Cashel from his mouth to where it stands. The concept of a deity or a beast giving its fang or tooth, then for it being used is common, even of making it into a weapon, this concept is found across many myths.
 
-The concept of a deity or a beast giving its fang or tooth, making it into a weapon is found across many myths. Here we think of dragons' teeth in the context of western european legends, where teeth would hold symbolic meaning as well as being powerful artifacts.
+Here we think of dragons' teeth in the context of western european legends, where teeth would hold symbolic meaning as well as being powerful artifacts.
 
 While this proposal does not completely suffice the setting of Almire, as the themes, found in relation to Devil's Bit does not seem to parallel ours, the general motif of broken teeth and devil is also found here as the [Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), `a sword said to be created from the fang of the fire beast, Vog`.
 
-As it is alchemized from Almirian Seals, it might suggest its involvement with Lord Vanaduke, albeit the same Ancient Armor does not belong to this period of time despite being acquired for Almirian Seals, as we have discussed earlier.
+As it is alchemized from Almirian Seals, it might suggest its involvement with Lord Vanaduke, albeit the same Ancient Armor does not belong to this period of time despite being acquired for Almirian Seals, as we have discussed earlier. Yet, thw sword contains Vog's supposed idea of him both granting power through fire as well as that same fire being detrimental or shadowy even.
 
 Due to this we suggest __Vog being framed as a symbolic dragon perceived by the kingdom of Almire__ though accompanying it motifs. We will see further, that presence of Vog in this period of time might be [deeper](#blackened-shrine-and-magma-deity) than the mountain shrine alone Lord Vanaduke will find.
 
@@ -2540,6 +2567,8 @@ Aforementioned relation to fire deity and ashen remains of the Legion of Almire 
 Apart from Vulcan, a potential inspiration for the setting could be Japanese Fujisan Sengen Shrine located in the foothills of Mount Fuji.
 
 Not only it is located in the volcanic mountain, enshrining Kamuatatsu-hime - goddess of water keeping volcano from erupting, and is associated with water springs. Both volcanic and water themes are present in Almire, as well as fit into a potential geography of Almire, being located in the foothills with water springs from the mountain, given how Lord Vanaduke had resorted to this myth in the mountains.
+
+This concept of a deity or a guardian is similar to Isorian myth of an Oni in the mountains: `Designed to frighten their enemies, this helm is in the visage of a fiend who lives in the mountains of a distant land. Said to guard the gate to heaven itself, it only allows those who are worthy to pass` ([Oni Helm](https://wiki.spiralknights.com/Oni_Helm)). This seems to us a very strong parallel to the perceived through retellings legend, due to which Lord Vanaduke departed into the mountains in the first place: `Going mad from the pressure, he fled from the citadel and vanished into the mountains, vowing that he would one day reclaim his throne. Leaving behind his family, his people, and his homeland, Vanaduke journeyed into the mountains to the east, driven by superstitious tales of ancient gods within their dark depths. He tirelessly searched the mountains for many years, no longer the man he was before, but a mad hermit` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
 
 It seems plausible to us, that Almire, while it held power over land, and as it developed, __it unearthed the volcanic iron and flame souls deep in the mountains__. And, by being a medieval kingdom, one potentially aware of other realms, at least of Spirit Mother's realm, it is _plausible for it eventually to discover Underworld in the generally similar manner as Tortomega once did_.
 
@@ -2682,18 +2711,31 @@ In continuation of the theme of silence, the [Silent Nightblade](https://wiki.sp
 <BookCitation source="John Donne - No Man Is an Island">
 
 No man is an island,
+
 Entire of itself.
+
 Each is a piece of the continent,
+
 A part of the main.
+
 If a clod be washed away by the sea,
+
 Europe is the less.
+
 As well as if a promontory were.
+
 As well as if a manor of thine own
+
 Or of thine friend's were.
+
 Each man's death diminishes me,
+
 For I am involved in mankind.
+
 Therefore, send not to know
+
 For whom the bell tolls,
+
 It tolls for thee.
 
 </BookCitation>
@@ -2708,7 +2750,7 @@ And for the case of spirits remaining in the material realm, one item presents i
 
 Those two items make us conclude on the scenario of __Arkus being indeed haunted__ by lingering souls or their afterimages, of his squad. This concept of lingering will be further explored [in relation to Lord Vanaduke](#vanadukes-mask-and-immortality-span-classthrough-cursethrough-cursespan).
 
-##### Wardens and Trojans Similarity
+##### Spiral Wardens and Trojans Similarity: Part 1
 
 Apart from those effects of dark matter, we need to establish a more defined nature of Arkus's physical state and relation to trojans through the analysis of other, more prominent, physical effect of dark matter.
 
@@ -2866,6 +2908,8 @@ But, exactly here lies the basis of our proposal. Lord Vanaduke, and Darkfire Va
 
 If we attempt to apply logic behind Almirians' transformation, then crystal of dark matter becomes the manifestation of the curse. In case of Lord Vanaduke that manifestation of the curse was his claws and the mask. The mask seem to have a mind of its own, as it operates throughout the fight by itself. It has a small red gem in the forehead, but this is a different topic. This mask's eye pattern can be seen all across the Citadel, oven columns of the buildings.
 
+#### Spiral Wardens and Trojans Similarity: Part 2
+
 One another concept we found interesting, is the thematic element of petrification in the context of eldritch mythos, specifically, their predecessor, "The King in Yellow", mentioned in relation to Apocrea. In "The King in Yellow", the short story of "The Mask" had the element of petrification, wherein any object submerged into a mixture would turn too marble with a pink inner glow, and after a while returning back to its natural state:
 
 <BookCitation source="Robert Chambers - The King in Yellow, The Mask">
@@ -2897,9 +2941,9 @@ Since we are referring here to Guardian's Oath, and we do not know its contents,
 
     It may be connected to [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher): `A powerful cold iron blade forged for the singular purpose of hunting down and destroying the undead`, and it is connected, similar to the [Leviathan Blade](https://wiki.spiralknights.com/Leviathan_Blade). It is very likely that those who did wear this armor were in a similar position to Wardens, but, the armor itself strongly related to valkyries and their actions onto Underworld. So, we have a large gap, which might lead to the history of the Legion of Ur, __given that both have an extremely fantasy-themed equipment__.
 
-Would then Wardens be at the precipice of becoming immortal though those means, and being lied to, becoming the enemies of once they promised to protect? Then whom, under those extreme conditions, they would sworn to protect, while allowing them to the transformed becoming fiends?
+Would then Wardens be at the precipice of potentially becoming immortal or invulnerable though those means, and being lied to, becoming the enemies of once they promised to protect? Then whom, under those extreme conditions, they would sworn to protect, while allowing them to the transformed becoming fiends? _If trojans' minds are poisoned, considering their alliance with devilites as a Legion of Ur, does it mean that it is the rest of the material realm who they are made to hold disdain of_?
 
-Could this narrative tie with the Sleeper, even: `THIS WORLD WAS CREATED TO PROTECT ME. VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS.` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)), in the same manner, as Valkyries were also possessing a role as guardians?
+Could this narrative tie with the Sleeper, even: `THIS WORLD WAS CREATED TO PROTECT ME. VULNERABLE IN SLUMBER, WORLDS WERE DRAWN TO SHIELD ME FROM THE DARKNESS.` ([Echo Stone: Ironclaw Munitions Factory](https://wiki.spiralknights.com/Echo_Stone:_Ironclaw_Munitions_Factory)), in the same manner, as Valkyries were also possessing a role as guardians? This would align with the concept of Undercorp and rest of soul-harvesting civilizations to compromise the defenses of the realm from which this energy in form of souls comes from. In this iteration, our proposed narrative of Wardens being those guardians and then being twisted by Underworld seems be fitting.
 
 For this, we will need to look into a different period of time, preceding Almire and a war of those 3 kingdoms, leading up to theorized ancient arrival of Isorians to this planet before Cradle.
 
