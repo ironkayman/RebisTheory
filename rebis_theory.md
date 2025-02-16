@@ -53,7 +53,7 @@ While this thought framework partially relies on myths and folklore of different
 
 Through the course of this document we will propose why Spiral Knights, or rather _Cradle itself, is a metaphor on the alchemical Great Work_.
 
-- [Chapter 1](#chapter-i-kozmology) establishes _basic outline of the Spiral Knights' fictional Universe_, its cosmology, creation myth, and first alchemical narratives.
+- [Chapter 1](#chapter-i-cosmology) establishes _basic outline of the Spiral Knights' fictional Universe_, its cosmology, creation myth, and first alchemical narratives.
 - Chapters 2-9 introduce main parties of the narrative while building upon the body of the theory through the discussion of themes found along those narratives:
   - [Chapter 2](#chapter-ii-establishment-of-undercorp) introduces _major actors within Underworld_.
   - [Chapter 3](#chapter-iii-ancient-titans) covers _creators of tortodrones_ found in [March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones).
@@ -71,7 +71,7 @@ Through the course of this document we will propose why Spiral Knights, or rathe
   <span class="energy">🜔</span>
 </center>
 
-<h3 align="center">Chapter <code>I</code>: Kozmology</h3>
+<h3 align="center">Chapter <code>I</code>: Cosmology</h3>
 
 At first, we will establish rough outline of the cosmology based on rank missions' briefings, dialogue, item, and equipment descriptions. We are not currently concerned with exact in-universe laws, under which each location operates, but with their themes.
 
@@ -2672,7 +2672,7 @@ The distinction here, we believe, stems from the fact that Legion of Ur is activ
 
 And yet, once their break free of stone, they behave essentially as any other member of Legion of Ur.
 
-We don't know their motivation at that point, but few potential hints may be found - some _statues in the Cryptic Statuary on being hit become trojans, while trojans, once defeted, turn to stone_ - this ties in in yet unexplored nature of trojans.
+We don't know their motivation at that point, but few potential hints may be found - some _statues in the Cryptic Statuary on being hit become trojans, while trojans, once defeated, turn to stone_ - this ties in in yet unexplored nature of trojans.
 
 First and second depths are "Poisoned Minds" and "Cold Hearts".
 
