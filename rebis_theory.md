@@ -2678,7 +2678,7 @@ First and second depths are "Poisoned Minds" and "Cold Hearts".
 
 This seems to us as most prominent symbolism in regards to the Silent Legion. If we to interpret those two by reference to multiple minds and hearts, with a high certainty we can attribute it to the Silent Legion.
 
-Cold hearts are generally accepted as as [unfeeling or uncaring, "cold-hearted"](https://www.theidioms.com/cold-hearted/). Trojans are turned to stone at that point, so it could be a metaphor for stone, as both stone cold, and relelntless in their goals.
+Cold hearts are generally accepted as as [unfeeling or uncaring, "cold-hearted"](https://www.theidioms.com/cold-hearted/). Trojans are turned to stone at that point, so it could be a metaphor for stone, as both stone cold, and relentless in their goals.
 
 _The poisoned minds are more nuanced_, it is not a singular mind, which in that case would mean Arkus, but it refers to the _entire legion_, and maybe, the way it affects Arkus, too, - by poisoning his mind as rest of trojans. In case of legionnaires - who is the perpetrator of this plot, if we to read it literally?
 
@@ -2753,7 +2753,7 @@ If the above scenario is true, - of Arkus being haunted, - then this presents a 
 
 And for the case of spirits remaining in the material realm, one item presents itself with the direct mention of haunting - the 5-star [Dread Skelly Shield](https://wiki.spiralknights.com/Dread_Skelly_Shield): `It occasionally issues a quiet, forlorn whisper, usually about remembering to block` and its earlier version, 4-star [Sinister Skelly Shield](https://wiki.spiralknights.com/Sinister_Skelly_Shield): `A kite shield haunted by a benevolent ghost`.
 
-Those two items make us conclude on the scenario of __Arkus being indeed haunted__ by lingering souls or their afterimages, of his squad. This concept of lingering will be further explored [in relation to Lord Vanaduke](#vanadukes-mask-and-immortality-span-classthrough-cursethrough-cursespan).
+Those two items make us conclude on the scenario of __Arkus being haunted__ by lingering souls or their afterimages, of his squad. This concept of lingering will be further explored [in relation to Lord Vanaduke](#vanadukes-mask-and-immortality-span-classthrough-cursethrough-cursespan).
 
 ##### Spiral Wardens and Trojans Similarity: Part 1
 
@@ -2873,7 +2873,7 @@ As for the [Void Souls](https://wiki.spiralknights.com/Fire_Soul#Void_Soul) - we
 
 Finally, Freed Souls were bound by the traps of Apocrea, which manifest in the properties of Grasping Plateau and metaphysics of harvester capable of manipulating, harvesting those souls, as well as draining them from one carrying them.
 
-It is also there it is seen that Apocrean Harvester is capable of extracting souls from captured knights through the application of the purple beam of light, similar to ones found across depths' near Apocrean Relam within the shroud.
+It is also there it is seen that Apocrean Harvester is capable of extracting souls from captured knights through the application of the purple beam of light, similar to ones found across depths' near Apocrean Realm within the shroud.
 
 This process of extraction also damages the knight, - we see this as a direct link between the concepts of [Auras and Souls](#auras-and-souls) and currently established metaphysics of Energy and Souls.
 
@@ -3204,7 +3204,7 @@ This makes it seem that forgotten time is referring to Isorians mainly due to oc
 
 Two questions emerge then in regards to this interpretation and an emerging timeline:
 
-- If spirits are known to return to material real, how undead managed to exist on Isora, unless it has similar metaphysic properties to Cradle?
+- If spirits are known to return to material realm, how undead managed to exist on Isora, unless it has similar metaphysic properties to Cradle?
 
   If it is on Isora, [as we had discussed](#cradle-metaphysics) a potential case of Core only allowing for spirits to return in large scale, the rest of those laws would remain the same and localized to specific phenomenon involving Underworld.
 
