@@ -3153,7 +3153,7 @@ All of those parallels in design and internal logic, we believe, point to the id
 
 A subtle element of this ambiguity is also found in the description of [Raiment](<https://wiki.spiralknights.com/Raiment_(Costume)>): `A long, flowing battle garb best accessorized with a pair of angelic wings`.
 
-#### Gunslinger Priests
+#### Gunslinger Priests of The Forgotten Time
 
 There exists a griffin-like specie, as described by the [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin): `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`, yet, on the handgun itself there are dragons depicted and only [Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker) and [Sentenza](https://wiki.spiralknights.com/Sentenza) alchemy paths have a creature with a beak.
 
@@ -3659,9 +3659,9 @@ We believe, as Drakon became reincarnation of dragons, so Seraphynxs became rein
 This makes me think that the Kataclysm was the same grim portal, - the maelstrom of curse, - but on a far larger scale, whose size had allowed for the known aftermath. This could explain total erasure of Owlites and transformation or banishment of Kat tribe, transforming the rest in to the spookats and grimalkin. But through [Seraphynx](#seraphynx) it is more or less known how kats have looked originally, moreover having divine attributes to them, or sharing them with Owlites and Valkyries, embodying this period of time.
 
 
-#### The Moon and Nature Sprites
+#### The Moon, Nature Sprites, and Metaphysic Stack
 
-Lastly, due to connection of seemingly nature-themed magic and Nameless Realm, here we suggest a potential inspiration behind Nature Sprites. We have previously discussed their anatomy as closely related to nature, both being fur-coated nature-themed folk and their nature-themed spiral designs of magic [seen in the Firestorm Citadel](#almire-and-spirit-mother).
+Lastly, due to connection of seemingly nature-themed magic and Nameless Realm, here we suggest a potential inspiration behind Nature Sprites. We have previously discussed their anatomy as closely related to nature, both being fur-coated nature-themed civilization and their nature-themed spiral designs of magic [seen in the Firestorm Citadel](#almire-and-spirit-mother).
 
 The idea of those creatures in the context of heavenly, or rather Celestial Kingdom, reminds us of the moon rabbits - Jade Rabbits. They are relevant in the Chinese myth of Hou Yi and Moon Goddess Chang'e.
 
@@ -3673,13 +3673,13 @@ Herein, Moon Rabbits are related to Chang'e, being associated with Chang'e, as w
 
 Due to depiction of the spiral on the Moon's near side, there can be a symbolic meaning for it. But, as Chang'e seemingly differs in her intentions compared to Spirit Mother, this may be only a similarity, rather than a direct inspiration. Although presence of the moon might be relevant in this context, as it can serve as a candidate for the heavenly kingdom, potentially less related to the castles of Clockworks, or even preceding them, as there is an established separation between Celestial beings and Owlites, and yet, both are connected through history. It is on the Moon, according to the myth, Hou Yi constructs a palace for his wife.
 
-Due to how Celestial beings - as valkyries - are positioned in the opposition to Underworld through the [Fallen Valkyrian](#fallen-valkyrian), his fall already involves crossing at least into Underworld - that being 2 realms. So, a dimensional aspect is present, according to the general cosmology, rather than being confined to material realm. And, if we take other religious motifs, this heavenly kingdom, albeit through metaphors, could have been located in a different realm, rather than directly above 3 mountains above Almire, as [discussed earlier](#celestial-kingdom). It would be then still plausible for this heavenly kingdom not to intervene with the Almire's Fall, as they would be located in, supposedly Nameless Realm.
+Due to how Celestial beings - as valkyries - are positioned in the opposition to Underworld through the [Fallen Valkyrian](#fallen-valkyrian), his fall already involves crossing at least into Underworld - that being 2 realms. So, a dimensional aspect is present, according to the general cosmology, rather than being confined to material realm, there are 3 realms to include. And, if we take other religious motifs, this heavenly kingdom, albeit through metaphors, could have been located in a different realm, rather than directly above 3 mountains above Almire, as [discussed earlier](#celestial-kingdom). It would be then still plausible for this heavenly kingdom not to intervene with the Almire's Fall, as they would be located in, supposedly Nameless Realm.
 
-But, this proposal conflicts with the idea of Nameless Realm being forbidden, so there must be a reason for it.
+But, this proposal conflicts with the idea of Nameless Realm being forbidden, so there must be a reason for it. We can suggest, that those modern Owlites discovered the Nameless Realm proper, from which the knowledge of sealing would would be discovered, and, it follows curse symbolism.
 
-There is another inconsistency - that of titans building the kingdom in the material realm, but the kingdom itself would eventually end up in heavens. It can be resolved through the same application of the nature of [Asgard as one located in a different realm](#fiendish-statues). All things considered, this physical and literal, heavenly nature, rather than symbolic, makes a distinction seem consistent across our analysis. So far we will lean onto this guided by myths interpretation.
+This seems to us as a reason for Whitespace existence, as there are no sources pointing at its origins as well as the process of Core construction.
 
-We will hold onto this general concept, as we will discuss its plausibility when last elements of the cosmology will be introduced.
+If heavenly kingdom was both a supernatural and material location, its deeper regions would eventually transition into a different realm, similar to how reality of Cradle was falling into Apocrean Realm within the [Shroud of Apocrea](https://wiki.spiralknights.com/Shroud_of_the_Apocrea_(Mission)). This also fittingly ties with the naming convention both of valkyries, as divine guardians, and as celestials, who did come as [auras and souls](#auras-and-souls) from the higher realm to [corporeal bodies](#corporeal-body), closely connected to the source of souls - our to-be-proposed Nameless Realm, but not directly within it, allowing for a safe transitional state.
 
 <center class="chapter-break">
   <span class="energy">🜏</span>
