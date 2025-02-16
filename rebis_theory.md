@@ -3047,15 +3047,28 @@ Compared to trojans, on defeat, Vanaduke's body completely burns up, with only h
 - `The sinister mask formerly worn by Vanaduke, Lord of the Firestorm Citadel. its far too big for a knight to wear` ([Vanaduke's Mask](https://wiki.spiralknights.com/Lord_Vanaduke%27s_Mask)). It is alchemized with the usage of [Soul Dust](https://wiki.spiralknights.com/Soul_Dust): `The dust of the departed. Whether it still retains any shred of a soul remains to be seen`.
 - `An artistic arrangement of Lord Vanaduke's mask, armor and scepter. It represents the folly of greed, the agony of despair, and how awesome fire and spikes look together` ([Finery](https://wiki.spiralknights.com/Lord_Vanaduke%27s_Finery)).
 
-Mask's description suggest that in was taken of the Lord after the events of the King of Ashes: `The sinister mask formerly worn by Vanaduke, Lord of the Firestorm Citadel. its far too big for a knight to wear` ([Lord Vanaduke's Mask](https://wiki.spiralknights.com/Lord_Vanaduke's_Mask)). Based on this, we lean to an explanation, that in canon timeline, the mask was indeed salvaged, as for the resourced required to alchemize it - they do expand on the state of the mask itself.
+Mask's description suggest that in was taken of the Lord after the events of the King of Ashes: `The sinister mask formerly worn by Vanaduke, Lord of the Firestorm Citadel. its far too big for a knight to wear` ([Lord Vanaduke's Mask](https://wiki.spiralknights.com/Lord_Vanaduke's_Mask)). Based on this, we lean to an explanation, that in canon timeline, __Lord Vanaduke's mask was salvaged__. As for the resourced required to alchemize it - they do expand on the state of the mask itself in a non-diegetic manner. More so, compared to most of the roster of [Armero Alchemy Machine](https://wiki.spiralknights.com/Armero_Alchemy_Machine), Almire's furniture is not said to be replicated:
 
-The presence of remains of Vanaduke's souls can be identified by the themes of equipment alchemized with the Soul Dust, specifically the case of [Skelly Shield](https://wiki.spiralknights.com/Skelly_Shield) alchemy line.
+- `A magnificently preserved royal seal of the lost kingdom of Almire. It probably belongs in a museum` ([Almirian Seal](https://wiki.spiralknights.com/Almirian_Seal_(Furniture))).
+- `A jolly piece of jewelry formerly borne by the Royal Jelly himself. It is jauntily perched on a gelatinous pillow` ([Royal Jelly Crown](https://wiki.spiralknights.com/Royal_Jelly_Crown_(Furniture))).
+
+    That is while [Royal Jelly Crown](https://wiki.spiralknights.com/Royal_Jelly_Crown) as the equipment is stated to be reproduced: `Ruggedly royal regalia recently reproduced from regally resinous remains`. Seemingly the same can be said of [Ice Queen Crown](https://wiki.spiralknights.com/Ice_Queen_Crown): `A regal crown resembling that ever-frigid Ice Queen. In addition to providing great defense, it is said to dramatically boost one's ego and create a cold detachment from those around them`.
+
+- `A squishy gem highly prized by slimes. This one was liberated from the Royal Jelly Palace and painstakingly preserved as a conversation piece` ([Jelly Gem](https://wiki.spiralknights.com/Jelly_Gem_(Furniture))).
+
+The fact that both kingdoms' trophies are considered unique to a degree, we can draw parallels to them containing gremlin consoles, which is a pattern, whose ends are still unknown.
+
+The presence of remains of Vanaduke's soul within his mask can be identified by the themes of equipment alchemized with the Soul Dust, specifically the case of [Skelly Shield](https://wiki.spiralknights.com/Skelly_Shield) alchemy line.
 
 This line of shields was touched upon when we [analyzed truthfulness of Arkus's haunting](#haunting), concluding on it being valid.
 
-Here we delve into alchemical materials for those items, as their presence both for the Mask and the Finery is very specific. The [Sinister Skelly Shield](https://wiki.spiralknights.com/Sinister_Skelly_Shield) is the first one to specify presence of ghost - `A kite shield haunted by a benevolent ghost`, - at the same time as [Blighted Bone](https://wiki.spiralknights.com/Blighted_Bone) is presented into its alchemy. The [Scary Skelly Shield](https://wiki.spiralknights.com/Scary_Skelly_Shield), a 3-star item, is the first to use Soul Dust, but has no mention of haunting: `A small, spooky shield to safeguard you from shadow` ([Scary Skelly Shield](https://wiki.spiralknights.com/Scary_Skelly_Shield)).
+Here we delve into alchemical materials for those items, as their presence both for the Mask and the Finery is very specific.
 
-This tells one thing to us: Soul Dust is not the source of haunting, but blighted bone is the material which ultimately results in __spirit binding to an object__, _likely with the assistance of the Soul Dust and Grave Soil_.
+The [Sinister Skelly Shield](https://wiki.spiralknights.com/Sinister_Skelly_Shield) is the first one to specify presence of ghost - `A kite shield haunted by a benevolent ghost`, - at the same time as [Blighted Bone](https://wiki.spiralknights.com/Blighted_Bone) is presented into its alchemy.
+
+The [Scary Skelly Shield](https://wiki.spiralknights.com/Scary_Skelly_Shield), a 3-star item, is the first to use Soul Dust, but has no mention of haunting: `A small, spooky shield to safeguard you from shadow` ([Scary Skelly Shield](https://wiki.spiralknights.com/Scary_Skelly_Shield)).
+
+This tells one thing to us: Soul Dust is not the source of haunting, but blighted bone is the material which ultimately results in __spirit binding to an object__, likely with the assistance of the Soul Dust and Grave Soil.
 
 This concept can be applied to the distinction between Lord Vanaduke's Mask and Finery, with the latter being seemingly haunted by his presence though burning eys of the mask.
 
