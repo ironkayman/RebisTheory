@@ -21,9 +21,9 @@ _"A Monstrous Research"_
 
 <br/>
 
-> On-site Core research team, Haven Laboratory research team
+>> On-site Core research team, Haven Laboratory research team
 
-This document is meant to group elements of Spiral Knights' worldbuilding and lore into cohesive narratives within the context of singular timeline of the game while focusing on the main themes and motifs in attempt to achieve narratively satisfying closure for the presented story.
+This document is meant to group elements of Spiral Knights' worldbuilding and lore into cohesive narratives, while focusing on the design, themes, and motifs of each and every element of the game. Through this approach, an attempt is made to construct a narratively satisfying closure for the presented story.
 
 <p align="center">
   <img src="{thumbnail}" alt="thumbnail" style="width: 100%; display: block; margin: auto;"/>
@@ -75,7 +75,11 @@ Through the course of this document we will propose why Spiral Knights, or rathe
 
 At first, we will establish rough outline of the cosmology based on rank missions' briefings, dialogue, item, and equipment descriptions. We are not currently concerned with exact in-universe laws, under which each location operates, but with their themes.
 
-While we believe both in-Universe physical laws and symbolic themes are important for the color-coded setting, with no knowledge of the prior, we can rely only on discovered patterns within the stories, and from them assume existence of those laws. Then, we will attempt to find symbolic element to them and cross-reference with mythology and folklore, as stories found there across multitude of cultures will serve us as a scaffolding and approximate guidelines for our theory on what we judge to be fitting thematically from a storytelling perspective while pointing out similarities, which could or could not be a source of inspiration. As for the themes emerging here from the relations between its' elements, they, we believe, as parts of the story, should also be internally consistent.
+While we believe both in-Universe physical laws and symbolic themes are important for the color-coded setting, with no knowledge of the prior, we can rely only on discovered patterns within the stories, and from them assume existence of those laws.
+
+Then, we will attempt to find symbolic element to them and cross-reference with mythology and folklore, as stories found there across multitude of cultures will serve us _as scaffolding and approximate guidelines for our theory on what we judge to be thematically fitting from a storytelling perspective_ while pointing out similarities, which could or could not be a source of inspiration.
+
+As for the themes emerging here from the relations between its' elements, they, we believe, as parts of the story, should also be internally consistent.
 
 Those steps, we believe, would allow us to reverse engineer and understand an internally consistent physical foundation for the story to unfold.
 
