@@ -21,9 +21,7 @@ _"A Monstrous Research"_
 
 <br/>
 
->> On-site Core research team, Haven Laboratory research team
-
-This document is meant to group elements of Spiral Knights' worldbuilding and lore into cohesive narratives, while focusing on the design, themes, and motifs of each and every element of the game. Through this approach, an attempt is made to construct a narratively satisfying closure for the presented story.
+This project is meant to hyperanalyze Spiral Knights' worldbuilding, themes, and lore with an intent of presenting a definite, cohesive, and narratively satisfying closure for the story.
 
 <p align="center">
   <img src="{thumbnail}" alt="thumbnail" style="width: 100%; display: block; margin: auto;"/>
@@ -33,9 +31,9 @@ This document is meant to group elements of Spiral Knights' worldbuilding and lo
 
 ## Preface
 
-It is important to note, that at no point the timeline is considered a single true representation of events, but rather is a series of educated guesses based on game's content, - a theory, that achieves thematic consistency and a certain level of narrative satisfaction. The resulting timeline presented further is an interpretation of those findings.
+It is important to note, that at no point the resulting timeline is considered a single true representation of events, but rather is a series of educated guesses, based on game's content, - a theory, that achieves thematic consistency and a certain level of narrative satisfaction. The resulting timeline presented further is an interpretation of those findings.
 
-But before that, 3 assumptions are made:
+For that, we will follow 3 rules:
 
 1. Rise of Knights is **not used** in the construction of the timeline due to being a cancelled project, unobtainable through regular means.
 2. Cut content is considered **not canon**, for example:
@@ -43,15 +41,19 @@ But before that, 3 assumptions are made:
    - Shadow Lairs enemy designs were finalized through, at least, 1 iteration of the concept, with some older instances of shadow-themed enemies not currently used.
 3. **Recipes are diegetic**. Crafting or, as it is called, alchemy of the gear is done with the intended materials from an in-universe perspective and is historically accurate within the setting.
 
-As for the inspirations, relations to real world history, folklore and mythology, they will be brought up wherein we believe they stand as a potential inspiration for the motifs presented in the work of fiction within a specified context.
+As for the inspirations, relations to folklore and mythology, - they will be brought up wherein we believe they present a case of a plausible and likely inspiration for identified narratives.
 
-Of course, this space of theory-crafting stems from an idea that the analyzed work has ambiguities, left out information, and unanswered questions, that require resolution. It is the nature of those blanks, or even logical contradictions and paradoxes within the work of fiction itself, paired with its themes and general feel, which create conditions for a generally accepted degree of seriousness and thought put into a theory with a capacity to acknowledge some cases as [hand waves](https://tvtropes.org/pmwiki/pmwiki.php/Main/HandWave). This process is accompanied by a constant risk of interpreting and suggesting a meaning that was never thought or implied by the author, as the guesswork itself contains a subjective element.
+With consideration of Spiral Knights as a product of its time, with supposed story vagueness, ambiguities, and unanswered questions, paired with its themes, we propose boundaries for a generally accepted degree of seriousness and thought put into a theory.
 
-With this foundation for a framework with aforementioned risks in mind, we will go through our proposed timeline of events for the universe of Spiral Knights, backed by the analysis of every dialogue, item description, items' designs, the symbolism, the connections, perceived as relevant to a current topic in order to present a cohesive story.
+We acknowledge those boundaries, and then we dwell on the most of trivial, implied, supposed, or even speculated interpretations regarding the story and its details to the point meaninglessness in order to achieve the ultimate goal of closure.
 
-While this thought framework partially relies on myths and folklore of different real-world cultures, it remains subjective, as a level of vagueness in interpretation persists due to undiscovered mythological inspirations or unawareness of those by the authors of this document. To resolve these issues, logical leaps and assumptions as well as thematic narrative analysis are required.
+Due to this intent, this process is primarily subjective, suggesting meaning, that was likely never thought or implied by the authors of the original story.
 
-Through the course of this document we will propose why Spiral Knights, or rather _Cradle itself, is a metaphor on the alchemical Great Work_.
+With this foundation for a framework with aforementioned risks in mind, we will go through our entirety of the story and lore for the universe of Spiral Knights, backed by the analysis of every dialogue, item description, items' designs, symbolism, and connections, perceived as relevant to a current topic in order to present a cohesive story.
+
+As there are undiscovered inspirations and unrecognized themes, unawareness of those by the authors of this document will be resolved through suggestion of multiple resolutions and assumptions.
+
+Through the course of this analysis we will propose why _Spiral Knights is a metaphor on the alchemical Great Work_.
 
 - [Chapter 1](#chapter-i-cosmology) establishes _basic outline of the Spiral Knights' fictional Universe_, its cosmology, creation myth, and first alchemical narratives.
 - Chapters 2-9 introduce main parties of the narrative while building upon the body of the theory through the discussion of themes found along those narratives:
