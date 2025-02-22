@@ -21,7 +21,7 @@ _"A Monstrous Research"_
 
 <br/>
 
-This project is meant to hyperanalyze Spiral Knights' worldbuilding, themes, and lore with an intent of presenting a definite, cohesive, and narratively satisfying closure for the story.
+This project is meant to hyperanalyze Spiral Knights' worldbuilding, themes, and lore with the intent of presenting a definite, cohesive, and narratively satisfying closure for the story.
 
 <p align="center">
   <img src="{thumbnail}" alt="thumbnail" style="width: 100%; display: block; margin: auto;"/>
@@ -33,25 +33,23 @@ This project is meant to hyperanalyze Spiral Knights' worldbuilding, themes, and
 
 It is important to note, that at no point the resulting timeline is considered a single true representation of events, but rather is a series of educated guesses, based on game's content, - a theory, that achieves thematic consistency and a certain level of narrative satisfaction. The resulting timeline presented further is an interpretation of those findings.
 
-For that, we will follow 3 rules:
+In order to achieve cohesiveness, we will follow 3 rules that will outline our scope of work:
 
-1. Rise of Knights is **not used** in the construction of the timeline due to being a cancelled project, unobtainable through regular means.
-2. Cut content is considered **not canon**, for example:
-   - Clockworks design was originally different, such as the Arcade Pillars and Clockwork elevators. While this is true, golden key platforms are still used despite having older, steampunk-inspired design.
-   - Shadow Lairs enemy designs were finalized through, at least, 1 iteration of the concept, with some older instances of shadow-themed enemies not currently used.
-3. **Recipes are diegetic**. Crafting or, as it is called, alchemy of the gear is done with the intended materials from an in-universe perspective and is historically accurate within the setting.
+1. Rise of Knights is __not used__ in the construction of the timeline due to being a cancelled project, unobtainable through regular means.
+2. The content not encountered throughout the game and not documented on the wiki is considered __not canon__.
+
+    We consider that the wiki may lack certain information presented in the game - we will point out those instances as we reference them in the analysis, as well as we will attempt to precisely locate in-game sources of required information.
+3. __Recipes are diegetic__. Crafting and, as it is called in-game, alchemy or transmutation of the equipment is generally done with the intended materials from an in-universe perspective and is historically accurate within the setting.
 
 As for the inspirations, relations to folklore and mythology, - they will be brought up wherein we believe they present a case of a plausible and likely inspiration for identified narratives.
 
-With consideration of Spiral Knights as a product of its time, with supposed story vagueness, ambiguities, and unanswered questions, paired with its themes, we propose boundaries for a generally accepted degree of seriousness and thought put into a theory.
+With consideration of Spiral Knights as a product of its time, with the intended or designed story vagueness, ambiguities, and unanswered questions, paired with setting's themes, we will propose boundaries for a generally accepted degree of seriousness and thought put into a theory.
 
-We acknowledge those boundaries, and then we dwell on the most of trivial, implied, supposed, or even speculated interpretations regarding the story and its details to the point meaninglessness in order to achieve the ultimate goal of closure.
+We acknowledge those boundaries, as we build on the most of trivial, implied, supposed, or even speculated interpretations regarding the story and its details in order to derive as much meaning as plausible for the goal of closure and conclusiveness.
 
 Due to this intent, this process is primarily subjective, suggesting meaning, that was likely never thought or implied by the authors of the original story.
 
-With this foundation for a framework with aforementioned risks in mind, we will go through our entirety of the story and lore for the universe of Spiral Knights, backed by the analysis of every dialogue, item description, items' designs, symbolism, and connections, perceived as relevant to a current topic in order to present a cohesive story.
-
-As there are undiscovered inspirations and unrecognized themes, unawareness of those by the authors of this document will be resolved through suggestion of multiple resolutions and assumptions.
+With this foundation for a framework with aforementioned risks in mind, we will go through the entirety of the story and lore of Spiral Knights, backed by the analysis of every dialogue, item description, items' designs, symbolism, and connections, perceived as relevant to a current topic. As there are undiscovered inspirations and unrecognized themes, unawareness of those by the authors of this document will be resolved through other methods of resolution and assumptions.
 
 Through the course of this analysis we will propose why _Spiral Knights is a metaphor on the alchemical Great Work_.
 
@@ -3088,11 +3086,11 @@ While this may serve as a closure for Almire, Legion of Ur, which we suggested t
 
 #### War of Heavenly Kingdom and Underworld
 
-After assisting Lord Vanaduke, a fiendish army, which we believe is the Legion of Ur, returned into the Underworld.
+After assisting Lord Vanaduke, a fiendish army, which we believe to be so far the Legion of Ur, returned into the Underworld.
 
-Heavenly kingdom up to that moment was not affected by Vanaduke's crusade. But, based on the following items we have evidence of a past conflict between Valkyries and Underworld:
+Heavenly kingdom up to that moment was not affected by Lord Vanaduke's crusade. But, based on the following items we have evidence of a past conflict between Valkyries and Underworld:
 
-- `Its golden frame was believed to provide light within the impenetrable darkness of the Underworld` ([Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin)), - Gunslingers, which we wll discuss soon, have descended into the Underworld.
+- `Its golden frame was believed to provide light within the impenetrable darkness of the Underworld` ([Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin)), - Gunslingers, whom we will discuss soon, have descended into the Underworld.
 
     We suggested that they have advanced technology and magic to allow creation of such handgun, as well as they knew of draconic designs, although here referred as griffins, based on the name and design of dragons on handgun's barrel. The griffin in question may be referring to the apparition of a griffin during handgun's charge.
 - `A holy sword created in another time to arm knights who fought against the legions of the Underworld` ([Avenger](https://wiki.spiralknights.com/Avenger)) and the [Divine Avenger](https://wiki.spiralknights.com/Divine_avenger): `An upgraded Avenger formed from the purest sun steel. There are few foes remaining in this world that are worthy enough to be defeated by such a fine blade, and there are still fewer heroes worthy of wielding it`.
